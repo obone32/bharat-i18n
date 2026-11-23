@@ -1,0 +1,8260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n wordcraft\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "(All)"
+msgstr "(Όλα)"
+
+msgid "(no style)"
+msgstr "(κανένα στυλ)"
+
+msgid "(no suggestions)"
+msgstr "(καμία πρόταση)"
+
+msgid "(normal text)"
+msgstr "(κανονικό κείμενο)"
+
+msgid "(not matched)"
+msgstr "(χωρίς αντιστοίχιση)"
+
+msgid "(picture or object)"
+msgstr "(εικόνα ή αντικείμενο)"
+
+msgid "*Bold* and _italic_ as real formatting"
+msgstr ""
+
+msgid "0 or More Characters"
+msgstr "0 ή περισσότεροι χαρακτήρες"
+
+msgid "1. Formatting restrictions"
+msgstr "1. Περιορισμοί μορφοποίησης"
+
+msgid "1.5 Line Spacing"
+msgstr "Διάστιχο 1,5"
+
+msgid "1/4 Em Space"
+msgstr "Κενό 1/4 em"
+
+msgid "1×2 Empty Matrix"
+msgstr "Κενός πίνακας 1×2"
+
+msgid "1×3 Empty Matrix"
+msgstr "Κενός πίνακας 1×3"
+
+msgid "2. Editing restrictions"
+msgstr "2. Περιορισμοί επεξεργασίας"
+
+msgid "2×1 Empty Matrix"
+msgstr "Κενός πίνακας 2×1"
+
+msgid "2×2 Determinant"
+msgstr "Ορίζουσα 2×2"
+
+msgid "2×2 Empty Matrix"
+msgstr "Κενός πίνακας 2×2"
+
+msgid "2×2 Identity Matrix"
+msgstr "Μοναδιαίος πίνακας 2×2"
+
+msgid "2×2 Identity Matrix (sparse)"
+msgstr "Μοναδιαίος πίνακας 2×2 (αραιός)"
+
+msgid "2×2 Matrix in Brackets"
+msgstr "Πίνακας 2×2 σε αγκύλες"
+
+msgid "2×2 Matrix in Double Bars"
+msgstr "Πίνακας 2×2 σε διπλές μπάρες"
+
+msgid "2×2 Matrix in Parentheses"
+msgstr "Πίνακας 2×2 σε παρενθέσεις"
+
+msgid "2×3 Empty Matrix"
+msgstr "Κενός πίνακας 2×3"
+
+msgid "3-D"
+msgstr "3D"
+
+msgid "3. Start enforcement"
+msgstr "3. Έναρξη επιβολής"
+
+msgid "3×1 Empty Matrix"
+msgstr "Κενός πίνακας 3×1"
+
+msgid "3×2 Empty Matrix"
+msgstr "Κενός πίνακας 3×2"
+
+msgid "3×3 Empty Matrix"
+msgstr "Κενός πίνακας 3×3"
+
+msgid "3×3 Identity Matrix"
+msgstr "Μοναδιαίος πίνακας 3×3"
+
+msgid "3×3 Identity Matrix (sparse)"
+msgstr "Μοναδιαίος πίνακας 3×3 (αραιός)"
+
+msgid "<< Less"
+msgstr "<< Λιγότερα"
+
+msgid "<< Remove"
+msgstr "<< Κατάργηση"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
+msgid "a drawing canvas can't be ungrouped"
+msgstr "ένας καμβάς σχεδίασης δεν μπορεί να αποομαδοποιηθεί"
+
+msgid "a drawing canvas can't go inside a text box"
+msgstr "ένας καμβάς σχεδίασης δεν μπορεί να μπει μέσα σε πλαίσιο κειμένου"
+
+msgid "A file dialog is already open."
+msgstr "Ένα παράθυρο διαλόγου αρχείου είναι ήδη ανοιχτό."
+
+msgid "A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team."
+msgstr "Ένας δωρεάν επεξεργαστής κειμένου ανοιχτού κώδικα, γραμμένος από το μηδέν σε Rust.\nΜέρος των Crafting Apps από την ομάδα ArtCraft."
+
+msgid "a group holding Word ink can't be ungrouped yet"
+msgstr "μια ομάδα που περιέχει μελάνι Word δεν μπορεί ακόμη να αποομαδοποιηθεί"
+
+msgid "A mail merge field"
+msgstr "Ένα πεδίο συγχώνευσης αλληλογραφίας"
+
+msgid "A numbered sequence (figures, tables…)"
+msgstr "Μια αριθμημένη ακολουθία (σχήματα, πίνακες…)"
+
+msgid "A password is required to open this document."
+msgstr "Απαιτείται κωδικός πρόσβασης για το άνοιγμα αυτού του εγγράφου."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
+msgid "A table of contents"
+msgstr "Πίνακας περιεχομένων"
+
+msgid "A xor B"
+msgstr "A xor B"
+
+msgid "A, B, C, …"
+msgstr "A, B, C, …"
+
+msgid "a, b, c, …"
+msgstr "a, b, c, …"
+
+msgid "AaBbCcDd"
+msgstr "AaBbCcDd"
+
+msgid "AaBbYyZz"
+msgstr "AaBbYyZz"
+
+msgid "About WordCraft"
+msgstr "Σχετικά με το WordCraft"
+
+msgid "Above Chart"
+msgstr "Πάνω από το γράφημα"
+
+msgid "Above the item"
+msgstr "Πάνω από το στοιχείο"
+
+msgid "Above/below"
+msgstr ""
+
+msgid "Absolute value cases"
+msgstr "Περιπτώσεις απόλυτης τιμής"
+
+msgid "Accent"
+msgstr "Τόνος"
+
+msgid "Accent Gradient"
+msgstr "Διαβάθμιση τόνου"
+
+msgid "Accent with Reflection"
+msgstr "Τόνος με αντανάκλαση"
+
+msgid "Accent {n}"
+msgstr "Τόνος {n}"
+
+msgid "Accents"
+msgstr "Τόνοι"
+
+msgid "Accept"
+msgstr "Αποδοχή"
+
+msgid "Accept All Changes"
+msgstr "Αποδοχή όλων των αλλαγών"
+
+msgid "Accept All Changes and Stop Tracking"
+msgstr "Αποδοχή όλων των αλλαγών και διακοπή παρακολούθησης"
+
+msgid "Accept and Move to Next"
+msgstr "Αποδοχή και μετακίνηση στο επόμενο"
+
+msgid "Accept This Change"
+msgstr "Αποδοχή αυτής της αλλαγής"
+
+msgid "Accessed on"
+msgstr "Πρόσβαση στις"
+
+msgid "Accessibility Pane"
+msgstr "Παράθυρο προσβασιμότητας"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "Acute"
+msgstr "Οξεία"
+
+msgid "Add >>"
+msgstr "Προσθήκη >>"
+
+msgid "Add a language"
+msgstr ""
+
+msgid "Add a language…"
+msgstr ""
+
+msgid "Add a period with double-space"
+msgstr ""
+
+msgid "Add a Table"
+msgstr "Προσθήκη πίνακα"
+
+msgid "Add at least one field."
+msgstr "Προσθέστε τουλάχιστον ένα πεδίο."
+
+msgid "Add Chart Element"
+msgstr "Προσθήκη στοιχείου γραφήματος"
+
+msgid "Add Condition"
+msgstr "Προσθήκη συνθήκης"
+
+msgid "Add Field"
+msgstr "Προσθήκη πεδίου"
+
+msgid "Add Font…"
+msgstr "Προσθήκη γραμματοσειράς…"
+
+msgid "Add gradient stop"
+msgstr "Προσθήκη σημείου διαβάθμισης"
+
+msgid "Add line numbering"
+msgstr "Προσθήκη αρίθμησης γραμμών"
+
+msgid "Add New Source…"
+msgstr "Προσθήκη νέας πηγής…"
+
+msgid "Add Object to Selection"
+msgstr "Προσθήκη αντικειμένου στην επιλογή"
+
+msgid "Add Pen"
+msgstr "Προσθήκη στυλό"
+
+msgid "Add Row"
+msgstr "Προσθήκη γραμμής"
+
+msgid "Add Series"
+msgstr "Προσθήκη σειράς"
+
+msgid "Add Shape"
+msgstr "Προσθήκη σχήματος"
+
+msgid "Add Space Before Paragraph"
+msgstr "Προσθήκη κενού πριν από την παράγραφο"
+
+msgid "Add space between Asian and Latin text"
+msgstr "Προσθήκη κενού μεταξύ ασιατικού και λατινικού κειμένου"
+
+msgid "Add space between Asian text and numbers"
+msgstr "Προσθήκη κενού μεταξύ ασιατικού κειμένου και αριθμών"
+
+msgid "Add tab stop at:"
+msgstr "Προσθήκη στάσης στηλοθέτη στο:"
+
+msgid "Add Text"
+msgstr "Προσθήκη κειμένου"
+
+msgid "Add the chapter number"
+msgstr "Προσθήκη του αριθμού κεφαλαίου"
+
+msgid "Add to AutoCorrect"
+msgstr ""
+
+msgid "Add to Document"
+msgstr "Προσθήκη στο έγγραφο"
+
+msgid "Add to Quick Access Toolbar"
+msgstr "Προσθήκη στη γραμμή γρήγορης πρόσβασης"
+
+msgid "Add to Style Gallery"
+msgstr "Προσθήκη στη συλλογή στυλ"
+
+msgid "Add whether it is above or below"
+msgstr "Προσθήκη αν βρίσκεται πάνω ή κάτω"
+
+msgid "Add/Edit\nBibliography"
+msgstr "Προσθήκη/επεξεργασία\nβιβλιογραφίας"
+
+msgid "Add/Edit\nCitation"
+msgstr "Προσθήκη/επεξεργασία\nπαραπομπής"
+
+msgid "Add\nNote"
+msgstr "Προσθήκη\nσημείωσης"
+
+msgid "Add\nPen"
+msgstr "Προσθήκη\nπένας"
+
+msgid "Add\nShape"
+msgstr "Προσθήκη\nσχήματος"
+
+msgid "Added 1 font"
+msgstr "Προστέθηκε 1 γραμματοσειρά"
+
+msgid "Added Fonts"
+msgstr "Προστιθέμενες γραμματοσειρές"
+
+msgid "Added {n} fonts"
+msgstr "Προστέθηκαν {n} γραμματοσειρές"
+
+msgid "Address"
+msgstr "Διεύθυνση"
+
+msgid "Address Block"
+msgstr "Μπλοκ διευθύνσεων"
+
+msgid "Address labels"
+msgstr "Ετικέτες διευθύνσεων"
+
+msgid "Address:"
+msgstr "Διεύθυνση:"
+
+msgid "Address\nBlock"
+msgstr "Μπλοκ\nδιευθύνσεων"
+
+msgid "Advanced Find"
+msgstr "Σύνθετη εύρεση"
+
+msgid "Advanced Find…"
+msgstr "Σύνθετη εύρεση…"
+
+msgid "Advanced Properties…"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "After:"
+msgstr "Μετά:"
+
+msgid "Agents"
+msgstr "Πράκτορες"
+
+msgid "Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not."
+msgstr "Οι πράκτορες που είναι συνδεδεμένοι στο WordCraft μπορούν να σας εμφανίζουν μηνύματα μέσω του Βοηθού. Όταν είναι σε σίγαση, ενημερώνονται ότι προτιμάτε να μη λαμβάνετε."
+
+msgid "Ah, Latin. The language of deadlines."
+msgstr "Α, τα Λατινικά. Η γλώσσα των προθεσμιών."
+
+msgid "Ah, the editing phase. My favourite. Very decisive."
+msgstr "Α, η φάση της επεξεργασίας. Η αγαπημένη μου. Πολύ αποφασιστική."
+
+msgid "Albanian"
+msgstr ""
+
+msgid "Align Bottom Center"
+msgstr "Στοίχιση κάτω στο κέντρο"
+
+msgid "Align Bottom Left"
+msgstr "Στοίχιση κάτω αριστερά"
+
+msgid "Align Bottom Right"
+msgstr "Στοίχιση κάτω δεξιά"
+
+msgid "Align Center"
+msgstr "Στοίχιση στο κέντρο"
+
+msgid "Align Center Left"
+msgstr "Στοίχιση κέντρου αριστερά"
+
+msgid "Align Center Right"
+msgstr "Στοίχιση κέντρου δεξιά"
+
+msgid "Align Top Center"
+msgstr "Στοίχιση πάνω στο κέντρο"
+
+msgid "Align Top Left"
+msgstr "Στοίχιση πάνω αριστερά"
+
+msgid "Align Top Right"
+msgstr "Στοίχιση πάνω δεξιά"
+
+msgid "Aligned at:"
+msgstr "Στοίχιση στο:"
+
+msgid "All - Linear"
+msgstr "Όλα - Γραμμικά"
+
+msgid "All - Professional"
+msgstr "Όλα - Επαγγελματικά"
+
+msgid "All Borders"
+msgstr "Όλα τα περιγράμματα"
+
+msgid "All caps"
+msgstr "Όλα κεφαλαία"
+
+msgid "All Commands"
+msgstr "Όλες οι εντολές"
+
+msgid "All documents based on the Normal template?"
+msgstr ""
+
+msgid "All Fonts"
+msgstr "Όλες οι γραμματοσειρές"
+
+msgid "All Levels"
+msgstr "Όλα τα επίπεδα"
+
+msgid "All Markup"
+msgstr "Όλες οι σημάνσεις"
+
+msgid "All pages in the range"
+msgstr "Όλες οι σελίδες στο εύρος"
+
+msgid "All symbol sets"
+msgstr "Όλα τα σύνολα συμβόλων"
+
+msgid "All system fonts are already available."
+msgstr "Όλες οι γραμματοσειρές συστήματος είναι ήδη διαθέσιμες."
+
+msgid "Allow hanging punctuation"
+msgstr "Να επιτρέπεται εκκρεμής στίξη"
+
+msgid "Allow Latin text to wrap in the middle of a word"
+msgstr "Να επιτρέπεται η αναδίπλωση λατινικού κειμένου στη μέση λέξης"
+
+msgid "Allow line breaks"
+msgstr "Να επιτρέπονται αλλαγές γραμμής"
+
+msgid "Allow row to break across pages"
+msgstr "Να επιτρέπεται ο διαχωρισμός γραμμής μεταξύ σελίδων"
+
+msgid "Alphabetical"
+msgstr "Αλφαβητικά"
+
+msgid "Alt Text"
+msgstr "Εναλλακτικό κείμενο"
+
+msgid "Alt text"
+msgstr "Εναλλακτικό κείμενο"
+
+msgid "Alt Text Pane"
+msgstr "Παράθυρο εναλλακτικού κειμένου"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Alt\nText"
+msgstr "Εναλλακτικό\nκείμενο"
+
+msgid "an agent"
+msgstr "ένας πράκτορας"
+
+msgid "An installed Language pack is used after this folder."
+msgstr ""
+
+msgid "And"
+msgstr "Και"
+
+msgid "Angle Brackets"
+msgstr "Γωνιακές αγκύλες"
+
+msgid "Angle Brackets with Separator"
+msgstr "Γωνιακές αγκύλες με διαχωριστικό"
+
+msgid "Angle Brackets with Two Separators"
+msgstr "Γωνιακές αγκύλες με δύο διαχωριστικά"
+
+msgid "Angola"
+msgstr ""
+
+msgid "Animate the caret (it glides and fades)"
+msgstr "Κίνηση του δρομέα (ολισθαίνει και ξεθωριάζει)"
+
+msgid "Animation effects:"
+msgstr "Εφέ κίνησης:"
+
+msgid "Annotation Reference"
+msgstr "Αναφορά σχολιασμού"
+
+msgid "Annotation Subject"
+msgstr "Θέμα σχολιασμού"
+
+msgid "Annotation Text"
+msgstr "Κείμενο σχολιασμού"
+
+msgid "Annoying"
+msgstr "Ενοχλητικό"
+
+msgid "Another file"
+msgstr "Άλλο αρχείο"
+
+msgid "Any Character"
+msgstr "Οποιοσδήποτε χαρακτήρας"
+
+msgid "Any Digit"
+msgstr "Οποιοδήποτε ψηφίο"
+
+msgid "Any field"
+msgstr "Οποιοδήποτε πεδίο"
+
+msgid "Any Letter"
+msgstr "Οποιοδήποτε γράμμα"
+
+msgid "Anyone can open this document. Encrypt it with a password to keep it private."
+msgstr "Οποιοσδήποτε μπορεί να ανοίξει αυτό το έγγραφο. Κρυπτογραφήστε το με κωδικό πρόσβασης για να το κρατήσετε ιδιωτικό."
+
+msgid "Anyone who opens the document will need this password."
+msgstr "Όποιος ανοίξει το έγγραφο θα χρειαστεί αυτόν τον κωδικό πρόσβασης."
+
+msgid "APA"
+msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
+msgid "Apply as you type"
+msgstr "Εφαρμογή κατά την πληκτρολόγηση"
+
+msgid "Apply Asian line-breaking rules (kinsoku)"
+msgstr "Εφαρμογή ασιατικών κανόνων αλλαγής γραμμής (kinsoku)"
+
+msgid "Apply formatting to:"
+msgstr "Εφαρμογή μορφοποίησης σε:"
+
+msgid "Apply Style"
+msgstr "Εφαρμογή στυλ"
+
+msgid "Apply Styles"
+msgstr "Εφαρμογή στυλ"
+
+msgid "Arabic"
+msgstr "Αραβικά"
+
+msgctxt "numerals"
+msgid "Arabic"
+msgstr ""
+
+msgid "Arch Down"
+msgstr "Τόξο προς τα κάτω"
+
+msgid "Arch Up"
+msgstr "Τόξο προς τα πάνω"
+
+msgid "Argentina"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Arrange All"
+msgstr ""
+
+msgid "Arrange\nAll"
+msgstr "Τακτοποίηση\nόλων"
+
+msgid "Article I."
+msgstr "Άρθρο I."
+
+msgid "Artistic Effects"
+msgstr "Καλλιτεχνικά εφέ"
+
+msgid "As Recommended"
+msgstr "Όπως συνιστάται"
+
+msgid "As you type"
+msgstr "Κατά την πληκτρολόγηση"
+
+msgid "ASAP"
+msgstr "ΤΟ ΣΥΝΤΟΜΟΤΕΡΟ ΔΥΝΑΤΟ"
+
+msgid "Asian text font:"
+msgstr "Γραμματοσειρά ασιατικού κειμένου:"
+
+msgid "Asian Typography"
+msgstr "Ασιατική τυπογραφία"
+
+msgid "Assistant"
+msgstr "Βοηθός"
+
+msgid "Assistant Suggestions"
+msgstr "Προτάσεις βοηθού"
+
+msgid "At least"
+msgstr "Τουλάχιστον"
+
+msgid "At least {n}"
+msgstr "Τουλάχιστον {n}"
+
+msgid "Atelier"
+msgstr "Atelier"
+
+msgid "Atmosphere"
+msgstr "Ατμόσφαιρα"
+
+msgid "Attach Template"
+msgstr "Επισύναψη προτύπου"
+
+msgid "Attach…"
+msgstr "Επισύναψη…"
+
+msgid "Australia"
+msgstr ""
+
+msgid "Austria"
+msgstr ""
+
+msgid "Auto orientation"
+msgstr ""
+
+msgid "AutoCorrect"
+msgstr "Αυτόματη διόρθωση"
+
+msgid "AutoCorrect Options"
+msgstr "Επιλογές αυτόματης διόρθωσης"
+
+msgid "AutoCorrect Options…"
+msgstr ""
+
+msgid "AutoFit"
+msgstr "Αυτόματη προσαρμογή"
+
+msgid "AutoFit behavior"
+msgstr "Συμπεριφορά αυτόματης προσαρμογής"
+
+msgid "AutoFit Column by Double-Clicking"
+msgstr "Αυτόματη προσαρμογή στήλης με διπλό κλικ"
+
+msgid "AutoFit Contents"
+msgstr "Αυτόματη προσαρμογή στα περιεχόμενα"
+
+msgid "AutoFit to contents"
+msgstr "Αυτόματη προσαρμογή στα περιεχόμενα"
+
+msgid "AutoFit to window"
+msgstr "Αυτόματη προσαρμογή στο παράθυρο"
+
+msgid "AutoFit Window"
+msgstr "Αυτόματη προσαρμογή στο παράθυρο"
+
+msgid "AutoFormat As You Type"
+msgstr "Αυτόματη μορφοποίηση κατά την πληκτρολόγηση"
+
+msgid "Automatic ({language})"
+msgstr "Αυτόματο ({language})"
+
+msgid "Automatic ({region})"
+msgstr "Αυτόματο ({region})"
+
+msgid "Automatic bulleted lists"
+msgstr "Αυτόματες λίστες με κουκκίδες"
+
+msgid "Automatic follows your system's language. Menus and commands change; your documents don't."
+msgstr "Το Αυτόματο ακολουθεί τη γλώσσα του συστήματός σας. Τα μενού και οι εντολές αλλάζουν· τα έγγραφά σας όχι."
+
+msgid "Automatic numbered lists"
+msgstr "Αυτόματες αριθμημένες λίστες"
+
+msgid "Automatic Table 1 (3 levels)"
+msgstr "Αυτόματος πίνακας 1 (3 επίπεδα)"
+
+msgid "Automatic Table 2 (2 levels)"
+msgstr "Αυτόματος πίνακας 2 (2 επίπεδα)"
+
+msgid "Automatically add words to list (First Letter)"
+msgstr ""
+
+msgid "Automatically add words to list (INitial CAps)"
+msgstr ""
+
+msgid "Automatically hyphenate document"
+msgstr "Αυτόματος συλλαβισμός εγγράφου"
+
+msgid "Automatically Update Document Styles"
+msgstr "Αυτόματη ενημέρωση στυλ εγγράφου"
+
+msgid "Automatically update document styles"
+msgstr "Αυτόματη ενημέρωση στυλ εγγράφου"
+
+msgid "AutoSave documents you have saved in WordCraft"
+msgstr "Αυτόματη αποθήκευση εγγράφων που έχετε αποθηκεύσει στο WordCraft"
+
+msgid "AutoSave failed: {error}. Save the document to turn AutoSave back on."
+msgstr "Η αυτόματη αποθήκευση απέτυχε: {error}. Αποθηκεύστε το έγγραφο για να ενεργοποιήσετε ξανά την αυτόματη αποθήκευση."
+
+msgid "AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy."
+msgstr "Η αυτόματη αποθήκευση δεν είναι διαθέσιμη στο πρόγραμμα περιήγησης: δεν μπορεί να γράψει στα αρχεία σας. Η Αποθήκευση κατεβάζει ένα αντίγραφο."
+
+msgid "AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave."
+msgstr "Η αυτόματη αποθήκευση διατηρεί μόνο αρχεία .docx, .odt και .rtf· το {name} δεν μπορεί να διατηρήσει όλη τη μορφοποίηση. Αποθηκεύστε ως .docx για να ενεργοποιήσετε την αυτόματη αποθήκευση."
+
+msgid "AutoSave saves every change to the file (needs a saved document)"
+msgstr "Η αυτόματη αποθήκευση αποθηκεύει κάθε αλλαγή στο αρχείο (απαιτείται αποθηκευμένο έγγραφο)"
+
+msgid "AutoSave writes your changes to the file a moment after you stop typing."
+msgstr "Η αυτόματη αποθήκευση γράφει τις αλλαγές σας στο αρχείο λίγο αφού σταματήσετε να πληκτρολογείτε."
+
+msgid "AutoText"
+msgstr "Αυτόματο κείμενο"
+
+msgid "B4 (JIS)   10.12\" × 14.33\""
+msgstr "B4 (JIS)   10,12\" × 14,33\""
+
+msgid "B5 (JIS)   7.17\" × 10.12\""
+msgstr "B5 (JIS)   7,17\" × 10,12\""
+
+msgid "Balloons"
+msgstr "Φυσαλίδες"
+
+msgid "Banded Columns"
+msgstr "Εναλλασσόμενες στήλες"
+
+msgid "Banded Rows"
+msgstr "Εναλλασσόμενες γραμμές"
+
+msgid "Base text:"
+msgstr "Βασικό κείμενο:"
+
+msgid "Based on: {style}"
+msgstr "Με βάση: {style}"
+
+msgid "Baseline Dots"
+msgstr "Κουκκίδες γραμμής βάσης"
+
+msgid "Basic Cycle"
+msgstr "Βασικός κύκλος"
+
+msgid "Basic List"
+msgstr "Βασική λίστα"
+
+msgid "Basic Math"
+msgstr "Βασικά μαθηματικά"
+
+msgid "Basic Matrix"
+msgstr "Βασικός πίνακας"
+
+msgid "Basic Process"
+msgstr "Βασική διαδικασία"
+
+msgid "Basic Pyramid"
+msgstr "Βασική πυραμίδα"
+
+msgid "Basic Radial"
+msgstr "Βασικό ακτινωτό"
+
+msgid "Basic Venn"
+msgstr "Βασικό Venn"
+
+msgid "Bayes' rule"
+msgstr "Κανόνας Bayes"
+
+msgid "Before:"
+msgstr "Πριν:"
+
+msgid "Beginning of Word"
+msgstr "Αρχή λέξης"
+
+msgid "Behind Text"
+msgstr "Πίσω από το κείμενο"
+
+msgid "Belarus"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Belgium"
+msgstr ""
+
+msgid "Below text"
+msgstr "Κάτω από το κείμενο"
+
+msgid "Below the item"
+msgstr "Κάτω από το στοιχείο"
+
+msgid "Between"
+msgstr "Μεταξύ"
+
+msgid "Bibliography"
+msgstr "Βιβλιογραφία"
+
+msgid "Binomial Coefficient"
+msgstr "Διωνυμικός συντελεστής"
+
+msgid "Binomial Coefficient (angle)"
+msgstr "Διωνυμικός συντελεστής (γωνία)"
+
+msgid "Binomial Coefficient with Angle Brackets"
+msgstr "Διωνυμικός συντελεστής με γωνιακές αγκύλες"
+
+msgid "Binomial expansion of (x+a)ⁿ"
+msgstr "Διωνυμική ανάπτυξη του (x+a)ⁿ"
+
+msgid "Blank"
+msgstr "Κενό"
+
+msgid "Blank (Three Columns)"
+msgstr "Κενό (τρεις στήλες)"
+
+msgid "Blank document"
+msgstr "Κενό έγγραφο"
+
+msgid "Blank Page"
+msgstr "Κενή σελίδα"
+
+msgid "Block\nAuthors"
+msgstr "Αποκλεισμός\nσυγγραφέων"
+
+msgid "Blue:"
+msgstr "Μπλε:"
+
+msgid "Body Text"
+msgstr "Κύριο κείμενο"
+
+msgid "Body text in a short paragraph to show spacing."
+msgstr "Κύριο κείμενο σε σύντομη παράγραφο για επίδειξη διαστημάτων."
+
+msgid "Bold choice. Ctrl+Z is right there if you need it."
+msgstr "Τολμηρή επιλογή. Το Ctrl+Z είναι εκεί αν το χρειαστείτε."
+
+msgid "Bolivia"
+msgstr ""
+
+msgid "Book"
+msgstr "Βιβλίο"
+
+msgid "Book Title"
+msgstr "Τίτλος βιβλίου"
+
+msgid "Book title"
+msgstr "Τίτλος βιβλίου"
+
+msgid "Bookmark"
+msgstr "Σελιδοδείκτης"
+
+msgid "Bookmark name:"
+msgstr "Όνομα σελιδοδείκτη:"
+
+msgid "Bookmark text"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Border lines"
+msgstr "Γραμμές περιγράμματος"
+
+msgid "Border Painter"
+msgstr "Ζωγράφος περιγραμμάτων"
+
+msgid "Border\nPainter"
+msgstr "Ζωγράφος\nπεριγραμμάτων"
+
+msgid "Borders and Shading"
+msgstr "Περιγράμματα και σκίαση"
+
+msgid "Borders and Shading…"
+msgstr "Περιγράμματα και σκίαση…"
+
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgid "Bosnian"
+msgstr ""
+
+msgid "Both Sides"
+msgstr "Και στις δύο πλευρές"
+
+msgid "Bottom Border"
+msgstr "Κάτω περίγραμμα"
+
+msgid "Bottom Left Cell"
+msgstr "Κάτω αριστερό κελί"
+
+msgid "Bottom Margin"
+msgstr "Κάτω περιθώριο"
+
+msgid "Bottom of Page"
+msgstr "Κάτω μέρος σελίδας"
+
+msgid "Bottom Right Cell"
+msgstr "Κάτω δεξί κελί"
+
+msgid "Box"
+msgstr "Πλαίσιο"
+
+msgid "Boxed Formula"
+msgstr "Πλαισιωμένος τύπος"
+
+msgid "Boxed Formula (example)"
+msgstr "Πλαισιωμένος τύπος (παράδειγμα)"
+
+msgid "Boxed Formulas"
+msgstr "Πλαισιωμένοι τύποι"
+
+msgid "Braces"
+msgstr "Άγκιστρα"
+
+msgid "Braces with Separator"
+msgstr "Άγκιστρα με διαχωριστικό"
+
+msgid "Bracket"
+msgstr "Αγκύλη"
+
+msgid "Brackets"
+msgstr "Αγκύλες"
+
+msgid "Brackets with Separators"
+msgstr "Αγκύλες με διαχωριστικά"
+
+msgid "Brazil"
+msgstr ""
+
+msgid "Breaks"
+msgstr "Αλλαγές"
+
+msgid "Breve"
+msgstr "Βραχεία"
+
+msgid "Bright Green"
+msgstr ""
+
+msgid "Brighter +20%"
+msgstr ""
+
+msgid "Brightness, contrast and sharpness"
+msgstr ""
+
+msgid "Browse in WordCraft…"
+msgstr "Περιήγηση στο WordCraft…"
+
+msgid "Building Block Gallery Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου συλλογής δομικών στοιχείων"
+
+msgid "Built in"
+msgstr ""
+
+msgid "Built-In"
+msgstr "Ενσωματωμένο"
+
+msgid "Built-in Heading styles"
+msgstr ""
+
+msgid "Built-in style"
+msgstr "Ενσωματωμένο στυλ"
+
+msgid "Built-in styles can't be deleted."
+msgstr "Τα ενσωματωμένα στυλ δεν μπορούν να διαγραφούν."
+
+msgid "Bulgarian"
+msgstr ""
+
+msgid "Bullet Library"
+msgstr "Βιβλιοθήκη κουκκίδων"
+
+msgid "Bullets"
+msgstr "Κουκκίδες"
+
+msgid "By author"
+msgstr "Ανά συγγραφέα"
+
+msgid "Cabo Verde"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+msgid "Can't be deleted"
+msgstr "Δεν μπορεί να διαγραφεί"
+
+msgid "Can't find a command? Press Alt+Q and type what you want to do."
+msgstr ""
+
+msgid "Can't find a command? Press {key} and type what you want to do."
+msgstr "Δεν βρίσκετε μια εντολή; Πατήστε {key} και πληκτρολογήστε τι θέλετε να κάνετε."
+
+msgid "can't split at the first row"
+msgstr "δεν είναι δυνατός ο διαχωρισμός στην πρώτη γραμμή"
+
+msgid "Canada"
+msgstr ""
+
+msgid "Canvas Member"
+msgstr "Μέλος καμβά"
+
+msgid "Capitalize Each Word"
+msgstr "Κεφαλαίο σε κάθε λέξη"
+
+msgid "Capitalize first letter of sentences"
+msgstr "Κεφαλαίο πρώτο γράμμα προτάσεων"
+
+msgid "Capitalize first letter of table cells"
+msgstr "Κεφαλαίο πρώτο γράμμα κελιών πίνακα"
+
+msgid "Capitalize names of days"
+msgstr "Κεφαλαίο σε ονόματα ημερών"
+
+msgid "Capitalize the first word of a sentence"
+msgstr "Κεφαλαίο στην πρώτη λέξη πρότασης"
+
+msgid "Caption Numbering"
+msgstr "Αρίθμηση λεζάντας"
+
+msgid "Caption text"
+msgstr "Κείμενο λεζάντας"
+
+msgid "Caption:"
+msgstr "Λεζάντα:"
+
+msgid "Captions"
+msgstr "Λεζάντες"
+
+msgid "Careful, any further back and we'll undo the invention of paper."
+msgstr "Προσοχή, λίγο ακόμη και θα αναιρέσουμε την εφεύρεση του χαρτιού."
+
+msgid "Caret Character"
+msgstr "Χαρακτήρας περισπωμένης"
+
+msgid "Case changes"
+msgstr "Αλλαγές πεζών/κεφαλαίων"
+
+msgid "Cases (Three Conditions)"
+msgstr "Περιπτώσεις (τρεις συνθήκες)"
+
+msgid "Cases (Two Conditions)"
+msgstr "Περιπτώσεις (δύο συνθήκες)"
+
+msgid "Cases and Stacks"
+msgstr "Περιπτώσεις και στοίβες"
+
+msgid "Catalan"
+msgstr ""
+
+msgid "Catalan (Valencian)"
+msgstr ""
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Categories:"
+msgstr "Κατηγορίες:"
+
+msgid "Category {n}"
+msgstr "Κατηγορία {n}"
+
+msgid "Ceiling"
+msgstr "Οροφή"
+
+msgid "Cell"
+msgstr "Κελί"
+
+msgid "Cell Margins"
+msgstr "Περιθώρια κελιού"
+
+msgid "Cell\nMargins"
+msgstr "Περιθώρια\nκελιού"
+
+msgid "Center Glow"
+msgstr "Κεντρική λάμψη"
+
+msgid "Centered as Group"
+msgstr "Στο κέντρο ως ομάδα"
+
+msgid "Change Chart Type"
+msgstr "Αλλαγή τύπου γραφήματος"
+
+msgid "Change Colors"
+msgstr "Αλλαγή χρωμάτων"
+
+msgid "Change in y over change in x"
+msgstr "Μεταβολή y προς μεταβολή x"
+
+msgid "Change Layout"
+msgstr "Αλλαγή διάταξης"
+
+msgid "Change List Level"
+msgstr "Αλλαγή επιπέδου λίστας"
+
+msgid "Change Password…"
+msgstr "Αλλαγή κωδικού πρόσβασης…"
+
+msgid "Change Picture"
+msgstr "Αλλαγή εικόνας"
+
+msgid "Change Picture…"
+msgstr "Αλλαγή εικόνας…"
+
+msgid "Change Shape"
+msgstr "Αλλαγή σχήματος"
+
+msgid "Change Structure"
+msgstr "Αλλαγή δομής"
+
+msgid "Change to Display"
+msgstr "Αλλαγή σε εμφάνιση"
+
+msgid "Change to Inline"
+msgstr "Αλλαγή σε ενσωματωμένο"
+
+msgid "Change to Level 1"
+msgstr "Αλλαγή σε επίπεδο 1"
+
+msgid "Change to Level 2"
+msgstr "Αλλαγή σε επίπεδο 2"
+
+msgid "Change to Level 3"
+msgstr "Αλλαγή σε επίπεδο 3"
+
+msgid "Change to Level 4"
+msgstr "Αλλαγή σε επίπεδο 4"
+
+msgid "Change to Level 5"
+msgstr "Αλλαγή σε επίπεδο 5"
+
+msgid "Change to Level 6"
+msgstr "Αλλαγή σε επίπεδο 6"
+
+msgid "Change to Level 7"
+msgstr "Αλλαγή σε επίπεδο 7"
+
+msgid "Change to Level 8"
+msgstr "Αλλαγή σε επίπεδο 8"
+
+msgid "Change to Level 9"
+msgstr "Αλλαγή σε επίπεδο 9"
+
+msgid "Change to:"
+msgstr ""
+
+msgid "Change\nChart Type"
+msgstr "Αλλαγή τύπου\nγραφήματος"
+
+msgid "Change\nColors"
+msgstr "Αλλαγή\nχρωμάτων"
+
+msgid "Changed lines:"
+msgstr "Αλλαγμένες γραμμές:"
+
+msgid "Changes"
+msgstr "Αλλαγές"
+
+msgid "Change…"
+msgstr ""
+
+msgid "Chapter 1"
+msgstr "Κεφάλαιο 1"
+
+msgid "Chapter in a book"
+msgstr "Κεφάλαιο σε βιβλίο"
+
+msgid "Chapters begin at:"
+msgstr "Τα κεφάλαια ξεκινούν από:"
+
+msgid "Character Border"
+msgstr "Περίγραμμα χαρακτήρα"
+
+msgid "Character code:"
+msgstr "Κωδικός χαρακτήρα:"
+
+msgid "Character in Range"
+msgstr "Χαρακτήρας στο εύρος"
+
+msgid "Character level"
+msgstr "Επίπεδο χαρακτήρα"
+
+msgid "Character Position"
+msgstr "Θέση χαρακτήρα"
+
+msgid "Character Scale"
+msgstr "Κλίμακα χαρακτήρα"
+
+msgid "Character Shading"
+msgstr "Σκίαση χαρακτήρα"
+
+msgid "Character Spacing"
+msgstr "Απόσταση χαρακτήρων"
+
+msgid "Character spacing"
+msgstr "Απόσταση χαρακτήρων"
+
+msgid "Character style"
+msgstr "Στυλ χαρακτήρα"
+
+msgid "Characters (no spaces)"
+msgstr "Χαρακτήρες (χωρίς κενά)"
+
+msgid "Characters (with spaces)"
+msgstr "Χαρακτήρες (με κενά)"
+
+msgid "Characters per line:"
+msgstr "Χαρακτήρες ανά γραμμή:"
+
+msgid "Chart"
+msgstr "Γράφημα"
+
+msgid "Chart Design"
+msgstr "Σχεδίαση γραφήματος"
+
+msgid "Chart Layouts"
+msgstr "Διατάξεις γραφήματος"
+
+msgid "Chart Title"
+msgstr "Τίτλος γραφήματος"
+
+msgid "charts and diagrams can't be moved or resized yet"
+msgstr "γραφήματα και διαγράμματα δεν μπορούν ακόμη να μετακινηθούν ή να αλλάξουν μέγεθος"
+
+msgid "Check"
+msgstr "Σημάδι"
+
+msgid "Check Accessibility"
+msgstr "Έλεγχος προσβασιμότητας"
+
+msgid "Check Box Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου πλαισίου ελέγχου"
+
+msgid "Check Compatibility"
+msgstr "Έλεγχος συμβατότητας"
+
+msgid "Check for Errors"
+msgstr "Έλεγχος για σφάλματα"
+
+msgid "Check for\nUpdates…"
+msgstr ""
+
+msgid "Check Spelling as You Type"
+msgstr "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση"
+
+msgid "Check spelling as you type"
+msgstr "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση"
+
+msgid "Check\nAccessibility"
+msgstr "Έλεγχος\nπροσβασιμότητας"
+
+msgid "Checked styles are allowed:"
+msgstr "Επιτρέπονται τα επιλεγμένα στυλ:"
+
+msgid "Checked symbol"
+msgstr "Επιλεγμένο σύμβολο"
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Chevron Down"
+msgstr "Σημάδι V κάτω"
+
+msgid "Chevron Up"
+msgstr "Σημάδι V πάνω"
+
+msgid "Chicago"
+msgstr "Chicago"
+
+msgid "Chile"
+msgstr ""
+
+msgid "China"
+msgstr ""
+
+msgid "Chinese (Simplified)"
+msgstr "Κινεζικά (απλοποιημένα)"
+
+msgid "Chinese (Traditional)"
+msgstr "Κινεζικά (παραδοσιακά)"
+
+msgid "Choose a command"
+msgstr "Επιλέξτε μια εντολή"
+
+msgid "Choose a shortcut"
+msgstr "Επιλέξτε συντόμευση"
+
+msgid "Choose List Item"
+msgstr "Επιλογή στοιχείου λίστας"
+
+msgid "Choose the sheet that holds the recipients."
+msgstr "Επιλέξτε το φύλλο που περιέχει τους παραλήπτες."
+
+msgid "Circle area from its radius"
+msgstr "Εμβαδόν κύκλου από την ακτίνα"
+
+msgid "Circled Dot"
+msgstr "Κυκλωμένη τελεία"
+
+msgid "Circled Plus"
+msgstr "Κυκλωμένο συν"
+
+msgid "Circled Times"
+msgstr "Κυκλωμένο επί"
+
+msgid "Citation Style"
+msgstr "Στυλ παραπομπής"
+
+msgid "Citations"
+msgstr "Παραπομπές"
+
+msgid "Citations & Bibliography"
+msgstr "Παραπομπές και βιβλιογραφία"
+
+msgid "Clear All Formatting"
+msgstr "Εκκαθάριση όλης της μορφοποίησης"
+
+msgid "Clear Character Formatting"
+msgstr "Εκκαθάριση μορφοποίησης χαρακτήρα"
+
+msgid "Clear Character Style"
+msgstr "Εκκαθάριση στυλ χαρακτήρα"
+
+msgid "Clear Formatting Level"
+msgstr "Εκκαθάριση επιπέδου μορφοποίησης"
+
+msgid "Clear Paragraph Formatting"
+msgstr "Εκκαθάριση μορφοποίησης παραγράφου"
+
+msgid "Click a border between two cells to merge them. Esc stops."
+msgstr "Κάντε κλικ σε ένα περίγραμμα μεταξύ δύο κελιών για να τα συγχωνεύσετε. Esc για έξοδο."
+
+msgid "Click an item to paste it."
+msgstr "Κάντε κλικ σε ένα στοιχείο για επικόλληση."
+
+msgid "Click level to modify:"
+msgstr "Κάντε κλικ στο επίπεδο για τροποποίηση:"
+
+msgid "Click the empty text box the text should continue in (Esc cancels)"
+msgstr "Κάντε κλικ στο κενό πλαίσιο κειμένου όπου θα συνεχιστεί το κείμενο (Esc ακυρώνει)"
+
+msgid "Click to switch back to inserting"
+msgstr "Κάντε κλικ για επιστροφή στην εισαγωγή"
+
+msgid "Clipboard Contents"
+msgstr "Περιεχόμενα προχείρου"
+
+msgid "Clipboard Items"
+msgstr "Στοιχεία προχείρου"
+
+msgid "Clipboard Pane"
+msgstr "Παράθυρο προχείρου"
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close Equation"
+msgstr "Κλείσιμο εξίσωσης"
+
+msgid "Close Header and Footer"
+msgstr "Κλείσιμο κεφαλίδας και υποσέλιδου"
+
+msgid "Close Outline View"
+msgstr "Κλείσιμο προβολής διάρθρωσης"
+
+msgid "Close Outline\nView"
+msgstr "Κλείσιμο προβολής\nδιάρθρωσης"
+
+msgid "Clustered Bar"
+msgstr "Ομαδοποιημένες ράβδοι"
+
+msgid "Clustered Column"
+msgstr "Ομαδοποιημένες στήλες"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "Col #:"
+msgstr "Αρ. στήλης:"
+
+msgid "Collapse Selection"
+msgstr "Σύμπτυξη επιλογής"
+
+msgid "Collate copies"
+msgstr "Συγκέντρωση αντιτύπων"
+
+msgid "Collect entries from:"
+msgstr "Συλλογή καταχωρήσεων από:"
+
+msgid "Colombia"
+msgstr ""
+
+msgid "Colon Equal"
+msgstr "Άνω-κάτω τελεία ίσον"
+
+msgid "Color model:"
+msgstr "Μοντέλο χρώματος:"
+
+msgid "Color only"
+msgstr "Μόνο χρώμα"
+
+msgid "Color: {color}"
+msgstr "Χρώμα: {color}"
+
+msgid "Colorful"
+msgstr "Πολύχρωμο"
+
+msgid "Column"
+msgstr "Στήλη"
+
+msgid "Column Break"
+msgstr "Αλλαγή στήλης"
+
+msgid "Column Selection"
+msgstr "Επιλογή στήλης"
+
+msgid "Column {n}"
+msgstr "Στήλη {n}"
+
+msgid "Column:"
+msgstr "Στήλη:"
+
+msgid "Combine Documents"
+msgstr "Συνδυασμός εγγράφων"
+
+msgid "Combo Box Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου σύνθετου πλαισίου"
+
+msgid "Commands"
+msgstr "Εντολές"
+
+msgid "Commas"
+msgstr "Κόμματα"
+
+msgid "Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text."
+msgstr "Σχόλια δίπλα σε κάθε σελίδα και παρακολουθούμενες αλλαγές σε PDF, εκτυπώσεις και εικόνες· λίστα σχολίων στο τέλος ιστοσελίδων, Markdown και κειμένου."
+
+msgid "Comments Pane"
+msgstr "Παράθυρο σχολίων"
+
+msgid "Common Accent Objects"
+msgstr "Συνήθη αντικείμενα τόνου"
+
+msgid "Common Brackets"
+msgstr "Συνήθεις αγκύλες"
+
+msgid "Common Fractions"
+msgstr "Συνήθη κλάσματα"
+
+msgid "Common Functions"
+msgstr "Συνήθεις συναρτήσεις"
+
+msgid "Common Large Operators"
+msgstr "Συνήθεις μεγάλοι τελεστές"
+
+msgid "Common Operator Structures"
+msgstr "Συνήθεις δομές τελεστών"
+
+msgid "Common Operators"
+msgstr "Συνήθεις τελεστές"
+
+msgid "Common Radicals"
+msgstr "Συνήθη ριζικά"
+
+msgid "Common Subscripts and Superscripts"
+msgstr "Συνήθεις δείκτες και εκθέτες"
+
+msgid "Communication"
+msgstr "Επικοινωνία"
+
+msgid "Community\nDiscord"
+msgstr "Κοινότητα\nDiscord"
+
+msgid "Compact"
+msgstr "Συμπαγές"
+
+msgid "Compare Documents"
+msgstr "Σύγκριση εγγράφων"
+
+msgid "Compare to"
+msgstr "Σύγκριση με"
+
+msgid "Compared: {changes} changes"
+msgstr "Συγκρίθηκαν: {changes} αλλαγές"
+
+msgid "Comparing with another file needs the desktop app."
+msgstr "Η σύγκριση με άλλο αρχείο απαιτεί την εφαρμογή υπολογιστή."
+
+msgid "Comparison settings"
+msgstr "Ρυθμίσεις σύγκρισης"
+
+msgid "Compress Pictures"
+msgstr "Συμπίεση εικόνων"
+
+msgid "Compress punctuation at the start of a line"
+msgstr "Συμπίεση στίξης στην αρχή γραμμής"
+
+msgid "Conference"
+msgstr "Διάσκεψη"
+
+msgid "Conference paper"
+msgstr "Εργασία διάσκεψης"
+
+msgid "CONFIDENTIAL"
+msgstr "ΕΜΠΙΣΤΕΥΤΙΚΟ"
+
+msgid "Confirm password:"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης:"
+
+msgid "Connect Shapes"
+msgstr "Σύνδεση σχημάτων"
+
+msgid "Container Title"
+msgstr "Τίτλος περιέκτη"
+
+msgid "Content Control at Selection"
+msgstr "Στοιχείο ελέγχου περιεχομένου στην επιλογή"
+
+msgid "Content Control Properties"
+msgstr "Ιδιότητες στοιχείου ελέγχου περιεχομένου"
+
+msgid "Contents can't be edited"
+msgstr "Τα περιεχόμενα δεν μπορούν να επεξεργαστούν"
+
+msgid "Context"
+msgstr "Πλαίσιο"
+
+msgctxt "numerals"
+msgid "Context"
+msgstr ""
+
+msgid "Continue from previous section"
+msgstr "Συνέχεια από προηγούμενη ενότητα"
+
+msgid "Continue without restoring"
+msgstr ""
+
+msgid "Continuous"
+msgstr "Συνεχές"
+
+msgid "Continuous numbering"
+msgstr "Συνεχής αρίθμηση"
+
+msgid "Contour Integral"
+msgstr "Επικαμπύλιο ολοκλήρωμα"
+
+msgid "Contour Integral with Limits"
+msgstr "Επικαμπύλιο ολοκλήρωμα με όρια"
+
+msgid "Contour Integral with Stacked Limits"
+msgstr "Επικαμπύλιο ολοκλήρωμα με στοιβαγμένα όρια"
+
+msgid "Contour Integrals"
+msgstr "Επικαμπύλια ολοκληρώματα"
+
+msgid "Controls"
+msgstr "Στοιχεία ελέγχου"
+
+msgid "Conversions"
+msgstr "Μετατροπές"
+
+msgid "Convert between built-up and linear form"
+msgstr "Μετατροπή μεταξύ δομημένης και γραμμικής μορφής"
+
+msgid "Convert Notes"
+msgstr "Μετατροπή σημειώσεων"
+
+msgid "Convert Text to Table"
+msgstr "Μετατροπή κειμένου σε πίνακα"
+
+msgid "Convert Text to Table…"
+msgstr "Μετατροπή κειμένου σε πίνακα…"
+
+msgid "Convert to Shapes"
+msgstr "Μετατροπή σε σχήματα"
+
+msgid "Convert to Text"
+msgstr "Μετατροπή σε κείμενο"
+
+msgid "Coproduct"
+msgstr "Συνγινόμενο"
+
+msgid "Coproduct with Limits"
+msgstr "Συνγινόμενο με όρια"
+
+msgid "Coproduct with Lower Limit"
+msgstr "Συνγινόμενο με κάτω όριο"
+
+msgid "Coproduct with Subscript-Superscript Limits"
+msgstr "Συνγινόμενο με όρια δείκτη-εκθέτη"
+
+msgid "Copy Formatting"
+msgstr "Αντιγραφή μορφοποίησης"
+
+msgid "Copy of the text a bookmark marks"
+msgstr "Αντίγραφο του κειμένου που επισημαίνει σελιδοδείκτης"
+
+msgid "Copy Styles"
+msgstr "Αντιγραφή στυλ"
+
+msgid "Copy to"
+msgstr "Αντιγραφή σε"
+
+msgid "Copyright Sign"
+msgstr "Σύμβολο πνευματικών δικαιωμάτων"
+
+msgid "Corporate Author"
+msgstr ""
+
+msgid "Correct accidental usage of cAPS LOCK key"
+msgstr "Διόρθωση τυχαίας χρήσης του πλήκτρου cAPS LOCK"
+
+msgid "Correct TWo INitial CApitals"
+msgstr "Διόρθωση ΔΥο ΑΡχικών ΚΕφαλαίων"
+
+msgid "Corrections"
+msgstr "Διορθώσεις"
+
+msgid "Cosecant Function"
+msgstr "Συνάρτηση συντέμνουσας"
+
+msgid "Cosine 2x"
+msgstr "Συνημίτονο 2x"
+
+msgid "Cosine Function"
+msgstr "Συνάρτηση συνημιτόνου"
+
+msgid "Costa Rica"
+msgstr ""
+
+msgid "Cotangent Function"
+msgstr "Συνάρτηση συνεφαπτομένης"
+
+msgid "Could not check for updates:\n{error}"
+msgstr ""
+
+msgid "Couldn't download {name}: {error}"
+msgstr "Δεν ήταν δυνατή η λήψη του {name}: {error}"
+
+msgid "Couldn't get the list of languages: {error}"
+msgstr ""
+
+msgid "Couldn't install: {error}"
+msgstr ""
+
+msgid "Couldn't make WordCraft the default: {error}"
+msgstr "Δεν ήταν δυνατός ο ορισμός του WordCraft ως προεπιλογή: {error}"
+
+msgid "Couldn't open {path}: {error}"
+msgstr "Δεν ήταν δυνατό το άνοιγμα του {path}: {error}"
+
+msgid "Couldn't remove: {error}"
+msgstr ""
+
+msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
+msgstr ""
+
+msgid "Couldn't turn on downloading: {error}"
+msgstr ""
+
+msgid "Count by:"
+msgstr "Μέτρηση ανά:"
+
+msgid "Count words in text boxes and notes"
+msgstr "Μέτρηση λέξεων σε πλαίσια κειμένου και σημειώσεις"
+
+msgid "Courtesy Title"
+msgstr "Τίτλος ευγενείας"
+
+msgid "Cover Page"
+msgstr "Εξώφυλλο"
+
+msgid "Craft"
+msgstr "Craft"
+
+msgid "Create a Style"
+msgstr "Δημιουργία στυλ"
+
+msgid "Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document."
+msgstr "Δημιουργήστε μια διαδραστική διάρθρωση του εγγράφου σας.\n\nΕίναι ένας εξαιρετικός τρόπος να παρακολουθείτε πού βρίσκεστε ή να μετακινείτε γρήγορα το περιεχόμενό σας.\n\nΓια να ξεκινήσετε, μεταβείτε στην καρτέλα Κεντρική και εφαρμόστε στυλ επικεφαλίδας στις επικεφαλίδες του εγγράφου σας."
+
+msgid "Create Graphic"
+msgstr "Δημιουργία γραφικού"
+
+msgid "Create Link"
+msgstr "Δημιουργία σύνδεσης"
+
+msgid "Create New Style"
+msgstr "Δημιουργία νέου στυλ"
+
+msgid "Create Source"
+msgstr "Δημιουργία πηγής"
+
+msgid "Croatian"
+msgstr "Κροατικά"
+
+msgid "Crop on the page works on unturned pictures: set Rotation to 0° first, or use the crop boxes"
+msgstr ""
+
+msgid "Cross-reference"
+msgstr "Παραπομπή"
+
+msgid "Cross-reference:"
+msgstr "Παραπομπή:"
+
+msgid "Ctrl+Enter starts a new page. Much tidier than pressing Enter until it happens."
+msgstr ""
+
+msgid "Ctrl+H finds and replaces text, formatting and special characters."
+msgstr ""
+
+msgid "Ctrl+K turns the selected text into a link."
+msgstr ""
+
+msgid "Ctrl+Shift+G counts your words, characters and paragraphs."
+msgstr ""
+
+msgid "Cuba"
+msgstr ""
+
+msgid "Cube Root"
+msgstr "Κυβική ρίζα"
+
+msgid "Current - Linear"
+msgstr "Τρέχον - Γραμμικό"
+
+msgid "Current - Professional"
+msgstr "Τρέχον - Επαγγελματικό"
+
+msgid "Current Document"
+msgstr ""
+
+msgid "Current Position"
+msgstr "Τρέχουσα θέση"
+
+msgid "Current record"
+msgstr "Τρέχουσα εγγραφή"
+
+msgid "Current style: {style}"
+msgstr "Τρέχον στυλ: {style}"
+
+msgid "Curved Arrow Connector"
+msgstr "Καμπύλος συνδετήρας βέλους"
+
+msgid "Curved Connector"
+msgstr "Καμπύλος συνδετήρας"
+
+msgid "Custom dictionary"
+msgstr "Προσαρμοσμένο λεξικό"
+
+msgid "Custom Document Properties"
+msgstr ""
+
+msgid "Custom Margins…"
+msgstr "Προσαρμοσμένα περιθώρια…"
+
+msgid "Custom mark:"
+msgstr "Προσαρμοσμένο σημάδι:"
+
+msgid "Custom range"
+msgstr "Προσαρμοσμένο εύρος"
+
+msgid "Custom size"
+msgstr "Προσαρμοσμένο μέγεθος"
+
+msgid "Custom Table of Contents…"
+msgstr "Προσαρμοσμένος πίνακας περιεχομένων…"
+
+msgid "Custom Watermark"
+msgstr "Προσαρμοσμένο υδατογράφημα"
+
+msgid "Custom Watermark…"
+msgstr "Προσαρμοσμένο υδατογράφημα…"
+
+msgid "Customize"
+msgstr "Προσαρμογή"
+
+msgid "Customize Keyboard"
+msgstr "Προσαρμογή πληκτρολογίου"
+
+msgid "Customize Quick Access Toolbar"
+msgstr "Προσαρμογή γραμμής γρήγορης πρόσβασης"
+
+msgid "Customize Quick Access Toolbar…"
+msgstr "Προσαρμογή γραμμής γρήγορης πρόσβασης…"
+
+msgid "Customize Ribbon"
+msgstr "Προσαρμογή κορδέλας"
+
+msgid "Customize the Ribbon…"
+msgstr "Προσαρμογή της κορδέλας…"
+
+msgid "Cycle"
+msgstr "Κύκλος"
+
+msgid "Cyprus"
+msgstr ""
+
+msgid "Czech"
+msgstr "Τσεχικά"
+
+msgid "Danish"
+msgstr "Δανικά"
+
+msgid "Dark Blue"
+msgstr ""
+
+msgid "Dark Mode"
+msgstr "Σκοτεινή λειτουργία"
+
+msgid "Dark page (white text on black)"
+msgstr "Σκοτεινή σελίδα (λευκό κείμενο σε μαύρο)"
+
+msgid "Dark Red"
+msgstr ""
+
+msgid "Dark Variations"
+msgstr "Σκοτεινές παραλλαγές"
+
+msgid "Dark with Shadow"
+msgstr "Σκούρο με σκιά"
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Darker −20%"
+msgstr ""
+
+msgid "Darkroom"
+msgstr "Σκοτεινός θάλαμος"
+
+msgid "Data Labels"
+msgstr "Ετικέτες δεδομένων"
+
+msgid "Date & Time"
+msgstr "Ημερομηνία και ώρα"
+
+msgid "Date formats:"
+msgstr "Μορφές ημερομηνίας:"
+
+msgid "Date Picker Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου επιλογέα ημερομηνίας"
+
+msgid "Day"
+msgstr "Ημέρα"
+
+msgid "Decimal"
+msgstr "Δεκαδικό"
+
+msgid "Decorative objects only add visual interest: screen readers skip them."
+msgstr "Τα διακοσμητικά αντικείμενα προσθέτουν μόνο οπτικό ενδιαφέρον: οι αναγνώστες οθόνης τα παραλείπουν."
+
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
+msgid "Decrease Indent"
+msgstr "Μείωση εσοχής"
+
+msgid "Deep"
+msgstr "Βαθύ"
+
+msgid "Default formatting"
+msgstr ""
+
+msgid "Default Paragraph Font"
+msgstr "Προεπιλεγμένη γραμματοσειρά παραγράφου"
+
+msgid "Default tab stops:"
+msgstr "Προεπιλεγμένοι στηλοθέτες:"
+
+msgid "Define New Bullet"
+msgstr "Ορισμός νέας κουκκίδας"
+
+msgid "Define New Multilevel List"
+msgstr "Ορισμός νέας λίστας πολλών επιπέδων"
+
+msgid "Define New Multilevel List…"
+msgstr "Ορισμός νέας λίστας πολλών επιπέδων…"
+
+msgid "Define New Number Format"
+msgstr "Ορισμός νέας μορφής αριθμού"
+
+msgid "Deflate"
+msgstr "Ξεφούσκωμα"
+
+msgid "Delete Around Caret in Equation"
+msgstr "Διαγραφή γύρω από τον δρομέα στην εξίσωση"
+
+msgid "Delete Back in Equation"
+msgstr "Διαγραφή προς τα πίσω στην εξίσωση"
+
+msgid "Delete Bookmark"
+msgstr "Διαγραφή σελιδοδείκτη"
+
+msgid "Delete Cells"
+msgstr "Διαγραφή κελιών"
+
+msgid "Delete Clipboard Item"
+msgstr "Διαγραφή στοιχείου προχείρου"
+
+msgid "Delete Columns"
+msgstr "Διαγραφή στηλών"
+
+msgid "Delete Comment"
+msgstr "Διαγραφή σχολίου"
+
+msgid "Delete in Equation"
+msgstr "Διαγραφή στην εξίσωση"
+
+msgid "Delete Label"
+msgstr "Διαγραφή ετικέτας"
+
+msgid "Delete Next Word"
+msgstr "Διαγραφή επόμενης λέξης"
+
+msgid "Delete Previous Word"
+msgstr "Διαγραφή προηγούμενης λέξης"
+
+msgid "Delete Rows"
+msgstr "Διαγραφή γραμμών"
+
+msgid "Delete Selected Ink"
+msgstr "Διαγραφή επιλεγμένου μελανιού"
+
+msgid "Delete Table"
+msgstr "Διαγραφή πίνακα"
+
+msgid "Delete Table Style"
+msgstr "Διαγραφή στυλ πίνακα"
+
+msgid "Deletions:"
+msgstr "Διαγραφές:"
+
+msgid "Delivery address:"
+msgstr "Διεύθυνση παράδοσης:"
+
+msgid "Delta Equal To"
+msgstr "Δέλτα ίσον"
+
+msgid "Delta over arrow"
+msgstr "Δέλτα πάνω από βέλος"
+
+msgid "Demote"
+msgstr "Υποβιβασμός"
+
+msgid "Demote to Body Text"
+msgstr "Υποβιβασμός σε Κύριο κείμενο"
+
+msgid "Derivative as a limit"
+msgstr "Παράγωγος ως όριο"
+
+msgid "Describe what this object shows, for people who can't see it."
+msgstr "Περιγράψτε τι δείχνει αυτό το αντικείμενο, για όσους δεν μπορούν να το δουν."
+
+msgid "Describe what this table shows, for people who can't see it."
+msgstr "Περιγράψτε τι δείχνει αυτός ο πίνακας, για όσους δεν μπορούν να τον δουν."
+
+msgid "Design"
+msgstr "Σχέδιο"
+
+msgid "Design Mode"
+msgstr "Λειτουργία σχεδίασης"
+
+msgid "Detach Template"
+msgstr "Αποσύνδεση προτύπου"
+
+msgid "Detect language automatically"
+msgstr "Αυτόματος εντοπισμός γλώσσας"
+
+msgid "Developer"
+msgstr "Προγραμματιστής"
+
+msgid "development build"
+msgstr "έκδοση ανάπτυξης"
+
+msgid "Diagonal Dots"
+msgstr "Διαγώνιες κουκκίδες"
+
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
+msgid "Dictate"
+msgstr "Υπαγόρευση"
+
+msgid "Dictionaries"
+msgstr "Λεξικά"
+
+msgid "Dictionaries folder:"
+msgstr "Φάκελος λεξικών:"
+
+msgid "Dictionary files"
+msgstr ""
+
+msgid "Different First Page"
+msgstr "Διαφορετική πρώτη σελίδα"
+
+msgid "Different Odd & Even Pages"
+msgstr "Διαφορετικές μονές και ζυγές σελίδες"
+
+msgid "Differential"
+msgstr "Διαφορικό"
+
+msgid "Differential theta"
+msgstr "Διαφορικό θήτα"
+
+msgid "Differential x"
+msgstr "Διαφορικό x"
+
+msgid "Differential y"
+msgstr "Διαφορικό y"
+
+msgid "Differentials"
+msgstr "Διαφορικά"
+
+msgid "Direct formatting"
+msgstr "Άμεση μορφοποίηση"
+
+msgid "Directory"
+msgstr "Κατάλογος"
+
+msgid "Discard the recovery copy of {name}?"
+msgstr ""
+
+msgid "Discard…"
+msgstr ""
+
+msgid "Discord community"
+msgstr "Κοινότητα Discord"
+
+msgid "Display for Review"
+msgstr "Εμφάνιση για αναθεώρηση"
+
+msgid "Display server:"
+msgstr ""
+
+msgid "Display text"
+msgstr "Κείμενο εμφάνισης"
+
+msgid "Distance from text"
+msgstr "Απόσταση από κείμενο"
+
+msgid "Distance from text:"
+msgstr "Απόσταση από κείμενο:"
+
+msgid "Distribute Columns"
+msgstr "Διανομή στηλών"
+
+msgid "Distribute letters"
+msgstr "Διανομή γραμμάτων"
+
+msgid "Distribute Rows"
+msgstr "Διανομή γραμμών"
+
+msgid "Distribute spacing"
+msgstr "Διανομή διαστήματος"
+
+msgid "Distributed"
+msgstr "Κατανεμημένο"
+
+msgid "Do Not Check Spelling or Grammar"
+msgstr "Να μην γίνεται ορθογραφικός ή γραμματικός έλεγχος"
+
+msgid "Do not check spelling or grammar"
+msgstr "Να μην γίνεται ορθογραφικός ή γραμματικός έλεγχος"
+
+msgid "DO NOT COPY"
+msgstr "ΜΗΝ ΑΝΤΙΓΡΑΦΕΤΕ"
+
+msgid "Do Not Show in TOC"
+msgstr "Να μην εμφανίζεται στον πίνακα περιεχομένων"
+
+msgid "Do you want to save changes to {name}?"
+msgstr "Θέλετε να αποθηκεύσετε τις αλλαγές στο {name};"
+
+msgid "Dock Left"
+msgstr ""
+
+msgid "Dock Right"
+msgstr ""
+
+msgid "Document End"
+msgstr "Τέλος εγγράφου"
+
+msgid "Document Formatting"
+msgstr "Μορφοποίηση εγγράφου"
+
+msgid "Document Grid"
+msgstr "Πλέγμα εγγράφου"
+
+msgid "Document Information"
+msgstr "Πληροφορίες εγγράφου"
+
+msgid "Document name"
+msgstr "Όνομα εγγράφου"
+
+msgid "Document Property"
+msgstr "Ιδιότητα εγγράφου"
+
+msgid "Document Start"
+msgstr "Αρχή εγγράφου"
+
+msgid "Document template:"
+msgstr "Πρότυπο εγγράφου:"
+
+msgid "Document Text"
+msgstr "Κείμενο εγγράφου"
+
+msgid "Document1"
+msgstr "Έγγραφο1"
+
+msgid "Document\nPreferences"
+msgstr "Προτιμήσεις\nεγγράφου"
+
+msgid "Documents you open will show up here."
+msgstr "Τα έγγραφα που ανοίγετε θα εμφανίζονται εδώ."
+
+msgid "Does not contain"
+msgstr "Δεν περιέχει"
+
+msgid "DOI"
+msgstr "DOI"
+
+msgid "Dominican Republic"
+msgstr ""
+
+msgid "Don't add space between paragraphs of the same style"
+msgstr "Να μην προστίθεται κενό μεταξύ παραγράφων ίδιου στυλ"
+
+msgid "Don't capitalize after:"
+msgstr "Να μη χρησιμοποιείται κεφαλαίο μετά από:"
+
+msgid "Don't hyphenate"
+msgstr "Χωρίς συλλαβισμό"
+
+msgid "Don't read Zotero, Mendeley or EndNote citations and bibliographies"
+msgstr "Να μην διαβάζονται παραπομπές και βιβλιογραφίες από Zotero, Mendeley ή EndNote"
+
+msgid "Don't show me this tip again"
+msgstr "Να μην εμφανιστεί ξανά αυτή η συμβουλή"
+
+msgid "Dot dash"
+msgstr "Τελεία παύλα"
+
+msgid "Dot-dash"
+msgstr "Τελεία-παύλα"
+
+msgid "Dot-dot-dash"
+msgstr "Τελεία τελεία παύλα"
+
+msgid "Double"
+msgstr "Διπλό"
+
+msgid "Double Bar"
+msgstr "Διπλή μπάρα"
+
+msgid "Double Closing Quote"
+msgstr "Διπλό εισαγωγικό κλείσιμο"
+
+msgid "Double Dot"
+msgstr "Διπλή τελεία"
+
+msgid "Double Integral"
+msgstr "Διπλό ολοκλήρωμα"
+
+msgid "Double Integral with Limits"
+msgstr "Διπλό ολοκλήρωμα με όρια"
+
+msgid "Double Integral with Stacked Limits"
+msgstr "Διπλό ολοκλήρωμα με στοιβαγμένα όρια"
+
+msgid "Double Left Arrow with Text Above"
+msgstr "Διπλό αριστερό βέλος με κείμενο πάνω"
+
+msgid "Double Left Arrow with Text Below"
+msgstr "Διπλό αριστερό βέλος με κείμενο κάτω"
+
+msgid "Double Left Right Arrow with Text Above"
+msgstr "Διπλό βέλος αριστερά-δεξιά με κείμενο πάνω"
+
+msgid "Double Left Right Arrow with Text Below"
+msgstr "Διπλό βέλος αριστερά-δεξιά με κείμενο κάτω"
+
+msgid "Double Opening Quote"
+msgstr "Διπλό εισαγωγικό άνοιγμα"
+
+msgid "Double Right Arrow with Text Above"
+msgstr "Διπλό δεξί βέλος με κείμενο πάνω"
+
+msgid "Double Right Arrow with Text Below"
+msgstr "Διπλό δεξί βέλος με κείμενο κάτω"
+
+msgid "Double Spacing"
+msgstr "Διπλό διάστιχο"
+
+msgid "Double Square Brackets"
+msgstr "Διπλές αγκύλες"
+
+msgid "Double Strikethrough"
+msgstr "Διπλή διαγράμμιση"
+
+msgid "Double strikethrough"
+msgstr "Διπλή διαγράμμιση"
+
+msgid "Double summation"
+msgstr "Διπλό άθροισμα"
+
+msgid "Double Underline"
+msgstr "Διπλή υπογράμμιση"
+
+msgid "Double Vertical Bars"
+msgstr "Διπλές κάθετες μπάρες"
+
+msgid "Doughnut"
+msgstr "Ντόνατ"
+
+msgid "Download fetches the dictionary from LibreOffice's dictionary collection into the dictionaries folder. Each keeps its own licence (GPL, LGPL or MPL) and stays a separate file that WordCraft only reads."
+msgstr ""
+
+msgid "Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub."
+msgstr ""
+
+msgid "Downloading the {language} dictionary…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "DRAFT"
+msgstr "ΠΡΟΧΕΙΡΟ"
+
+msgid "Drag a rectangle to draw a table, or a line across cells to split them. Esc stops."
+msgstr "Σύρετε ένα ορθογώνιο για να σχεδιάσετε πίνακα ή μια γραμμή κατά μήκος κελιών για να τα διαιρέσετε. Esc για έξοδο."
+
+msgid "Draw Ink"
+msgstr "Σχεδίαση με μελάνι"
+
+msgid "Draw Table"
+msgstr "Σχεδίαση πίνακα"
+
+msgid "Draw\nTable"
+msgstr "Σχεδίαση\nπίνακα"
+
+msgid "Drawing Canvas"
+msgstr "Καμβάς σχεδίασης"
+
+msgid "Drawing Tools"
+msgstr "Εργαλεία σχεδίασης"
+
+msgid "Drawing\nCanvas"
+msgstr "Καμβάς\nσχεδίασης"
+
+msgid "Drop Cap"
+msgstr "Αρχίγραμμα"
+
+msgid "Drop cap"
+msgstr "Αρχίγραμμα"
+
+msgid "Drop Cap Options…"
+msgstr "Επιλογές αρχικού γράμματος…"
+
+msgid "drop caps can't go in a table"
+msgstr "τα αρχικά γράμματα δεν μπορούν να μπουν σε πίνακα"
+
+msgid "Drop-Down List Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου αναπτυσσόμενης λίστας"
+
+msgid "Dropped"
+msgstr "Σε κείμενο"
+
+msgid "Drops all formatting and pastes plain text."
+msgstr "Καταργεί όλη τη μορφοποίηση και επικολλά απλό κείμενο."
+
+msgid "Dutch, Nederlands or nl"
+msgstr ""
+
+msgid "E-mail Messages"
+msgstr "Μηνύματα ηλεκτρονικού ταχυδρομείου"
+
+msgid "East"
+msgstr ""
+
+msgid "Ecuador"
+msgstr ""
+
+msgid "Edit Comment"
+msgstr "Επεξεργασία σχολίου"
+
+msgid "Edit Data"
+msgstr "Επεξεργασία δεδομένων"
+
+msgid "Edit Document"
+msgstr "Επεξεργασία εγγράφου"
+
+msgid "Edit Equation"
+msgstr "Επεξεργασία εξίσωσης"
+
+msgid "Edit Field Code"
+msgstr "Επεξεργασία κωδικού πεδίου"
+
+msgid "Edit Field…"
+msgstr "Επεξεργασία πεδίου…"
+
+msgid "Edit Footer"
+msgstr "Επεξεργασία υποσέλιδου"
+
+msgid "Edit Header"
+msgstr "Επεξεργασία κεφαλίδας"
+
+msgid "Edit Individual Documents…"
+msgstr "Επεξεργασία μεμονωμένων εγγράφων…"
+
+msgid "Edit Items"
+msgstr "Επεξεργασία στοιχείων"
+
+msgid "Edit Recipient List"
+msgstr "Επεξεργασία λίστας παραληπτών"
+
+msgid "Edit Source"
+msgstr "Επεξεργασία πηγής"
+
+msgid "Edit\nData"
+msgstr "Επεξεργασία\nδεδομένων"
+
+msgid "Edit\nRecipient List"
+msgstr "Επεξεργασία λίστας\nπαραληπτών"
+
+msgid "Edited"
+msgstr "Επεξεργασμένο"
+
+msgid "Editing endnote"
+msgstr "Επεξεργασία σημείωσης τέλους"
+
+msgid "Editing footnote"
+msgstr "Επεξεργασία υποσημείωσης"
+
+msgid "Editing header/footer"
+msgstr "Επεξεργασία κεφαλίδας/υποσέλιδου"
+
+msgid "Editing in this document is restricted."
+msgstr "Η επεξεργασία σε αυτό το έγγραφο είναι περιορισμένη."
+
+msgid "Editing is blocked in Viewing mode."
+msgstr ""
+
+msgid "Editing — edit the document directly"
+msgstr "Επεξεργασία — επεξεργαστείτε απευθείας το έγγραφο"
+
+msgid "Edition"
+msgstr "Έκδοση"
+
+msgid "Editor"
+msgstr "Επεξεργαστής"
+
+msgid "Egypt"
+msgstr ""
+
+msgid "El Salvador"
+msgstr ""
+
+msgid "Elbow Arrow Connector"
+msgstr "Γωνιακός συνδετήρας βέλους"
+
+msgid "Elbow Connector"
+msgstr "Γωνιακός συνδετήρας"
+
+msgid "Emphasis"
+msgstr "Έμφαση"
+
+msgid "Emphasis Mark"
+msgstr ""
+
+msgid "Empty Matrices"
+msgstr "Κενοί πίνακες"
+
+msgid "Enclose Characters"
+msgstr "Περικλείω χαρακτήρες"
+
+msgid "Enclosure"
+msgstr "Περίφραξη"
+
+msgid "Encrypt with Password"
+msgstr "Κρυπτογράφηση με κωδικό πρόσβασης"
+
+msgid "Encrypt with Password…"
+msgstr "Κρυπτογράφηση με κωδικό πρόσβασης…"
+
+msgid "End of document"
+msgstr "Τέλος εγγράφου"
+
+msgid "End of section"
+msgstr "Τέλος ενότητας"
+
+msgid "End of Word"
+msgstr "Τέλος λέξης"
+
+msgid "Endnote Reference"
+msgstr "Αναφορά σημείωσης τέλους"
+
+msgid "Endnote Text"
+msgstr "Κείμενο σημείωσης τέλους"
+
+msgid "Endnotes"
+msgstr "Σημειώσεις τέλους"
+
+msgid "Endnotes to footnotes"
+msgstr "Σημειώσεις τέλους σε υποσημειώσεις"
+
+msgid "English (Australia)"
+msgstr "Αγγλικά (Αυστραλία)"
+
+msgid "English (Canada)"
+msgstr "Αγγλικά (Καναδάς)"
+
+msgid "English (India)"
+msgstr "Αγγλικά (Ινδία)"
+
+msgid "English (Ireland)"
+msgstr "Αγγλικά (Ιρλανδία)"
+
+msgid "English (New Zealand)"
+msgstr "Αγγλικά (Νέα Ζηλανδία)"
+
+msgid "English (South Africa)"
+msgstr "Αγγλικά (Νότια Αφρική)"
+
+msgid "English (United Kingdom)"
+msgstr "Αγγλικά (Ηνωμένο Βασίλειο)"
+
+msgid "English (United States)"
+msgstr "Αγγλικά (Ηνωμένες Πολιτείες)"
+
+msgid "English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation."
+msgstr ""
+
+msgid "Engrave"
+msgstr "Χάραξη"
+
+msgid "Enlarge symbol"
+msgstr "Μεγέθυνση συμβόλου"
+
+msgid "Enter a number."
+msgstr "Εισάγετε έναν αριθμό."
+
+msgid "Enter bookmark name:"
+msgstr "Εισάγετε όνομα σελιδοδείκτη:"
+
+msgid "Enter formatting for number:"
+msgstr "Μορφή για τον αριθμό:"
+
+msgid "Enter in Equation"
+msgstr "Enter στην εξίσωση"
+
+msgid "Enter page number:"
+msgstr "Εισάγετε αριθμό σελίδας:"
+
+msgid "Entire caption"
+msgstr ""
+
+msgid "Entry marked."
+msgstr "Η καταχώρηση επισημάνθηκε."
+
+msgid "Envelope #10"
+msgstr "Φάκελος #10"
+
+msgid "Envelope #10   4.12\" × 9.50\""
+msgstr "Φάκελος #10   4,12\" × 9,50\""
+
+msgid "Envelope Address"
+msgstr "Διεύθυνση φακέλου"
+
+msgid "Envelope DL   4.33\" × 8.66\""
+msgstr "Φάκελος DL   4,33\" × 8,66\""
+
+msgid "Envelope Return"
+msgstr "Αποστολέας φακέλου"
+
+msgid "Envelope size:"
+msgstr "Μέγεθος φακέλου:"
+
+msgid "Envelopes"
+msgstr "Φάκελοι"
+
+msgid "Equal by Definition"
+msgstr "Ίσον εξ ορισμού"
+
+msgid "Equal column width"
+msgstr "Ίσο πλάτος στηλών"
+
+msgid "Equal Equal"
+msgstr "Ίσον ίσον"
+
+msgid "Equal to"
+msgstr "Ίσον με"
+
+msgid "Equals:"
+msgstr "Ίσον:"
+
+msgid "Equation"
+msgstr "Εξίσωση"
+
+msgid "Equation Gallery"
+msgstr "Συλλογή εξισώσεων"
+
+msgid "Equation Info"
+msgstr "Πληροφορίες εξίσωσης"
+
+msgid "Equation Number"
+msgstr "Αριθμός εξίσωσης"
+
+msgid "Equation Options"
+msgstr "Επιλογές εξίσωσης"
+
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgid "Erase Ink"
+msgstr "Διαγραφή μελανιού"
+
+msgid "Errors ({n})"
+msgstr "Σφάλματα ({n})"
+
+msgid "Esperanto"
+msgstr ""
+
+msgid "Estonian"
+msgstr "Εσθονικά"
+
+msgid "Euler's identity"
+msgstr "Ταυτότητα Euler"
+
+msgid "Even Banded Columns"
+msgstr "Ζυγές εναλλασσόμενες στήλες"
+
+msgid "Even Banded Rows"
+msgstr "Ζυγές εναλλασσόμενες γραμμές"
+
+msgid "Even Page"
+msgstr "Ζυγή σελίδα"
+
+msgid "Every change is recorded as a tracked change."
+msgstr "Κάθε αλλαγή καταγράφεται ως παρακολουθούμενη αλλαγή."
+
+msgid "Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel."
+msgstr "Κάθε εντολή είναι διαθέσιμη σε σενάρια και πράκτορες τεχνητής νοημοσύνης: εκτελέστε `wordcraft-cli mcp` για διακομιστή MCP ή ξεκινήστε την εφαρμογή με `--control <port>` για το κανάλι ελέγχου JSON."
+
+msgid "Every field needs a name."
+msgstr "Κάθε πεδίο χρειάζεται όνομα."
+
+msgid "Everyone"
+msgstr "Όλοι"
+
+msgid "Exactly"
+msgstr "Ακριβώς"
+
+msgid "Exactly {n}"
+msgstr "Ακριβώς {n}"
+
+msgid "Exceptions (optional)"
+msgstr "Εξαιρέσεις (προαιρετικό)"
+
+msgid "Exceptions…"
+msgstr "Εξαιρέσεις…"
+
+msgid "Executive   7.25\" × 10.50\""
+msgstr "Executive   7,25\" × 10,50\""
+
+msgid "Existing File or Web Page"
+msgstr "Υπάρχον αρχείο ή ιστοσελίδα"
+
+msgid "Expand or Collapse Heading"
+msgstr "Ανάπτυξη ή σύμπτυξη επικεφαλίδας"
+
+msgid "Exponential"
+msgstr "Εκθετικό"
+
+msgid "Exponential series"
+msgstr "Εκθετική σειρά"
+
+msgid "Export a copy to share (PDF, Word document)"
+msgstr "Εξαγωγή αντιγράφου για κοινή χρήση (PDF, έγγραφο Word)"
+
+msgid "Export Page as PNG"
+msgstr "Εξαγωγή σελίδας ως PNG"
+
+msgid "Extend Selection"
+msgstr "Επέκταση επιλογής"
+
+msgid "Extend Selection by Units"
+msgstr "Επέκταση επιλογής ανά μονάδες"
+
+msgid "Extra space"
+msgstr "Επιπλέον κενό"
+
+msgid "F4 repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr ""
+
+msgid "F7 checks the spelling and grammar of the whole document."
+msgstr ""
+
+msgid "Faster: {command} is {key} on the keyboard."
+msgstr "Πιο γρήγορα: το {command} είναι {key} στο πληκτρολόγιο."
+
+msgid "Field code:"
+msgstr "Κωδικός πεδίου:"
+
+msgid "Field Codes"
+msgstr "Κωδικοί πεδίων"
+
+msgid "Field codes:"
+msgstr "Κωδικοί πεδίων:"
+
+msgid "Field name"
+msgstr "Όνομα πεδίου"
+
+msgid "Field name:"
+msgstr "Όνομα πεδίου:"
+
+msgid "Field names must be different."
+msgstr "Τα ονόματα πεδίων πρέπει να είναι διαφορετικά."
+
+msgid "Field names:"
+msgstr "Ονόματα πεδίων:"
+
+msgid "Field:"
+msgstr "Πεδίο:"
+
+msgid "Field…"
+msgstr "Πεδίο…"
+
+msgid "Figure"
+msgstr "Σχήμα"
+
+msgid "File locations"
+msgstr "Θέσεις αρχείων"
+
+msgid "File name:"
+msgstr "Όνομα αρχείου:"
+
+msgid "File type"
+msgstr ""
+
+msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
+msgstr "Αρχείο › Νέο παραθέτει τα πρότυπα .dotx και .dotm εδώ στην ενότητα Προσωπικά· η Αποθήκευση ως πρότυπο Word ξεκινά εδώ."
+
+msgid "Fill color:"
+msgstr "Χρώμα γεμίσματος:"
+
+msgid "Filling in forms"
+msgstr "Συμπλήρωση φορμών"
+
+msgid "Film"
+msgstr "Φιλμ"
+
+msgid "Filter and Sort"
+msgstr "Φιλτράρισμα και ταξινόμηση"
+
+msgid "Filter Recipients"
+msgstr "Φιλτράρισμα παραληπτών"
+
+msgid "Find in list:"
+msgstr "Εύρεση στη λίστα:"
+
+msgid "Find Next Editable Region"
+msgstr "Εύρεση επόμενης περιοχής επεξεργασίας"
+
+msgid "Find Previous"
+msgstr "Εύρεση προηγούμενου"
+
+msgid "Find Recipient"
+msgstr "Εύρεση παραλήπτη"
+
+msgid "Find What Expression"
+msgstr "Έκφραση προς εύρεση"
+
+msgid "Find What Text"
+msgstr "Κείμενο προς εύρεση"
+
+msgid "Find what:"
+msgstr "Εύρεση:"
+
+msgid "Find “{text}” in the document"
+msgstr "Εύρεση του «{text}» στο έγγραφο"
+
+msgid "Finding printers…"
+msgstr "Εύρεση εκτυπωτών…"
+
+msgid "Finish & Merge"
+msgstr "Ολοκλήρωση και συγχώνευση"
+
+msgid "Finish &\nMerge"
+msgstr "Ολοκλήρωση και\nσυγχώνευση"
+
+msgid "Finished"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Finland"
+msgstr ""
+
+msgid "Finnish"
+msgstr "Φινλανδικά"
+
+msgid "First Column"
+msgstr "Πρώτη στήλη"
+
+msgid "First line"
+msgstr "Πρώτη γραμμή"
+
+msgid "First line:"
+msgstr "Πρώτη γραμμή:"
+
+msgid "First Name"
+msgstr "Όνομα"
+
+msgid "First Record"
+msgstr "Πρώτη εγγραφή"
+
+msgid "First row of data contains column headers"
+msgstr "Η πρώτη γραμμή δεδομένων περιέχει επικεφαλίδες στηλών"
+
+msgid "Fix Position on Page"
+msgstr "Καρφίτσωμα θέσης στη σελίδα"
+
+msgid "Fixed Column Width"
+msgstr "Σταθερό πλάτος στήλης"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
+
+msgid "Float"
+msgstr ""
+
+msgid "Floor"
+msgstr "Δάπεδο"
+
+msgid "Folder path"
+msgstr ""
+
+msgid "Follow number with:"
+msgstr "Ακολούθηση αριθμού με:"
+
+msgid "Font Color"
+msgstr "Χρώμα γραμματοσειράς"
+
+msgid "Font color"
+msgstr "Χρώμα γραμματοσειράς"
+
+msgid "Font color:"
+msgstr "Χρώμα γραμματοσειράς:"
+
+msgid "Font Dialog"
+msgstr "Παράθυρο διαλόγου γραμματοσειράς"
+
+msgid "Font: {font}"
+msgstr "Γραμματοσειρά: {font}"
+
+msgid "Font…"
+msgstr "Γραμματοσειρά…"
+
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+msgid "Footnote and Endnote"
+msgstr "Υποσημείωση και σημείωση τέλους"
+
+msgid "Footnote Reference"
+msgstr "Αναφορά υποσημείωσης"
+
+msgid "Footnote Text"
+msgstr "Κείμενο υποσημείωσης"
+
+msgid "Footnotes"
+msgstr "Υποσημειώσεις"
+
+msgid "Footnotes and endnotes"
+msgstr "Υποσημειώσεις και σημειώσεις τέλους"
+
+msgid "Footnotes to endnotes"
+msgstr "Υποσημειώσεις σε σημειώσεις τέλους"
+
+msgid "For which item:"
+msgstr "Για ποιο στοιχείο:"
+
+msgid "Format Page Numbers"
+msgstr "Μορφή αριθμών σελίδας"
+
+msgid "Format Page Numbers…"
+msgstr "Μορφή αριθμών σελίδας…"
+
+msgid "Format Painter"
+msgstr "Πινέλο μορφοποίησης"
+
+msgid "Format Shape"
+msgstr "Μορφή σχήματος"
+
+msgid "Format Shape Pane"
+msgstr "Παράθυρο μορφής σχήματος"
+
+msgid "Format Shape…"
+msgstr "Μορφή σχήματος…"
+
+msgid "Formatted"
+msgstr "Μορφοποιημένο"
+
+msgid "Formatted Text"
+msgstr "Μορφοποιημένο κείμενο"
+
+msgid "Formatting"
+msgstr "Μορφοποίηση"
+
+msgid "Formatting at Selection"
+msgstr "Μορφοποίηση στην επιλογή"
+
+msgid "Formatting exceptions"
+msgstr "Εξαιρέσεις μορφοποίησης"
+
+msgid "Formatting marks"
+msgstr "Σημάδια μορφοποίησης"
+
+msgid "Formatting saved for new documents:"
+msgstr ""
+
+msgid "Formatting, case changes, white space and tables are compared; the other settings are kept for later."
+msgstr "Συγκρίνονται μορφοποίηση, αλλαγές πεζών/κεφαλαίων, κενά διαστήματα και πίνακες· οι άλλες ρυθμίσεις διατηρούνται για αργότερα."
+
+msgid "Formula"
+msgstr "Τύπος"
+
+msgid "Formula:"
+msgstr "Τύπος:"
+
+msgid "Forward"
+msgstr "Μπροστά"
+
+msgid "Fraction"
+msgstr "Κλάσμα"
+
+msgid "Fractions (1/2) as fraction characters (½)"
+msgstr "Κλάσματα (1/2) ως χαρακτήρες κλασμάτων (½)"
+
+msgid "Frames and effects"
+msgstr ""
+
+msgid "France"
+msgstr ""
+
+msgid "French (France)"
+msgstr "Γαλλικά (Γαλλία)"
+
+msgid "From Bottom Left Corner"
+msgstr "Από την κάτω αριστερή γωνία"
+
+msgid "From Bottom Right Corner"
+msgstr "Από την κάτω δεξιά γωνία"
+
+msgid "From Center"
+msgstr "Από το κέντρο"
+
+msgid "From text:"
+msgstr "Από κείμενο:"
+
+msgid "From Top Left Corner"
+msgstr "Από την πάνω αριστερή γωνία"
+
+msgid "From Top Right Corner"
+msgstr "Από την πάνω δεξιά γωνία"
+
+msgid "from Unicode (hex)"
+msgstr "από Unicode (δεκαεξ.)"
+
+msgid "From {name}"
+msgstr "Από {name}"
+
+msgid "From:"
+msgstr "Από:"
+
+msgid "Full page of the same label"
+msgstr "Πλήρης σελίδα ίδιας ετικέτας"
+
+msgid "Full Saturation 100%"
+msgstr ""
+
+msgid "Full Screen View"
+msgstr "Προβολή πλήρους οθόνης"
+
+msgid "Full\nScreen"
+msgstr "Πλήρης\nοθόνη"
+
+msgid "Fun fact: a blank page is just a draft that hasn't been told yet."
+msgstr "Διασκεδαστικό γεγονός: μια κενή σελίδα είναι απλώς ένα προσχέδιο που δεν του έχουν πει ακόμη."
+
+msgid "Function"
+msgstr "Συνάρτηση"
+
+msgid "Galician"
+msgstr ""
+
+msgid "Gallery"
+msgstr "Συλλογή"
+
+msgid "GB/T 7714"
+msgstr "GB/T 7714"
+
+msgid "Georgian"
+msgstr ""
+
+msgid "German (Germany)"
+msgstr "Γερμανικά (Γερμανία)"
+
+msgid "Germany"
+msgstr ""
+
+msgid "Get the list of languages again"
+msgstr ""
+
+msgid "getartcraft.com/apps/wordcraft"
+msgstr "getartcraft.com/apps/wordcraft"
+
+msgid "Gets the list of Language packs, then this language's pack if there is one."
+msgstr ""
+
+msgid "Getting the list of languages…"
+msgstr ""
+
+msgid "Glow Colors"
+msgstr "Χρώματα λάμψης"
+
+msgid "Go Back"
+msgstr "Επιστροφή"
+
+msgid "Go To"
+msgstr "Μετάβαση σε"
+
+msgid "Go to"
+msgstr "Μετάβαση σε"
+
+msgid "Go To (⌘⌥G)"
+msgstr "Μετάβαση σε (⌘⌥G)"
+
+msgid "Go to Record"
+msgstr "Μετάβαση σε εγγραφή"
+
+msgid "Go to what:"
+msgstr "Μετάβαση σε:"
+
+msgid "Go To…"
+msgstr "Μετάβαση σε…"
+
+msgid "Gone! Like it was never written. Mostly because it now wasn't."
+msgstr "Έφυγε! Σαν να μη γράφτηκε ποτέ. Κυρίως γιατί τώρα δεν είναι."
+
+msgid "Good afternoon"
+msgstr "Καλό απόγευμα"
+
+msgid "Good evening"
+msgstr "Καλησπέρα"
+
+msgid "Good morning"
+msgstr "Καλημέρα"
+
+msgid "GOST (name sort)"
+msgstr "GOST (ταξινόμηση ονόματος)"
+
+msgid "GOST (title sort)"
+msgstr "GOST (ταξινόμηση τίτλου)"
+
+msgid "Grab bag"
+msgstr "Διάφορα"
+
+msgid "Gradient fill"
+msgstr "Γέμισμα με διαβάθμιση"
+
+msgid "Gradient stops"
+msgstr "Σημεία διαβάθμισης"
+
+msgid "Grammar built in"
+msgstr ""
+
+msgid "Grave"
+msgstr "Βαρεία"
+
+msgid "Gray 0%"
+msgstr ""
+
+msgid "Gray-25%"
+msgstr ""
+
+msgid "Gray-50%"
+msgstr ""
+
+msgid "Greater than"
+msgstr "Μεγαλύτερο από"
+
+msgid "Greater than or equal"
+msgstr "Μεγαλύτερο ή ίσο"
+
+msgid "Greek"
+msgstr "Ελληνικά"
+
+msgid "Greek Letters"
+msgstr "Ελληνικά γράμματα"
+
+msgid "Green:"
+msgstr "Πράσινο:"
+
+msgid "Greeting Line"
+msgstr "Γραμμή χαιρετισμού"
+
+msgid "Greeting\nLine"
+msgstr "Γραμμή\nχαιρετισμού"
+
+msgid "Grid Table 1 Light"
+msgstr "Πίνακας πλέγματος 1 ανοιχτός"
+
+msgid "Grid Table 4 – Blue"
+msgstr "Πίνακας πλέγματος 4 – Μπλε"
+
+msgid "Grid Table 4 – Green"
+msgstr "Πίνακας πλέγματος 4 – Πράσινος"
+
+msgid "Grid Table 4 – Orange"
+msgstr "Πίνακας πλέγματος 4 – Πορτοκαλί"
+
+msgid "Grid Table 4 – Purple"
+msgstr "Πίνακας πλέγματος 4 – Μωβ"
+
+msgid "Gridlines"
+msgstr "Γραμμές πλέγματος"
+
+msgid "Grouping Character Above"
+msgstr "Χαρακτήρας ομαδοποίησης πάνω"
+
+msgid "Grouping Character Below"
+msgstr "Χαρακτήρας ομαδοποίησης κάτω"
+
+msgid "Grow Font 1 Point"
+msgstr "Αύξηση γραμματοσειράς κατά 1 σημείο"
+
+msgid "Guatemala"
+msgstr ""
+
+msgid "H:"
+msgstr "Υ:"
+
+msgid "Hanging Indent"
+msgstr "Εκκρεμής εσοχή"
+
+msgid "Harvard (Anglia)"
+msgstr "Harvard (Anglia)"
+
+msgid "Hat"
+msgstr "Καπέλο"
+
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+msgid "Header & Footer"
+msgstr "Κεφαλίδα και υποσέλιδο"
+
+msgid "Header Row"
+msgstr "Γραμμή κεφαλίδας"
+
+msgid "Header row"
+msgstr "Γραμμή κεφαλίδας"
+
+msgid "Header/Footer Position"
+msgstr "Θέση κεφαλίδας/υποσέλιδου"
+
+msgid "Headers and footers"
+msgstr "Κεφαλίδες και υποσέλιδα"
+
+msgid "Heading"
+msgstr "Επικεφαλίδα"
+
+msgid "Heading 1"
+msgstr "Επικεφαλίδα 1"
+
+msgid "Heading 2"
+msgstr "Επικεφαλίδα 2"
+
+msgid "Heading 3"
+msgstr "Επικεφαλίδα 3"
+
+msgid "Heading styles (levels 1–{n})"
+msgstr "Στυλ επικεφαλίδας (επίπεδα 1–{n})"
+
+msgid "Heading text"
+msgstr "Κείμενο επικεφαλίδας"
+
+msgid "Heading {n}"
+msgstr "Επικεφαλίδα {n}"
+
+msgid "Hebrew"
+msgstr "Εβραϊκά"
+
+msgid "Hex:"
+msgstr "Δεκαεξ.:"
+
+msgid "Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?"
+msgstr "Γεια! Είμαι ο Nib, ο βοηθός γραφής σας. Προσφέρω συμβουλές, συντομεύσεις και περιστασιακά ανεπιθύμητες γνώμες. Να μείνω;"
+
+msgid "Hidden bookmarks"
+msgstr "Κρυφοί σελιδοδείκτες"
+
+msgid "Hide Codes"
+msgstr "Απόκρυψη κωδικών"
+
+msgid "Hide from style lists"
+msgstr "Απόκρυψη από λίστες στυλ"
+
+msgid "Hide Ink"
+msgstr "Απόκρυψη μελανιού"
+
+msgid "Hide Quick Access Toolbar"
+msgstr "Απόκρυψη γραμμής γρήγορης πρόσβασης"
+
+msgid "Hide White Space"
+msgstr "Απόκρυψη κενού χώρου"
+
+msgid "Hide\nInk"
+msgstr "Απόκρυψη\nμελανιού"
+
+msgid "Hierarchy"
+msgstr "Ιεραρχία"
+
+msgid "Highlight"
+msgstr "Επισήμανση"
+
+msgid "Highlight Merge Fields"
+msgstr "Επισήμανση πεδίων συγχώνευσης"
+
+msgid "Highlight\nMerge Fields"
+msgstr "Επισήμανση\nπεδίων συγχώνευσης"
+
+msgid "Highlighter"
+msgstr "Μαρκαδόρος"
+
+msgctxt "numerals"
+msgid "Hindi"
+msgstr ""
+
+msgid "Home folder"
+msgstr "Αρχικός φάκελος"
+
+msgid "Honduras"
+msgstr ""
+
+msgid "Hong Kong SAR"
+msgstr ""
+
+msgid "Horizontal Line"
+msgstr "Οριζόντια γραμμή"
+
+msgid "How many pages the whole document has"
+msgstr "Πόσες σελίδες έχει ολόκληρο το έγγραφο"
+
+msgid "How many pages this section has"
+msgstr "Πόσες σελίδες έχει αυτή η ενότητα"
+
+msgid "How many words the document holds"
+msgstr "Πόσες λέξεις περιέχει το έγγραφο"
+
+msgid "HTML Format"
+msgstr "Μορφή HTML"
+
+msgid "Hue:"
+msgstr "Απόχρωση:"
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's."
+msgstr "Τα αρχεία Hunspell .aff και .dic εδώ (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) χρησιμοποιούνται πριν από εκείνα του συστήματος."
+
+msgid "Hyperbolic Cosecant Function"
+msgstr "Συνάρτηση υπερβολικής συντέμνουσας"
+
+msgid "Hyperbolic Cosine Function"
+msgstr "Συνάρτηση υπερβολικού συνημιτόνου"
+
+msgid "Hyperbolic Cotangent Function"
+msgstr "Συνάρτηση υπερβολικής συνεφαπτομένης"
+
+msgid "Hyperbolic Functions"
+msgstr "Υπερβολικές συναρτήσεις"
+
+msgid "Hyperbolic Secant Function"
+msgstr "Συνάρτηση υπερβολικής τέμνουσας"
+
+msgid "Hyperbolic Sine Function"
+msgstr "Συνάρτηση υπερβολικού ημιτόνου"
+
+msgid "Hyperbolic Tangent Function"
+msgstr "Συνάρτηση υπερβολικής εφαπτομένης"
+
+msgid "Hyperlink"
+msgstr "Υπερσύνδεσμος"
+
+msgid "Hyphenate at:"
+msgstr "Συλλαβισμός στο:"
+
+msgid "Hyphenate words in CAPS"
+msgstr "Συλλαβισμός λέξεων σε ΚΕΦΑΛΑΙΑ"
+
+msgid "Hyphenation Options…"
+msgstr "Επιλογές συλλαβισμού…"
+
+msgid "Hyphenation zone:"
+msgstr "Ζώνη συλλαβισμού:"
+
+msgid "Hyphens (--) as dashes (—)"
+msgstr "Παύλες (--) ως παύλες (—)"
+
+msgid "Hypotenuse"
+msgstr "Υποτείνουσα"
+
+msgid "I promise it's saved. I checked. Twice."
+msgstr "Υπόσχομαι ότι είναι αποθηκευμένο. Το έλεγξα. Δύο φορές."
+
+msgid "I'd write something myself, but I'm all nib and no ink."
+msgstr "Θα έγραφα κάτι και εγώ, αλλά είμαι όλο μύτη και καθόλου μελάνι."
+
+msgid "I, II, III, …"
+msgstr "I, II, III, …"
+
+msgid "i, ii, iii, …"
+msgstr "i, ii, iii, …"
+
+msgid "Icelandic"
+msgstr ""
+
+msgid "Icon Color"
+msgstr "Χρώμα εικονιδίου"
+
+msgid "Icons"
+msgstr "Εικονίδια"
+
+msgid "Identity Matrices"
+msgstr "Μοναδιαίοι πίνακες"
+
+msgid "IEEE"
+msgstr "IEEE"
+
+msgid "If…Then…Else"
+msgstr "Αν…Τότε…Αλλιώς"
+
+msgid "If…Then…Else…"
+msgstr "Αν…Τότε…Αλλιώς…"
+
+msgid "Ignore Once"
+msgstr ""
+
+msgid "Ignore punctuation characters"
+msgstr "Αγνόηση χαρακτήρων στίξης"
+
+msgid "Ignore web and file addresses"
+msgstr "Αγνόηση διευθύνσεων ιστού και αρχείων"
+
+msgid "Ignore white-space characters"
+msgstr "Αγνόηση χαρακτήρων κενού διαστήματος"
+
+msgid "Ignore words in capitals"
+msgstr "Αγνόηση λέξεων σε ΚΕΦΑΛΑΙΑ"
+
+msgid "Ignore words with numbers"
+msgstr "Αγνόηση λέξεων με αριθμούς"
+
+msgid "Illustrations"
+msgstr "Εικονογραφήσεις"
+
+msgid "Immersive"
+msgstr "Immersive"
+
+msgid "Immersive Reader"
+msgstr "Αναγνώστης Immersive"
+
+msgid "Immersive\nReader"
+msgstr "Αναγνώστης\nImmersive"
+
+msgid "Imported 1 source"
+msgstr ""
+
+msgid "Imported {n} sources"
+msgstr ""
+
+msgid "In Default apps, choose WordCraft for the document types you want it to open."
+msgstr "Στις Προεπιλεγμένες εφαρμογές, επιλέξτε WordCraft για τους τύπους εγγράφων που θέλετε να ανοίγει."
+
+msgid "In equations, typing a name after a backslash replaces it with its symbol."
+msgstr "Στις εξισώσεις, πληκτρολογώντας ένα όνομα μετά από ανάστροφη κάθετο, αντικαθίσταται από το σύμβολό του."
+
+msgid "In Front of Text"
+msgstr "Μπροστά από το κείμενο"
+
+msgid "In Line with Text"
+msgstr "Σε σειρά με το κείμενο"
+
+msgid "In margin"
+msgstr "Στο περιθώριο"
+
+msgid "In the margin"
+msgstr "Στο περιθώριο"
+
+msgid "Include label and number"
+msgstr "Συμπερίληψη ετικέτας και αριθμού"
+
+msgid "Include level number from:"
+msgstr "Συμπερίληψη αριθμού επιπέδου από:"
+
+msgid "Include page numbers"
+msgstr "Συμπερίληψη αριθμών σελίδας"
+
+msgid "Increase Indent"
+msgstr "Αύξηση εσοχής"
+
+msgid "Indent"
+msgstr "Εσοχή"
+
+msgid "Indent from left:"
+msgstr "Εσοχή από αριστερά:"
+
+msgid "Indentation"
+msgstr "Εσοχές"
+
+msgid "Indented"
+msgstr "Με εσοχή"
+
+msgid "Indents"
+msgstr "Εσοχές"
+
+msgid "Indents and Spacing"
+msgstr "Εσοχές και διάστημα"
+
+msgid "Index and Tables"
+msgstr "Ευρετήρια και πίνακες"
+
+msgid "Index Heading"
+msgstr "Επικεφαλίδα ευρετηρίου"
+
+msgid "Index {n}"
+msgstr "Ευρετήριο {n}"
+
+msgid "India"
+msgstr ""
+
+msgid "Indonesian"
+msgstr "Ινδονησιακά"
+
+msgid "Initial column width:"
+msgstr "Αρχικό πλάτος στήλης:"
+
+msgid "Initials:"
+msgstr "Αρχικά:"
+
+msgid "Ink"
+msgstr "Μελάνι"
+
+msgid "Ink Replay"
+msgstr "Αναπαραγωγή μελανιού"
+
+msgid "Ink to Shape"
+msgstr "Μελάνι σε σχήμα"
+
+msgid "Ink to\nMath"
+msgstr "Μελάνι σε\nμαθηματικά"
+
+msgid "Ink to\nShape"
+msgstr "Μελάνι σε\nσχήμα"
+
+msgid "Ink\nReplay"
+msgstr "Αναπαραγωγή\nμελανιού"
+
+msgid "Inline"
+msgstr "Σε σειρά"
+
+msgid "Input Format"
+msgstr "Μορφή εισόδου"
+
+msgid "Insert a new equation (Alt+=)"
+msgstr "Εισαγωγή νέας εξίσωσης (Alt+=)"
+
+msgid "Insert Above"
+msgstr "Εισαγωγή πάνω"
+
+msgid "Insert Below"
+msgstr "Εισαγωγή κάτω"
+
+msgid "Insert Caption"
+msgstr "Εισαγωγή λεζάντας"
+
+msgid "Insert Caption…"
+msgstr "Εισαγωγή λεζάντας…"
+
+msgid "Insert Chart"
+msgstr "Εισαγωγή γραφήματος"
+
+msgid "Insert Citation"
+msgstr "Εισαγωγή παραπομπής"
+
+msgid "Insert Columns to the Left"
+msgstr "Εισαγωγή στηλών αριστερά"
+
+msgid "Insert Columns to the Right"
+msgstr "Εισαγωγή στηλών δεξιά"
+
+msgid "Insert Date Field"
+msgstr "Εισαγωγή πεδίου ημερομηνίας"
+
+msgid "Insert Diagram"
+msgstr ""
+
+msgid "Insert Endnote"
+msgstr "Εισαγωγή σημείωσης τέλους"
+
+msgid "Insert Footnote"
+msgstr "Εισαγωγή υποσημείωσης"
+
+msgid "Insert Hyperlink"
+msgstr "Εισαγωγή υπερσύνδεσμου"
+
+msgid "Insert Index"
+msgstr "Εισαγωγή ευρετηρίου"
+
+msgid "Insert Left"
+msgstr "Εισαγωγή αριστερά"
+
+msgid "Insert Merge Field"
+msgstr "Εισαγωγή πεδίου συγχώνευσης"
+
+msgid "Insert Merge\nField"
+msgstr "Εισαγωγή πεδίου\nσυγχώνευσης"
+
+msgid "Insert New Equation"
+msgstr "Εισαγωγή νέας εξίσωσης"
+
+msgid "Insert one text or another, depending on a field's value."
+msgstr "Εισαγωγή ενός ή άλλου κειμένου, ανάλογα με την τιμή ενός πεδίου."
+
+msgid "Insert Page Field"
+msgstr "Εισαγωγή πεδίου σελίδας"
+
+msgid "Insert reference to:"
+msgstr "Εισαγωγή αναφοράς σε:"
+
+msgid "Insert Right"
+msgstr "Εισαγωγή δεξιά"
+
+msgid "Insert Row or Column by Clicking"
+msgstr "Εισαγωγή γραμμής ή στήλης με κλικ"
+
+msgid "Insert Rows Above"
+msgstr "Εισαγωγή γραμμών πάνω"
+
+msgid "Insert Rows Below"
+msgstr "Εισαγωγή γραμμών κάτω"
+
+msgid "Insert Shapes"
+msgstr "Εισαγωγή σχημάτων"
+
+msgid "Insert SmartArt"
+msgstr "Εισαγωγή SmartArt"
+
+msgid "Insert Spike"
+msgstr "Εισαγωγή συλλογής"
+
+msgid "Insert Structure"
+msgstr "Εισαγωγή δομής"
+
+msgid "Insert Symbol"
+msgstr "Εισαγωγή συμβόλου"
+
+msgid "Insert Table"
+msgstr "Εισαγωγή πίνακα"
+
+msgid "Insert Table of Authorities"
+msgstr "Εισαγωγή πίνακα νομικών πηγών"
+
+msgid "Insert Table of Figures"
+msgstr "Εισαγωγή πίνακα σχημάτων"
+
+msgid "Insert Table…"
+msgstr "Εισαγωγή πίνακα…"
+
+msgid "Insert Time Field"
+msgstr "Εισαγωγή πεδίου ώρας"
+
+msgid "Insert\nAbove"
+msgstr "Εισαγωγή\nπάνω"
+
+msgid "Insert\nCaption"
+msgstr "Εισαγωγή\nλεζάντας"
+
+msgid "Insert\nCitation"
+msgstr "Εισαγωγή\nπαραπομπής"
+
+msgid "Insert\nFootnote"
+msgstr "Εισαγωγή\nυποσημείωσης"
+
+msgid "Insertions and Deletions"
+msgstr "Εισαγωγές και διαγραφές"
+
+msgid "Insertions:"
+msgstr "Εισαγωγές:"
+
+msgid "Inside Borders"
+msgstr "Εσωτερικά περιγράμματα"
+
+msgid "Inside Horizontal Border"
+msgstr "Εσωτερικό οριζόντιο περίγραμμα"
+
+msgid "Inside Vertical Border"
+msgstr "Εσωτερικό κάθετο περίγραμμα"
+
+msgid "Inside:"
+msgstr "Εσωτερικό:"
+
+msgid "Inspect Styles at Selection"
+msgstr "Επιθεώρηση στυλ στην επιλογή"
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ({size})"
+msgstr ""
+
+msgid "Install Language Pack"
+msgstr ""
+
+msgid "Install spelling ({size})"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing turns on downloading of fonts and Language packs from GitHub."
+msgstr ""
+
+msgid "Installing… {percent}%"
+msgstr ""
+
+msgid "Institution"
+msgstr "Ίδρυμα"
+
+msgid "Integral"
+msgstr "Ολοκλήρωμα"
+
+msgid "Integral of e^(−x²)"
+msgstr "Ολοκλήρωμα του e^(−x²)"
+
+msgid "Integral with Limits"
+msgstr "Ολοκλήρωμα με όρια"
+
+msgid "Integral with Stacked Limits"
+msgstr "Ολοκλήρωμα με στοιβαγμένα όρια"
+
+msgid "Integrals"
+msgstr "Ολοκληρώματα"
+
+msgid "Intense Emphasis"
+msgstr "Έντονη έμφαση"
+
+msgid "Intense Quote"
+msgstr "Έντονη παράθεση"
+
+msgid "Intense Reference"
+msgstr "Έντονη αναφορά"
+
+msgid "Interface language:"
+msgstr "Γλώσσα διεπαφής:"
+
+msgid "Interface size:"
+msgstr "Μέγεθος διεπαφής:"
+
+msgid "Interface theme:"
+msgstr "Θέμα διεπαφής:"
+
+msgid "Interface\nTheme"
+msgstr "Θέμα\nδιεπαφής"
+
+msgid "Internet addresses as links"
+msgstr "Διευθύνσεις Internet ως σύνδεσμοι"
+
+msgid "Intersection with Limits"
+msgstr "Τομή με όρια"
+
+msgid "Intersection with Lower Limit"
+msgstr "Τομή με κάτω όριο"
+
+msgid "Intersection with Subscript-Superscript Limits"
+msgstr "Τομή με όρια δείκτη-εκθέτη"
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Cosecant Function"
+msgstr "Αντίστροφη συνάρτηση συντέμνουσας"
+
+msgid "Inverse Cosine Function"
+msgstr "Αντίστροφη συνάρτηση συνημιτόνου"
+
+msgid "Inverse Cotangent Function"
+msgstr "Αντίστροφη συνάρτηση συνεφαπτομένης"
+
+msgid "Inverse Functions"
+msgstr "Αντίστροφες συναρτήσεις"
+
+msgid "Inverse Hyperbolic Cosecant Function"
+msgstr "Αντίστροφη συνάρτηση υπερβολικής συντέμνουσας"
+
+msgid "Inverse Hyperbolic Cosine Function"
+msgstr "Αντίστροφη συνάρτηση υπερβολικού συνημιτόνου"
+
+msgid "Inverse Hyperbolic Cotangent Function"
+msgstr "Αντίστροφη συνάρτηση υπερβολικής συνεφαπτομένης"
+
+msgid "Inverse Hyperbolic Functions"
+msgstr "Αντίστροφες υπερβολικές συναρτήσεις"
+
+msgid "Inverse Hyperbolic Secant Function"
+msgstr "Αντίστροφη συνάρτηση υπερβολικής τέμνουσας"
+
+msgid "Inverse Hyperbolic Sine Function"
+msgstr "Αντίστροφη συνάρτηση υπερβολικού ημιτόνου"
+
+msgid "Inverse Hyperbolic Tangent Function"
+msgstr "Αντίστροφη συνάρτηση υπερβολικής εφαπτομένης"
+
+msgid "Inverse Secant Function"
+msgstr "Αντίστροφη συνάρτηση τέμνουσας"
+
+msgid "Inverse Sine Function"
+msgstr "Αντίστροφη συνάρτηση ημιτόνου"
+
+msgid "Inverse Tangent Function"
+msgstr "Αντίστροφη συνάρτηση εφαπτομένης"
+
+msgid "Ionosphere"
+msgstr "Ιονόσφαιρα"
+
+msgid "Iraq"
+msgstr ""
+
+msgid "Ireland"
+msgstr ""
+
+msgid "Irish"
+msgstr ""
+
+msgid "Is blank"
+msgstr "Είναι κενό"
+
+msgid "Is not blank"
+msgstr "Δεν είναι κενό"
+
+msgid "ISO 690 (author-date)"
+msgstr "ISO 690 (συγγραφέας-ημερομηνία)"
+
+msgid "ISO 690 (numerical)"
+msgstr "ISO 690 (αριθμητικό)"
+
+msgid "Issue"
+msgstr "Τεύχος"
+
+msgid "It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?"
+msgstr "Φαίνεται ότι γράφετε μια επιστολή. Θέλετε φάκελο γι' αυτήν ή πρότυπο επιστολής για να ξεκινήσετε;"
+
+msgid "Italy"
+msgstr ""
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Its dictionary couldn't be read: {reason}"
+msgstr ""
+
+msgid "Jamaica"
+msgstr ""
+
+msgid "Join the ArtCraft community on Discord"
+msgstr "Γίνετε μέλος της κοινότητας ArtCraft στο Discord"
+
+msgid "Join us on Discord: discord.gg/artcraft"
+msgstr "Ελάτε μαζί μας στο Discord: discord.gg/artcraft"
+
+msgid "Jordan"
+msgstr ""
+
+msgid "Journal"
+msgstr "Περιοδικό"
+
+msgid "Journal article"
+msgstr ""
+
+msgid "Justification of a display equation"
+msgstr "Στοίχιση εξίσωσης σε δική της γραμμή"
+
+msgid "Justified"
+msgstr "Πλήρης στοίχιση"
+
+msgid "Kazakhstan"
+msgstr ""
+
+msgid "Keep Lines Together"
+msgstr "Διατήρηση γραμμών μαζί"
+
+msgid "Keep lines together"
+msgstr "Διατήρηση γραμμών μαζί"
+
+msgid "Keep me around"
+msgstr "Κρατήστε με"
+
+msgid "Keep Text Only"
+msgstr "Διατήρηση μόνο κειμένου"
+
+msgid "Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password."
+msgstr "Φυλάξτε τον κωδικό πρόσβασης σε ασφαλές μέρος: χωρίς αυτόν, κανείς, ούτε το WordCraft, δεν μπορεί να ανοίξει το έγγραφο. Αφήστε και τα δύο πλαίσια κενά για να καταργήσετε τον κωδικό."
+
+msgid "Keep with Next"
+msgstr "Διατήρηση με το επόμενο"
+
+msgid "Keep with next"
+msgstr "Διατήρηση με το επόμενο"
+
+msgid "Keeps the fonts and formatting of the copied text."
+msgstr "Διατηρεί τις γραμματοσειρές και τη μορφοποίηση του αντιγραμμένου κειμένου."
+
+msgid "Kerning for fonts:"
+msgstr "Πύκνωση για γραμματοσειρές:"
+
+msgid "Keyboard shortcuts:"
+msgstr "Συντομεύσεις πληκτρολογίου:"
+
+msgid "Keys for this command:"
+msgstr "Πλήκτρα για αυτή την εντολή:"
+
+msgid "Kuwait"
+msgstr ""
+
+msgid "Label changes with:"
+msgstr "Ετικέτα αλλαγών με:"
+
+msgid "Label:"
+msgstr "Ετικέτα:"
+
+msgid "Language data"
+msgstr ""
+
+msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
+
+msgid "Language packs aren't available in the browser."
+msgstr ""
+
+msgid "Language packs come from a test source: {source}"
+msgstr ""
+
+msgid "Language packs need the font store folder, and there is none on this computer."
+msgstr ""
+
+msgid "Language Preferences…"
+msgstr "Προτιμήσεις γλώσσας…"
+
+msgid "Large\nOperator"
+msgstr "Μεγάλος\nτελεστής"
+
+msgid "Largest Only"
+msgstr "Μόνο η μεγαλύτερη πλευρά"
+
+msgid "Lasso Select"
+msgstr "Επιλογή με λάσο"
+
+msgid "Last Column"
+msgstr "Τελευταία στήλη"
+
+msgid "Last Name"
+msgstr "Επώνυμο"
+
+msgid "Last Record"
+msgstr "Τελευταία εγγραφή"
+
+msgid "Last, First; Last, First"
+msgstr "Επώνυμο, Όνομα· Επώνυμο, Όνομα"
+
+msgid "Latin text font:"
+msgstr "Γραμματοσειρά λατινικού κειμένου:"
+
+msgid "Latvian"
+msgstr ""
+
+msgid "Layout Summary"
+msgstr "Σύνοψη διάταξης"
+
+msgid "Layouts"
+msgstr "Διατάξεις"
+
+msgid "Leader"
+msgstr "Οδηγός"
+
+msgid "Leave a recipient out of the merge when a field has this value."
+msgstr "Εξαίρεση παραλήπτη από τη συγχώνευση όταν ένα πεδίο έχει αυτή την τιμή."
+
+msgid "Leave Equation"
+msgstr "Έξοδος από εξίσωση"
+
+msgid "Leave out the date and time of comments and tracked changes when saving"
+msgstr "Παράλειψη ημερομηνίας και ώρας σχολίων και παρακολουθούμενων αλλαγών κατά την αποθήκευση"
+
+msgid "Leave the equation (Esc)"
+msgstr "Έξοδος από την εξίσωση (Esc)"
+
+msgid "leave the equation first"
+msgstr "βγείτε πρώτα από την εξίσωση"
+
+msgid "Leave the label out of the caption"
+msgstr "Παράλειψη ετικέτας από τη λεζάντα"
+
+msgid "Lebanon"
+msgstr ""
+
+msgid "Left Arrow with Text Above"
+msgstr "Αριστερό βέλος με κείμενο πάνω"
+
+msgid "Left Arrow with Text Below"
+msgstr "Αριστερό βέλος με κείμενο κάτω"
+
+msgid "Left Border"
+msgstr "Αριστερό περίγραμμα"
+
+msgid "Left border"
+msgstr "Αριστερό περίγραμμα"
+
+msgid "Left Bracket Twice"
+msgstr "Αριστερή αγκύλη εις διπλούν"
+
+msgid "Left indent"
+msgstr "Αριστερή εσοχή"
+
+msgid "Left Margin"
+msgstr "Αριστερό περιθώριο"
+
+msgid "Left Only"
+msgstr "Μόνο αριστερά"
+
+msgid "Left Right Arrow Above"
+msgstr "Βέλος αριστερά-δεξιά πάνω"
+
+msgid "Left Right Arrow with Text Above"
+msgstr "Βέλος αριστερά-δεξιά με κείμενο πάνω"
+
+msgid "Left Right Arrow with Text Below"
+msgstr "Βέλος αριστερά-δεξιά με κείμενο κάτω"
+
+msgid "Left Subscript-Superscript"
+msgstr "Δείκτης-εκθέτης αριστερά"
+
+msgid "Left-to-right"
+msgstr "Αριστερά προς δεξιά"
+
+msgid "Left-to-Right Text Direction"
+msgstr "Κατεύθυνση κειμένου αριστερά προς δεξιά"
+
+msgid "Leftwards Arrow Above"
+msgstr "Βέλος προς αριστερά πάνω"
+
+msgid "Leftwards Harpoon Above"
+msgstr "Χαρπούνι προς αριστερά πάνω"
+
+msgid "Legal   8.50\" × 14.00\""
+msgstr "Legal   8,50\" × 14,00\""
+
+msgid "Legal style numbering"
+msgstr "Αρίθμηση νομικού στυλ"
+
+msgid "Legend"
+msgstr "Υπόμνημα"
+
+msgid "Less Contrast −20%"
+msgstr ""
+
+msgid "Less than"
+msgstr "Μικρότερο από"
+
+msgid "Less than or equal"
+msgstr "Μικρότερο ή ίσο"
+
+msgctxt "template"
+msgid "Letter"
+msgstr "Επιστολή"
+
+msgid "Letter   8.50\" × 11.00\""
+msgstr "Letter   8,50\" × 11,00\""
+
+msgid "Letter headings"
+msgstr "Επικεφαλίδες επιστολής"
+
+msgid "Letter template"
+msgstr "Πρότυπο επιστολής"
+
+msgid "Letter-Like Symbols"
+msgstr "Σύμβολα που μοιάζουν με γράμματα"
+
+msgid "Letters"
+msgstr "Γράμματα"
+
+msgid "Level 5"
+msgstr "Επίπεδο 5"
+
+msgid "Level 6"
+msgstr "Επίπεδο 6"
+
+msgid "Level 7"
+msgstr "Επίπεδο 7"
+
+msgid "Level 8"
+msgstr "Επίπεδο 8"
+
+msgid "Level 9"
+msgstr "Επίπεδο 9"
+
+msgid "Level {n}"
+msgstr "Επίπεδο {n}"
+
+msgid "Levels:"
+msgstr "Επίπεδα:"
+
+msgid "Licence: {licence}. Source: {source}"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr ""
+
+msgid "Light Variations"
+msgstr "Ανοιχτές παραλλαγές"
+
+msgid "Light with Outline"
+msgstr "Ανοιχτό με περίγραμμα"
+
+msgid "Limit"
+msgstr "Όριο"
+
+msgid "Limit and"
+msgstr "Όριο και"
+
+msgid "Limit and\nLog"
+msgstr "Όριο και\nλογάριθμος"
+
+msgid "Limit consecutive hyphens to:"
+msgstr "Περιορισμός διαδοχικών παυλών σε:"
+
+msgid "Limit Example"
+msgstr "Παράδειγμα ορίου"
+
+msgid "Limit formatting to a selection of styles"
+msgstr "Περιορισμός μορφοποίησης σε επιλογή στυλ"
+
+msgid "Line and Page Breaks"
+msgstr "Αλλαγές γραμμής και σελίδας"
+
+msgid "Line and Paragraph Spacing"
+msgstr "Διάστιχο και απόσταση παραγράφου"
+
+msgid "Line between"
+msgstr "Γραμμή μεταξύ"
+
+msgid "Line Break"
+msgstr "Αλλαγή γραμμής"
+
+msgid "Line breaking"
+msgstr "Σπάσιμο γραμμής"
+
+msgid "Line End"
+msgstr "Τέλος γραμμής"
+
+msgid "Line Number"
+msgstr "Αριθμός γραμμής"
+
+msgid "Line Numbering Options…"
+msgstr "Επιλογές αρίθμησης γραμμών…"
+
+msgid "Line Numbers"
+msgstr "Αριθμοί γραμμών"
+
+msgid "Line Spacing"
+msgstr "Διάστιχο"
+
+msgid "Line Spacing Options…"
+msgstr "Επιλογές διάστιχου…"
+
+msgid "Line spacing:"
+msgstr "Διάστιχο:"
+
+msgid "Line Start"
+msgstr "Αρχή γραμμής"
+
+msgid "Linear Diagonal - Bottom Left to Top Right"
+msgstr "Γραμμική διαγώνιος - Κάτω αριστερά προς πάνω δεξιά"
+
+msgid "Linear Diagonal - Bottom Right to Top Left"
+msgstr "Γραμμική διαγώνιος - Κάτω δεξιά προς πάνω αριστερά"
+
+msgid "Linear Diagonal - Top Left to Bottom Right"
+msgstr "Γραμμική διαγώνιος - Πάνω αριστερά προς κάτω δεξιά"
+
+msgid "Linear Diagonal - Top Right to Bottom Left"
+msgstr "Γραμμική διαγώνιος - Πάνω δεξιά προς κάτω αριστερά"
+
+msgid "Linear Down"
+msgstr "Γραμμικό προς τα κάτω"
+
+msgid "Linear Fraction"
+msgstr "Γραμμικό κλάσμα"
+
+msgid "Linear Left"
+msgstr "Γραμμικό προς τα αριστερά"
+
+msgid "Linear Right"
+msgstr "Γραμμικό προς τα δεξιά"
+
+msgid "Linear Up"
+msgstr "Γραμμικό προς τα πάνω"
+
+msgid "Lines and characters"
+msgstr "Γραμμές και χαρακτήρες"
+
+msgid "Lines only"
+msgstr "Μόνο γραμμές"
+
+msgid "Lines per page:"
+msgstr "Γραμμές ανά σελίδα:"
+
+msgid "Lines to drop:"
+msgstr "Γραμμές για πτώση:"
+
+msgid "Link entries to their headings"
+msgstr "Σύνδεση καταχωρήσεων με τις επικεφαλίδες τους"
+
+msgid "Link level to style:"
+msgstr "Σύνδεση επιπέδου με στυλ:"
+
+msgid "Link to Previous"
+msgstr "Σύνδεση με προηγούμενο"
+
+msgid "Link to:"
+msgstr "Σύνδεση με:"
+
+msgid "Linked style (paragraph and character)"
+msgstr "Συνδεδεμένο στυλ (παράγραφος και χαρακτήρας)"
+
+msgid "Links and References"
+msgstr "Σύνδεσμοι και αναφορές"
+
+msgid "Link…"
+msgstr "Σύνδεσμος…"
+
+msgid "Linux display server"
+msgstr ""
+
+msgid "List Definition"
+msgstr "Ορισμός λίστας"
+
+msgid "List entries"
+msgstr "Καταχωρήσεις λίστας"
+
+msgid "List Paragraph"
+msgstr "Παράγραφος λίστας"
+
+msgid "List Table 3 – Blue"
+msgstr "Πίνακας λίστας 3 – Μπλε"
+
+msgid "List Table 3 – Green"
+msgstr "Πίνακας λίστας 3 – Πράσινος"
+
+msgid "List Table 3 – Orange"
+msgstr "Πίνακας λίστας 3 – Πορτοκαλί"
+
+msgid "List Table 3 – Purple"
+msgstr "Πίνακας λίστας 3 – Μωβ"
+
+msgid "Lit from Bottom"
+msgstr "Φωτισμένο από κάτω"
+
+msgid "Lit from Top"
+msgstr "Φωτισμένο από πάνω"
+
+msgid "Lithuanian"
+msgstr ""
+
+msgid "Load System Installed Fonts…"
+msgstr "Φόρτωση εγκατεστημένων γραμματοσειρών συστήματος…"
+
+msgid "Loaded {count} system fonts."
+msgstr "Φορτώθηκαν {count} γραμματοσειρές συστήματος."
+
+msgid "Local font access is not supported by your browser."
+msgstr "Η πρόσβαση σε τοπικές γραμματοσειρές δεν υποστηρίζεται από το πρόγραμμα περιήγησής σας."
+
+msgid "Local font access was denied."
+msgstr "Η πρόσβαση σε τοπικές γραμματοσειρές απορρίφθηκε."
+
+msgid "Local recovery is unavailable or still loading."
+msgstr ""
+
+msgid "Location: {path}"
+msgstr "Θέση: {path}"
+
+msgid "Lock aspect ratio"
+msgstr "Κλείδωμα αναλογίας διαστάσεων"
+
+msgid "Lock Fields"
+msgstr "Κλείδωμα πεδίων"
+
+msgid "Log"
+msgstr "Λογάριθμος"
+
+msgid "Logarithm"
+msgstr "Λογάριθμος"
+
+msgid "Logarithm with Base"
+msgstr "Λογάριθμος με βάση"
+
+msgid "Logical AND"
+msgstr "Λογικό AND"
+
+msgid "Logical AND with Limits"
+msgstr "Λογικό AND με όρια"
+
+msgid "Logical OR"
+msgstr "Λογικό OR"
+
+msgid "Logical OR with Limits"
+msgstr "Λογικό OR με όρια"
+
+msgid "Lorem ipsum: because the real words are still at the café."
+msgstr "Lorem ipsum: γιατί οι αληθινές λέξεις είναι ακόμα στο καφέ."
+
+msgid "Lum:"
+msgstr "Φωτ.:"
+
+msgid "Luxembourg"
+msgstr ""
+
+msgid "Macao SAR"
+msgstr ""
+
+msgid "Macedonian"
+msgstr ""
+
+msgid "Macro name:"
+msgstr ""
+
+msgid "Macros"
+msgstr "Μακροεντολές"
+
+msgid "Made from the author and year when empty"
+msgstr "Δημιουργείται από τον συγγραφέα και το έτος όταν είναι κενό"
+
+msgid "Magazine or newspaper article"
+msgstr "Άρθρο περιοδικού ή εφημερίδας"
+
+msgid "Mail Merge"
+msgstr "Συγχώνευση αλληλογραφίας"
+
+msgid "Mailings"
+msgstr "Αλληλογραφία"
+
+msgid "Main entry:"
+msgstr "Κύρια καταχώρηση:"
+
+msgid "Make WordCraft the default for Word documents…"
+msgstr "Ορισμός του WordCraft ως προεπιλογής για έγγραφα Word…"
+
+msgid "Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate."
+msgstr "Κάνει την κορδέλα, τα μενού και τα παράθυρα διαλόγου μεγαλύτερα ή μικρότερα. Το Αυτόματο ακολουθεί την κλιμάκωση οθόνης του συστήματός σας· 100% είναι ένα pixel οθόνης ανά σημείο. Το ζουμ εγγράφου είναι ξεχωριστό."
+
+msgid "Malaysia"
+msgstr ""
+
+msgid "Manage Sources"
+msgstr "Διαχείριση πηγών"
+
+msgid "Manage Styles"
+msgstr "Διαχείριση στυλ"
+
+msgid "Manage Styles…"
+msgstr "Διαχείριση στυλ…"
+
+msgid "Manual Hyphenation"
+msgstr "Χειροκίνητος συλλαβισμός"
+
+msgid "Manual hyphenation is complete."
+msgstr "Ο χειροκίνητος συλλαβισμός ολοκληρώθηκε."
+
+msgid "Manual Line Break"
+msgstr "Χειροκίνητη αλλαγή γραμμής"
+
+msgid "Manual Page Break"
+msgstr "Χειροκίνητη αλλαγή σελίδας"
+
+msgid "Manual…"
+msgstr "Χειροκίνητο…"
+
+msgid "Many pages"
+msgstr "Πολλές σελίδες"
+
+msgid "Mark"
+msgstr "Επισήμανση"
+
+msgid "Mark All"
+msgstr "Επισήμανση όλων"
+
+msgid "Mark as decorative"
+msgstr "Επισήμανση ως διακοσμητικό"
+
+msgid "Mark Citation"
+msgstr "Επισήμανση παραπομπής"
+
+msgid "Mark Entry"
+msgstr "Σήμανση καταχώρησης"
+
+msgid "Mark Entry…"
+msgstr "Σήμανση καταχώρησης…"
+
+msgid "Mark grammar errors as you type"
+msgstr "Επισήμανση γραμματικών σφαλμάτων κατά την πληκτρολόγηση"
+
+msgid "Mark Index Entry"
+msgstr "Επισήμανση καταχώρησης ευρετηρίου"
+
+msgid "Mark selected text as:"
+msgstr "Επισήμανση επιλεγμένου κειμένου ως:"
+
+msgid "Mark\nCitation"
+msgstr "Επισήμανση\nπαραπομπής"
+
+msgid "Mark\nEntry"
+msgstr "Επισήμανση\nκαταχώρησης"
+
+msgid "Markdown (*.md)"
+msgstr "Markdown (*.md)"
+
+msgid "Match case"
+msgstr "Διάκριση πεζών/κεφαλαίων"
+
+msgid "Match Fields"
+msgstr "Αντιστοίχιση πεδίων"
+
+msgid "Match prefix"
+msgstr "Αντιστοίχιση προθέματος"
+
+msgid "Match suffix"
+msgstr "Αντιστοίχιση καταλήξεως"
+
+msgid "Matches: {count}"
+msgstr "Αντιστοιχίσεις: {count}"
+
+msgid "Math AutoCorrect"
+msgstr "Αυτόματη διόρθωση μαθηματικών"
+
+msgid "Matrices with Brackets"
+msgstr "Πίνακες με αγκύλες"
+
+msgid "Matrix"
+msgstr "Πίνακας"
+
+msgid "Maximum Example"
+msgstr "Παράδειγμα μεγίστου"
+
+msgid "Measured By"
+msgstr "Μετράται από"
+
+msgid "Measurement units:"
+msgstr "Μονάδες μέτρησης:"
+
+msgid "Merge cells before split"
+msgstr "Συγχώνευση κελιών πριν από τη διαίρεση"
+
+msgid "Merge Formatting"
+msgstr "Συγχώνευση μορφοποίησης"
+
+msgid "Merge Record #"
+msgstr "Εγγραφή # συγχώνευσης"
+
+msgid "Mesosphere"
+msgstr "Μεσόσφαιρα"
+
+msgid "Mexico"
+msgstr ""
+
+msgid "Midline Dots"
+msgstr "Κουκκίδες μέσης γραμμής"
+
+msgid "Minus Equal"
+msgstr "Μείον ίσον"
+
+msgid "Mirror indents"
+msgstr "Κατοπτρικές εσοχές"
+
+msgid "Mirror margins"
+msgstr "Κατοπτρικά περιθώρια"
+
+msgid "Mirrored"
+msgstr "Κατοπτρικά"
+
+msgid "Missing Fonts"
+msgstr ""
+
+msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
+msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team και οι συνεισφέροντες του WordCraft."
+
+msgid "MLA"
+msgstr "MLA"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Moderate"
+msgstr "Μέτριο"
+
+msgid "Modify Style"
+msgstr "Τροποποίηση στυλ"
+
+msgid "Modify Table Style"
+msgstr "Τροποποίηση στυλ πίνακα"
+
+msgid "Modify Table Style…"
+msgstr "Τροποποίηση στυλ πίνακα…"
+
+msgid "Modify…"
+msgstr "Τροποποίηση…"
+
+msgid "Mon"
+msgstr "Δευ"
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Montenegro"
+msgstr ""
+
+msgid "Month"
+msgstr "Μήνας"
+
+msgid "More >>"
+msgstr "Περισσότερα >>"
+
+msgid "More Colors…"
+msgstr "Περισσότερα χρώματα…"
+
+msgid "More Columns…"
+msgstr "Περισσότερες στήλες…"
+
+msgid "More Commands…"
+msgstr "Περισσότερες εντολές…"
+
+msgid "More Contrast +20%"
+msgstr ""
+
+msgid "More Gradients…"
+msgstr "Περισσότερες διαβαθμίσεις…"
+
+msgid "More options"
+msgstr ""
+
+msgid "More Paper Sizes…"
+msgstr "Περισσότερα μεγέθη χαρτιού…"
+
+msgid "More Symbols…"
+msgstr "Περισσότερα σύμβολα…"
+
+msgid "More tabs"
+msgstr "Περισσότερες καρτέλες"
+
+msgid "More templates →"
+msgstr "Περισσότερα πρότυπα →"
+
+msgid "More Underlines…"
+msgstr "Περισσότερες υπογραμμίσεις…"
+
+msgid "Morocco"
+msgstr ""
+
+msgid "Move in Equation"
+msgstr "Μετακίνηση στην εξίσωση"
+
+msgid "Move or Resize"
+msgstr "Μετακίνηση ή αλλαγή μεγέθους"
+
+msgid "Move Pane: {title}"
+msgstr ""
+
+msgid "Move Paragraph Down"
+msgstr "Μετακίνηση παραγράφου κάτω"
+
+msgid "Move Paragraph Up"
+msgstr "Μετακίνηση παραγράφου πάνω"
+
+msgid "Move Past Citation"
+msgstr "Μετακίνηση μετά την παραπομπή"
+
+msgid "Move Past\nCitation"
+msgstr "Μετακίνηση μετά\nτην παραπομπή"
+
+msgid "Move Selected Ink"
+msgstr "Μετακίνηση επιλεγμένου μελανιού"
+
+msgid "Move Table by Dragging"
+msgstr "Μετακίνηση πίνακα με σύρσιμο"
+
+msgid "Move with Text"
+msgstr "Μετακίνηση με το κείμενο"
+
+msgid "Moved from"
+msgstr "Μετακινήθηκε από"
+
+msgid "Moved from:"
+msgstr "Μετακινήθηκε από:"
+
+msgid "Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely."
+msgstr "Τα μετακινούμενα αντικείμενα προσκολλώνται στα άκρα και το κέντρο της σελίδας, στα περιθώρια και σε άλλα αντικείμενα. Κρατήστε Alt για ελεύθερη μετακίνηση."
+
+msgid "Moved to"
+msgstr "Μετακινήθηκε σε"
+
+msgid "Moved to:"
+msgstr "Μετακινήθηκε σε:"
+
+msgid "Moves"
+msgstr "Μετακινήσεις"
+
+msgid "Mozambique"
+msgstr ""
+
+msgid "Multilevel List"
+msgstr "Λίστα πολλών επιπέδων"
+
+msgid "Multilevel List Library"
+msgstr "Βιβλιοθήκη λιστών πολλών επιπέδων"
+
+msgid "Multiple Pages"
+msgstr "Πολλές σελίδες"
+
+msgid "Mute agent messages"
+msgstr "Σίγαση μηνυμάτων πρακτόρων"
+
+msgid "Muted 50%"
+msgstr ""
+
+msgid "My list has"
+msgstr "Η λίστα μου έχει"
+
+msgid "Name of the file this document is saved as"
+msgstr "Όνομα του αρχείου με το οποίο είναι αποθηκευμένο το έγγραφο"
+
+msgid "Narrow"
+msgstr "Στενό"
+
+msgid "Narrow  {size} all"
+msgstr "Στενό  {size} παντού"
+
+msgid "Natural Logarithm"
+msgstr "Φυσικός λογάριθμος"
+
+msgid "Nature"
+msgstr "Φύση"
+
+msgid "Navigation Pane"
+msgstr "Παράθυρο περιήγηση"
+
+msgid "Negated Relations"
+msgstr "Αρνημένες σχέσεις"
+
+msgid "Netherlands"
+msgstr ""
+
+msgid "New blank documents are written in this language"
+msgstr ""
+
+msgid "New Comment"
+msgstr "Νέο σχόλιο"
+
+msgid "New comments and tracked changes are recorded under this name and these initials."
+msgstr "Τα νέα σχόλια και οι παρακολουθούμενες αλλαγές καταγράφονται με αυτό το όνομα και αυτά τα αρχικά."
+
+msgid "New Documents Based on This Template"
+msgstr ""
+
+msgid "New documents based on this template"
+msgstr ""
+
+msgid "New documents will use this font."
+msgstr ""
+
+msgid "New documents will use this page setup."
+msgstr ""
+
+msgid "New documents will use this paragraph formatting."
+msgstr ""
+
+msgid "New documents will use this style."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting."
+msgstr ""
+
+msgid "New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?"
+msgstr ""
+
+msgid "New Drawing Canvas"
+msgstr "Νέος καμβάς σχεδίασης"
+
+msgid "New Entry"
+msgstr "Νέα καταχώρηση"
+
+msgid "New Label"
+msgstr "Νέα ετικέτα"
+
+msgid "New Label…"
+msgstr "Νέα ετικέτα…"
+
+msgid "New Paragraph"
+msgstr "Νέα παράγραφος"
+
+msgid "New shortcut:"
+msgstr "Νέα συντόμευση:"
+
+msgid "New Tab"
+msgstr "Νέα καρτέλα"
+
+msgid "New Table Style"
+msgstr "Νέο στυλ πίνακα"
+
+msgid "New Table Style…"
+msgstr "Νέο στυλ πίνακα…"
+
+msgid "New word"
+msgstr "Νέα λέξη"
+
+msgid "New Zealand"
+msgstr ""
+
+msgid "New\nComment"
+msgstr "Νέο\nσχόλιο"
+
+msgid "New\nWindow"
+msgstr "Νέο\nπαράθυρο"
+
+msgid "Next Comment"
+msgstr "Επόμενο σχόλιο"
+
+msgid "Next Field"
+msgstr "Επόμενο πεδίο"
+
+msgid "Next Footnote"
+msgstr "Επόμενη υποσημείωση"
+
+msgid "Next Record"
+msgstr "Επόμενη εγγραφή"
+
+msgid "Next Section"
+msgstr "Επόμενη ενότητα"
+
+msgid "Next Sentence"
+msgstr "Επόμενη πρόταση"
+
+msgid "Next sentence"
+msgstr "Επόμενη πρόταση"
+
+msgid "Nib floats over the window with tips and the occasional remark."
+msgstr "Ο Nib αιωρείται πάνω από το παράθυρο με συμβουλές και περιστασιακές παρατηρήσεις."
+
+msgid "Nib, your assistant. Drag to move; right-click for options."
+msgstr "Ο Nib, ο βοηθός σας. Σύρετε για μετακίνηση· δεξί κλικ για επιλογές."
+
+msgid "Nicaragua"
+msgstr ""
+
+msgid "No accessibility issues found."
+msgstr "Δεν βρέθηκαν προβλήματα προσβασιμότητας."
+
+msgid "No Border"
+msgstr "Χωρίς περίγραμμα"
+
+msgid "No changes (read only)"
+msgstr "Χωρίς αλλαγές (μόνο ανάγνωση)"
+
+msgid "No contributor data was built into this copy."
+msgstr "Αυτό το αντίγραφο δεν περιλαμβάνει δεδομένα συνεισφερόντων."
+
+msgid "No document is open. Create a document or open one first."
+msgstr "Κανένα έγγραφο δεν είναι ανοιχτό. Δημιουργήστε ή ανοίξτε πρώτα ένα έγγραφο."
+
+msgid "no equation at the caret"
+msgstr "καμία εξίσωση στον δρομέα"
+
+msgid "No errors found: every merge field is in the recipient list."
+msgstr "Δεν βρέθηκαν σφάλματα: κάθε πεδίο συγχώνευσης βρίσκεται στη λίστα παραληπτών."
+
+msgid "No Fill"
+msgstr "Χωρίς γέμισμα"
+
+msgid "No fill"
+msgstr "Χωρίς γέμισμα"
+
+msgid "No Glow"
+msgstr "Χωρίς λάμψη"
+
+msgid "No Gradient"
+msgstr "Χωρίς διαβάθμιση"
+
+msgid "No grid"
+msgstr "Χωρίς πλέγμα"
+
+msgid "No header row"
+msgstr "Χωρίς γραμμή κεφαλίδας"
+
+msgid "No icons match your search."
+msgstr "Κανένα εικονίδιο δεν ταιριάζει με την αναζήτησή σας."
+
+msgid "No items to show."
+msgstr "Κανένα στοιχείο για εμφάνιση."
+
+msgid "No language matches your search."
+msgstr ""
+
+msgid "No languages to show yet."
+msgstr ""
+
+msgid "No Markup"
+msgstr "Χωρίς αλλαγές"
+
+msgid "No model credits were built into this copy."
+msgstr "Αυτό το αντίγραφο δεν περιλαμβάνει πιστώσεις μοντέλου."
+
+msgid "No new sources in that file"
+msgstr ""
+
+msgid "No other WordCraft windows are open."
+msgstr ""
+
+msgid "No Outline"
+msgstr "Χωρίς περίγραμμα"
+
+msgid "No Paragraph Space"
+msgstr "Χωρίς κενό παραγράφου"
+
+msgid "No printers found. Configure a system printer or export a PDF."
+msgstr "Δεν βρέθηκαν εκτυπωτές. Διαμορφώστε εκτυπωτή συστήματος ή εξαγάγετε PDF."
+
+msgid "No recovery copies."
+msgstr ""
+
+msgid "No Reflection"
+msgstr "Χωρίς αντανάκλαση"
+
+msgid "No Scaling"
+msgstr ""
+
+msgid "No Shadow"
+msgstr "Χωρίς σκιά"
+
+msgid "No Soft Edges"
+msgstr "Χωρίς μαλακά άκρα"
+
+msgid "No sources yet."
+msgstr "Δεν υπάρχουν ακόμη πηγές."
+
+msgid "No Spacing"
+msgstr "Χωρίς διάστημα"
+
+msgid "No spelling dictionary for {language} is installed, so it isn't checked. WordCraft looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations."
+msgstr "Δεν είναι εγκατεστημένο ορθογραφικό λεξικό για {language}, επομένως δεν γίνεται έλεγχος. Το WordCraft αναζητά το λεξικό Hunspell {name} στον φάκελο WORDCRAFT_DICTIONARIES και στις συνήθεις θέσεις συστήματος."
+
+msgid "No templates match your search."
+msgstr "Κανένα πρότυπο δεν ταιριάζει με την αναζήτησή σας."
+
+msgid "No Transform"
+msgstr "Χωρίς μετασχηματισμό"
+
+msgid "No watermark"
+msgstr ""
+
+msgid "No words yet. Add to Dictionary on a misspelled word puts it here."
+msgstr "Δεν υπάρχουν λέξεις ακόμη. Η Προσθήκη στο λεξικό σε μια λανθασμένη λέξη την τοποθετεί εδώ."
+
+msgid "No-Width Non Break"
+msgstr "Μη-διακοπή μηδενικού πλάτους"
+
+msgid "No-Width Optional Break"
+msgstr "Προαιρετική αλλαγή μηδενικού πλάτους"
+
+msgid "Nonbreaking Hyphen"
+msgstr "Παύλα μη διακοπής"
+
+msgid "Normal  {size} all"
+msgstr "Κανονικό  {size} παντού"
+
+msgid "Normal Indent"
+msgstr "Κανονική εσοχή"
+
+msgid "Normal probability density"
+msgstr "Πυκνότητα κανονικής πιθανότητας"
+
+msgid "Normal speed"
+msgstr "Κανονική ταχύτητα"
+
+msgid "Normal Style"
+msgstr "Κανονικό στυλ"
+
+msgid "Normal Table"
+msgstr "Κανονικός πίνακας"
+
+msgid "Normal Text"
+msgstr "Κανονικό κείμενο"
+
+msgid "Normal Word Document"
+msgstr "Κανονικό έγγραφο Word"
+
+msgid "North"
+msgstr "Βορράς"
+
+msgid "Norwegian (Bokmål)"
+msgstr "Νορβηγικά (bokmål)"
+
+msgid "Norwegian (Nynorsk)"
+msgstr ""
+
+msgid "Not"
+msgstr "Όχι"
+
+msgid "Not available right now"
+msgstr "Μη διαθέσιμο αυτή τη στιγμή"
+
+msgid "Not available yet"
+msgstr ""
+
+msgid "not editing an equation"
+msgstr "δεν γίνεται επεξεργασία εξίσωσης"
+
+msgid "Not equal to"
+msgstr "Δεν είναι ίσο με"
+
+msgid "Not in Dictionary"
+msgstr ""
+
+msgid "Not linked: click a text box"
+msgstr "Μη συνδεδεμένο: κάντε κλικ σε πλαίσιο κειμένου"
+
+msgid "Not now"
+msgstr "Όχι τώρα"
+
+msgid "Not saved"
+msgstr "Μη αποθηκευμένο"
+
+msgid "Not saved yet"
+msgstr "Δεν έχει αποθηκευτεί ακόμη"
+
+msgid "Not set"
+msgstr "Μη ορισμένο"
+
+msgid "Not set: the system's usual places"
+msgstr "Μη ορισμένο: οι συνήθεις θέσεις του συστήματος"
+
+msgid "Not used by any command"
+msgstr "Δεν χρησιμοποιείται από καμία εντολή"
+
+msgid "Not {name}"
+msgstr "Όχι {name}"
+
+msgid "Nothing"
+msgstr "Τίποτα"
+
+msgid "Nothing collected yet. Items you copy or cut appear here."
+msgstr "Τίποτα δεν έχει συλλεχθεί ακόμη. Τα στοιχεία που αντιγράφετε ή αποκόπτετε εμφανίζονται εδώ."
+
+msgid "nothing is selected"
+msgstr "δεν έχει επιλεγεί τίποτα"
+
+msgid "Nothing of this type in the document."
+msgstr ""
+
+msgid "Now used by {command}"
+msgstr "Τώρα χρησιμοποιείται από {command}"
+
+msgid "Nudge"
+msgstr "Μικρομετακίνηση"
+
+msgid "Num Occurrences"
+msgstr "Αριθμός εμφανίσεων"
+
+msgid "Number alignment:"
+msgstr "Στοίχιση αριθμού:"
+
+msgid "Number format"
+msgstr "Μορφή αριθμού"
+
+msgid "Number of columns:"
+msgstr "Αριθμός στηλών:"
+
+msgid "Number of rows:"
+msgstr "Αριθμός γραμμών:"
+
+msgid "Number of the page the field sits on"
+msgstr "Αριθμός της σελίδας στην οποία βρίσκεται το πεδίο"
+
+msgid "Number of the section the field sits in"
+msgstr "Αριθμός της ενότητας στην οποία βρίσκεται το πεδίο"
+
+msgid "Number only, without the label's words"
+msgstr "Μόνο ο αριθμός, χωρίς τις λέξεις της ετικέτας"
+
+msgid "Number style for this level:"
+msgstr "Στυλ αριθμού για αυτό το επίπεδο:"
+
+msgid "Number the equation; the number sits at the right margin (or type # then the number)"
+msgstr "Αριθμήστε την εξίσωση· ο αριθμός τοποθετείται στο δεξί περιθώριο (ή πληκτρολογήστε # και μετά τον αριθμό)"
+
+msgid "Numbering"
+msgstr "Αρίθμηση"
+
+msgid "Numbering:"
+msgstr "Αρίθμηση:"
+
+msgid "Numbering…"
+msgstr "Αρίθμηση…"
+
+msgid "Numerals"
+msgstr "Αριθμητικά ψηφία"
+
+msgid "Numerals:"
+msgstr "Αριθμητικά ψηφία:"
+
+msgid "n×n Identity Matrix"
+msgstr "Μοναδιαίος πίνακας n×n"
+
+msgid "n×n Matrix"
+msgstr "Πίνακας n×n"
+
+msgid "Odd Banded Columns"
+msgstr "Μονές εναλλασσόμενες στήλες"
+
+msgid "Odd Banded Rows"
+msgstr "Μονές εναλλασσόμενες γραμμές"
+
+msgid "Odd Page"
+msgstr "Μονή σελίδα"
+
+msgid "Office"
+msgstr "Γραφείο"
+
+msgid "Office 2003 Default"
+msgstr "Προεπιλογή Office 2003"
+
+msgid "Offset (pt):"
+msgstr "Μετατόπιση (pt):"
+
+msgid "Offset: Bottom"
+msgstr "Μετατόπιση: Κάτω"
+
+msgid "Offset: Bottom Left"
+msgstr "Μετατόπιση: Κάτω αριστερά"
+
+msgid "Offset: Bottom Right"
+msgstr "Μετατόπιση: Κάτω δεξιά"
+
+msgid "Offset: Center"
+msgstr "Μετατόπιση: Κέντρο"
+
+msgid "Offset: Left"
+msgstr "Μετατόπιση: Αριστερά"
+
+msgid "Offset: Right"
+msgstr "Μετατόπιση: Δεξιά"
+
+msgid "Offset: Top"
+msgstr "Μετατόπιση: Πάνω"
+
+msgid "Offset: Top Left"
+msgstr "Μετατόπιση: Πάνω αριστερά"
+
+msgid "Offset: Top Right"
+msgstr "Μετατόπιση: Πάνω δεξιά"
+
+msgid "Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel."
+msgstr "Παλιά πλήκτρα μενού: Alt, {keys}. Συνεχίστε να πληκτρολογείτε ή πατήστε Esc για ακύρωση."
+
+msgid "On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off."
+msgstr "Ενεργό: ο δρομέας ολισθαίνει στη νέα θέση όταν πληκτρολογείτε ή χρησιμοποιείτε τα βελάκια και το αναβόσβημά του ξεθωριάζει. Ανενεργό: πηδά και αναβοσβήνει."
+
+msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
+msgstr "Ενεργό: το WordCraft ανοίγει στο Αρχείο › Κεντρική, με κενό έγγραφο, τα πρότυπα και τα πρόσφατα έγγραφά σας. Ανενεργό: ανοίγει κενό έγγραφο."
+
+msgid "One"
+msgstr "Ένα"
+
+msgid "One half"
+msgstr "Ένα δεύτερο"
+
+msgid "One label per recipient"
+msgstr "Μία ετικέτα ανά παραλήπτη"
+
+msgid "One line per item. Enter adds an item."
+msgstr "Μία γραμμή ανά στοιχείο. Το Enter προσθέτει στοιχείο."
+
+msgid "One Page"
+msgstr "Μία σελίδα"
+
+msgid "One-sided"
+msgstr "Μονής όψης"
+
+msgid "Only allow this kind of editing:"
+msgstr "Να επιτρέπεται μόνο αυτού του είδους επεξεργασία:"
+
+msgid "Only comments can be added, except in regions marked editable."
+msgstr "Μπορούν να προστεθούν μόνο σχόλια, εκτός από περιοχές που έχουν επισημανθεί ως επεξεργάσιμες."
+
+msgid "Only for the selected text"
+msgstr "Μόνο για το επιλεγμένο κείμενο"
+
+msgid "Only form fields can be filled in."
+msgstr "Μπορούν να συμπληρωθούν μόνο πεδία φόρμας."
+
+msgid "only in Outline view"
+msgstr "μόνο στην προβολή διάρθρωσης"
+
+msgid "Only in this document"
+msgstr ""
+
+msgid "Only label and number"
+msgstr ""
+
+msgid "Only text properties can be changed."
+msgstr ""
+
+msgid "Only the allowed styles can be applied."
+msgstr "Μπορούν να εφαρμοστούν μόνο τα επιτρεπόμενα στυλ."
+
+msgid "only the desktop app has several windows"
+msgstr ""
+
+msgid "Only web (http, https) and email (mailto) links can be followed"
+msgstr "Μπορούν να ακολουθηθούν μόνο σύνδεσμοι ιστού (http, https) και email (mailto)"
+
+msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
+msgstr ""
+
+msgctxt "spacing"
+msgid "Open"
+msgstr ""
+
+msgid "Open a document first"
+msgstr "Ανοίξτε πρώτα ένα έγγραφο"
+
+msgid "Open a file with WordCraft's own browser when the system file dialog doesn't appear."
+msgstr "Ανοίξτε ένα αρχείο με το πρόγραμμα περιήγησης του WordCraft όταν δεν εμφανίζεται το παράθυρο διαλόγου αρχείου του συστήματος."
+
+msgid "OpenDocument Text (*.odt)"
+msgstr "Κείμενο OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
+
+msgid "Opening print dialog…"
+msgstr "Άνοιγμα παραθύρου διαλόγου εκτύπωσης…"
+
+msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on."
+msgstr "Από εδώ και πέρα, τα αρχεία .docx, .doc, .rtf και .odt και τα πρότυπα Word ανοίγουν με το WordCraft."
+
+msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
+msgstr "Ανοίγει τις Ρυθμίσεις › Προεπιλεγμένες εφαρμογές, όπου επιλέγετε το WordCraft για .docx και τους άλλους τύπους εγγράφων."
+
+msgid "Operator"
+msgstr "Τελεστής"
+
+msgid "Operator Structures"
+msgstr "Δομές τελεστών"
+
+msgid "Operators"
+msgstr "Τελεστές"
+
+msgid "Optional Hyphen"
+msgstr "Προαιρετική παύλα"
+
+msgid "Or"
+msgstr "Ή"
+
+msgid "Or save a copy in another format:"
+msgstr "Ή αποθηκεύστε αντίγραφο σε άλλη μορφή:"
+
+msgid "Ordinals (1st) as superscript"
+msgstr "Τακτικά (1st) ως εκθέτης"
+
+msgid "Organizer"
+msgstr "Οργανωτής"
+
+msgid "Organizer…"
+msgstr "Οργανωτής…"
+
+msgid "Original document"
+msgstr "Αρχικό έγγραφο"
+
+msgid "Original size"
+msgstr "Αρχικό μέγεθος"
+
+msgid "Other Large Operators"
+msgstr "Άλλοι μεγάλοι τελεστές"
+
+msgid "Other styles and their TOC level:"
+msgstr "Άλλα στυλ και το επίπεδό τους στον πίνακα περιεχομένων:"
+
+msgid "Other:"
+msgstr "Άλλο:"
+
+msgid "Otherwise insert:"
+msgstr "Διαφορετικά εισάγετε:"
+
+msgid "Outline Level"
+msgstr "Επίπεδο διάρθρωσης"
+
+msgid "Outline level"
+msgstr "Επίπεδο διάρθρωσης"
+
+msgid "Outline levels"
+msgstr "Επίπεδα διάρθρωσης"
+
+msgid "Outline State"
+msgstr "Κατάσταση διάρθρωσης"
+
+msgid "Outline Tools"
+msgstr "Εργαλεία διάρθρωσης"
+
+msgid "Outlining"
+msgstr "Διάρθρωση"
+
+msgid "Outside border"
+msgstr "Εξωτερικό περίγραμμα"
+
+msgid "Outside Borders"
+msgstr "Εξωτερικά περιγράμματα"
+
+msgid "Outside:"
+msgstr "Εξωτερικό:"
+
+msgid "Outward Brackets"
+msgstr "Αγκύλες προς τα έξω"
+
+msgid "Overbar"
+msgstr "Μπάρα πάνω"
+
+msgid "Overbars and Underbars"
+msgstr "Μπάρες πάνω και κάτω"
+
+msgid "Overbrace"
+msgstr "Άγκιστρο πάνω"
+
+msgid "Overtype"
+msgstr "Αντικατάσταση"
+
+msgid "Overtype (typing replaces the characters after the caret)"
+msgstr "Αντικατάσταση (η πληκτρολόγηση αντικαθιστά τους χαρακτήρες μετά τον δρομέα)"
+
+msgid "Page Background"
+msgstr "Φόντο σελίδας"
+
+msgid "Page Border"
+msgstr "Περίγραμμα σελίδας"
+
+msgid "Page Borders"
+msgstr "Περιγράμματα σελίδας"
+
+msgid "Page Break"
+msgstr "Αλλαγή σελίδας"
+
+msgid "Page Break Before"
+msgstr "Αλλαγή σελίδας πριν"
+
+msgid "Page break before"
+msgstr "Αλλαγή σελίδας πριν"
+
+msgid "Page Breaks"
+msgstr "Αλλαγές σελίδας"
+
+msgid "Page Color"
+msgstr "Χρώμα σελίδας"
+
+msgid "Page color"
+msgstr ""
+
+msgid "Page display"
+msgstr "Εμφάνιση σελίδας"
+
+msgid "Page Down"
+msgstr "Σελίδα κάτω"
+
+msgid "Page image (*.png)"
+msgstr "Εικόνα σελίδας (*.png)"
+
+msgid "Page Movement"
+msgstr "Μετακίνηση σελίδας"
+
+msgid "Page Number"
+msgstr "Αριθμός σελίδας"
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page Number Format"
+msgstr "Μορφή αριθμού σελίδας"
+
+msgid "Page number style"
+msgstr "Στυλ αριθμού σελίδας"
+
+msgid "Page numbering"
+msgstr "Αρίθμηση σελίδων"
+
+msgid "Page numbers at the right margin"
+msgstr "Αριθμοί σελίδων στο δεξί περιθώριο"
+
+msgid "Page on which a bookmarked passage falls"
+msgstr "Σελίδα στην οποία βρίσκεται απόσπασμα με σελιδοδείκτη"
+
+msgid "Page Setup"
+msgstr "Διαμόρφωση σελίδας"
+
+msgid "Page title"
+msgstr "Τίτλος σελίδας"
+
+msgid "Page Up"
+msgstr "Σελίδα πάνω"
+
+msgid "Page Width"
+msgstr "Πλάτος σελίδας"
+
+msgid "Page width"
+msgstr "Πλάτος σελίδας"
+
+msgid "Page X of Y"
+msgstr "Σελίδα X από Y"
+
+msgid "Page {page}"
+msgstr "Σελίδα {page}"
+
+msgid "Page\nBorders"
+msgstr "Περιγράμματα\nσελίδας"
+
+msgid "Page\nColor"
+msgstr "Χρώμα\nσελίδας"
+
+msgid "Page\nNumber"
+msgstr "Αριθμός\nσελίδας"
+
+msgid "Pages in the range"
+msgstr ""
+
+msgid "Pages like 1-3, 5"
+msgstr "Σελίδες όπως 1-3, 5"
+
+msgid "Pages of bookmark:"
+msgstr "Σελίδες σελιδοδείκτη:"
+
+msgid "Panama"
+msgstr ""
+
+msgid "Pane Options"
+msgstr ""
+
+msgid "Paper size:"
+msgstr "Μέγεθος χαρτιού:"
+
+msgid "Paragraph Character"
+msgstr "Χαρακτήρας παραγράφου"
+
+msgid "Paragraph Details"
+msgstr "Λεπτομέρειες παραγράφου"
+
+msgid "Paragraph Down"
+msgstr "Παράγραφος κάτω"
+
+msgid "Paragraph Mark"
+msgstr "Σημάδι παραγράφου"
+
+msgid "Paragraph marks"
+msgstr "Σημάδια παραγράφου"
+
+msgid "Paragraph Settings"
+msgstr "Ρυθμίσεις παραγράφου"
+
+msgid "Paragraph Spacing"
+msgstr "Διάστημα παραγράφου"
+
+msgid "Paragraph style"
+msgstr "Στυλ παραγράφου"
+
+msgid "Paragraph Up"
+msgstr "Παράγραφος πάνω"
+
+msgid "Paragraphs"
+msgstr "Παράγραφοι"
+
+msgid "Paragraph…"
+msgstr "Παράγραφος…"
+
+msgid "Paraguay"
+msgstr ""
+
+msgid "Parentheses"
+msgstr "Παρενθέσεις"
+
+msgid "Parentheses with Separator"
+msgstr "Παρενθέσεις με διαχωριστικό"
+
+msgid "Partial Differential"
+msgstr "Μερικό διαφορικό"
+
+msgid "Password:"
+msgstr "Κωδικός πρόσβασης:"
+
+msgid "Paste (⌘V)"
+msgstr "Επικόλληση (⌘V)"
+
+msgid "Paste All"
+msgstr "Επικόλληση όλων"
+
+msgid "Paste as:"
+msgstr "Επικόλληση ως:"
+
+msgid "Paste Clipboard Item"
+msgstr "Επικόλληση στοιχείου προχείρου"
+
+msgid "Paste Formatting"
+msgstr "Επικόλληση μορφοποίησης"
+
+msgid "Paste function:"
+msgstr "Επικόλληση συνάρτησης:"
+
+msgid "Paste Special…"
+msgstr "Ειδική επικόλληση…"
+
+msgid "Paste: Keep Text Only"
+msgstr "Επικόλληση: Διατήρηση μόνο κειμένου"
+
+msgid "Paste: Merge Formatting"
+msgstr "Επικόλληση: Συγχώνευση μορφοποίησης"
+
+msgid "Pastes the clipboard's picture."
+msgstr "Επικολλά την εικόνα του προχείρου."
+
+msgid "Paused"
+msgstr "Σε παύση"
+
+msgid "PDF document (*.pdf)"
+msgstr "Έγγραφο PDF (*.pdf)"
+
+msgid "Pens"
+msgstr "Στυλό"
+
+msgid "People"
+msgstr "Άτομα"
+
+msgid "Periodical"
+msgstr "Περιοδικό"
+
+msgid "Persian"
+msgstr ""
+
+msgid "Personal"
+msgstr "Προσωπικά"
+
+msgid "Personal Templates"
+msgstr "Προσωπικά πρότυπα"
+
+msgid "Personalize"
+msgstr "Εξατομίκευση"
+
+msgid "Peru"
+msgstr ""
+
+msgid "Philippines"
+msgstr ""
+
+msgid "Phonetic Guide"
+msgstr "Φωνητικός οδηγός"
+
+msgid "pi"
+msgstr "pi"
+
+msgid "Pi Over 2"
+msgstr "Πι διά 2"
+
+msgid "Pick a custom group (New Group makes one)"
+msgstr "Επιλέξτε προσαρμοσμένη ομάδα (η Νέα ομάδα δημιουργεί μία)"
+
+msgid "Pick a field from the list"
+msgstr "Επιλέξτε πεδίο από τη λίστα"
+
+msgid "Picture"
+msgstr "Εικόνα"
+
+msgid "Picture Border"
+msgstr "Περίγραμμα εικόνας"
+
+msgid "Picture border"
+msgstr ""
+
+msgid "Picture Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου εικόνας"
+
+msgid "Picture Format"
+msgstr "Μορφή εικόνας"
+
+msgid "Picture Styles"
+msgstr "Στυλ εικόνας"
+
+msgid "Picture transparency"
+msgstr ""
+
+msgid "Picture watermark"
+msgstr ""
+
+msgid "Pictures"
+msgstr "Εικόνες"
+
+msgid "Pie"
+msgstr "Πίτα"
+
+msgid "Place in This Document"
+msgstr "Θέση σε αυτό το έγγραφο"
+
+msgid "Placeholder text"
+msgstr "Κείμενο κράτησης θέσης"
+
+msgid "Plain Table 1"
+msgstr "Απλός πίνακας 1"
+
+msgid "Plain text (*.txt)"
+msgstr "Απλό κείμενο (*.txt)"
+
+msgid "Plain Text Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου απλού κειμένου"
+
+msgid "Play/Pause"
+msgstr "Αναπαραγωγή/παύση"
+
+msgid "Plus Equal"
+msgstr "Συν ίσον"
+
+msgid "Points and above"
+msgstr "Στιγμές (points) και άνω"
+
+msgid "Polish"
+msgstr "Πολωνικά"
+
+msgid "Portugal"
+msgstr ""
+
+msgid "Portuguese (Brazil)"
+msgstr "Πορτογαλικά (Βραζιλία)"
+
+msgid "Portuguese (Portugal)"
+msgstr "Πορτογαλικά (Πορτογαλία)"
+
+msgid "Possible spelling mistake"
+msgstr "Πιθανό ορθογραφικό λάθος"
+
+msgid "Postal Code"
+msgstr "Ταχυδρομικός κώδικας"
+
+msgid "Power series of (1+x)ⁿ"
+msgstr "Δυναμοσειρά του (1+x)ⁿ"
+
+msgid "Preferred width:"
+msgstr "Προτιμώμενο πλάτος:"
+
+msgid "Preserve formatting during updates"
+msgstr "Διατήρηση μορφοποίησης κατά τις ενημερώσεις"
+
+msgid "Preset gradients"
+msgstr "Προκαθορισμένες διαβαθμίσεις"
+
+msgid "Press a key combination"
+msgstr "Πατήστε συνδυασμό πλήκτρων"
+
+msgid "Preview Results"
+msgstr "Προεπισκόπηση αποτελεσμάτων"
+
+msgid "Preview\nResults"
+msgstr "Προεπισκόπηση\nαποτελεσμάτων"
+
+msgid "Previous 1 or More"
+msgstr "Προηγούμενο 1 ή περισσότερες φορές"
+
+msgid "Previous Comment"
+msgstr "Προηγούμενο σχόλιο"
+
+msgid "Previous Field"
+msgstr "Προηγούμενο πεδίο"
+
+msgid "Previous Record"
+msgstr "Προηγούμενη εγγραφή"
+
+msgid "Previous Section"
+msgstr "Προηγούμενη ενότητα"
+
+msgid "Previous Sentence"
+msgstr "Προηγούμενη πρόταση"
+
+msgid "Previous sentence"
+msgstr "Προηγούμενη πρόταση"
+
+msgid "Print Documents"
+msgstr "Εκτύπωση εγγράφων"
+
+msgid "Print Documents…"
+msgstr "Εκτύπωση εγγράφων…"
+
+msgid "Print failed: the printing worker stopped."
+msgstr "Η εκτύπωση απέτυχε: η διεργασία εκτύπωσης σταμάτησε."
+
+msgid "Print failed: {error}"
+msgstr "Η εκτύπωση απέτυχε: {error}"
+
+msgid "Print job submitted."
+msgstr "Η εργασία εκτύπωσης υποβλήθηκε."
+
+msgid "Print job submitted: spooled {count} sheet(s)"
+msgstr "Η εργασία εκτύπωσης υποβλήθηκε: {count} φύλλο/α στην ουρά"
+
+msgid "Print job submitted: {receipt}"
+msgstr "Η εργασία εκτύπωσης υποβλήθηκε: {receipt}"
+
+msgid "Print Layout"
+msgstr "Διάταξη εκτύπωσης"
+
+msgid "Print Markup"
+msgstr "Εκτύπωση αλλαγών"
+
+msgid "Print settings"
+msgstr "Ρυθμίσεις εκτύπωσης"
+
+msgid "Print the page color"
+msgstr "Εκτύπωση χρώματος σελίδας"
+
+msgid "Print to PDF"
+msgstr "Εκτύπωση σε PDF"
+
+msgid "Print\nLayout"
+msgstr "Διάταξη\nεκτύπωσης"
+
+msgid "Printer default"
+msgstr "Προεπιλογή εκτυπωτή"
+
+msgid "Printer discovery failed."
+msgstr "Η ανακάλυψη εκτυπωτών απέτυχε."
+
+msgid "Privacy for this document"
+msgstr "Απόρρητο για αυτό το έγγραφο"
+
+msgid "Privacy Options"
+msgstr "Επιλογές απορρήτου"
+
+msgid "Privacy Settings"
+msgstr "Ρυθμίσεις απορρήτου"
+
+msgid "Process"
+msgstr "Διαδικασία"
+
+msgid "Product"
+msgstr "Γινόμενο"
+
+msgid "Product of A"
+msgstr "Γινόμενο του A"
+
+msgid "Product with Limits"
+msgstr "Γινόμενο με όρια"
+
+msgid "Product with Lower Limit"
+msgstr "Γινόμενο με κάτω όριο"
+
+msgid "Product with Subscript-Superscript Limits"
+msgstr "Γινόμενο με όρια δείκτη-εκθέτη"
+
+msgid "Products and Coproducts"
+msgstr "Γινόμενα και συνγινόμενα"
+
+msgid "Professional"
+msgstr "Επαγγελματικό"
+
+msgid "Promote"
+msgstr "Προβιβασμός"
+
+msgid "Promote to Heading 1"
+msgstr "Προβιβασμός σε Επικεφαλίδα 1"
+
+msgid "Proofing"
+msgstr "Ορθογραφικός έλεγχος"
+
+msgid "Proofing Issues"
+msgstr "Ζητήματα ορθογραφικού ελέγχου"
+
+msgid "Proofing language"
+msgstr "Γλώσσα ορθογραφικού ελέγχου"
+
+msgid "Property names are 1–{max} characters."
+msgstr ""
+
+msgid "Property values are at most {max} bytes."
+msgstr ""
+
+msgid "Protect Document"
+msgstr "Προστασία εγγράφου"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "Publisher"
+msgstr "Εκδότης"
+
+msgid "Puerto Rico"
+msgstr ""
+
+msgid "Put the caret in a content control first."
+msgstr "Τοποθετήστε πρώτα τον δρομέα σε στοιχείο ελέγχου περιεχομένου."
+
+msgid "Put the default commands back on the Quick Access Toolbar?"
+msgstr "Επαναφορά των προεπιλεγμένων εντολών στη γραμμή γρήγορης πρόσβασης;"
+
+msgid "Qatar"
+msgstr ""
+
+msgid "Quadratic Root"
+msgstr "Τετραγωνική ρίζα"
+
+msgid "Quick Access Toolbar"
+msgstr "Γραμμή γρήγορης πρόσβασης"
+
+msgid "Quick Parts"
+msgstr "Γρήγορα τμήματα"
+
+msgid "Quick Tables"
+msgstr "Γρήγοροι πίνακες"
+
+msgid "Quote"
+msgstr "Παράθεση"
+
+msgid "Radical"
+msgstr "Ριζικό"
+
+msgid "Radical with Degree"
+msgstr "Ριζικό με δείκτη"
+
+msgid "Radicals"
+msgstr "Ριζικά"
+
+msgid "Raised/lowered"
+msgstr "Ανεβασμένο/κατεβασμένο"
+
+msgid "Read Aloud"
+msgstr "Εκφώνηση"
+
+msgid "Read Aloud Status"
+msgstr "Κατάσταση Εκφώνησης"
+
+msgid "Read Mode"
+msgstr "Λειτουργία ανάγνωσης"
+
+msgid "Read\nAloud"
+msgstr "Ανάγνωση με\nφωνή"
+
+msgid "Read\nMode"
+msgstr "Λειτουργία\nανάγνωσης"
+
+msgid "Reading"
+msgstr "Ανάγνωση"
+
+msgid "Reading Column Width"
+msgstr "Πλάτος στήλης ανάγνωσης"
+
+msgid "Reading Highlight"
+msgstr "Επισήμανση ανάγνωσης"
+
+msgid "Reading Line Spacing"
+msgstr "Διάστιχο ανάγνωσης"
+
+msgid "Reading Mode"
+msgstr "Λειτουργία ανάγνωσης"
+
+msgid "Reading Page Color"
+msgstr ""
+
+msgid "Reading Speed"
+msgstr "Ταχύτητα ανάγνωσης"
+
+msgid "Reading Text Size"
+msgstr "Μέγεθος κειμένου ανάγνωσης"
+
+msgid "Reads the clipboard's rich text and keeps its formatting."
+msgstr "Διαβάζει το εμπλουτισμένο κείμενο του προχείρου και διατηρεί τη μορφοποίησή του."
+
+msgid "Reads the clipboard's web content and keeps its formatting."
+msgstr "Διαβάζει το περιεχόμενο ιστού του προχείρου και διατηρεί τη μορφοποίησή του."
+
+msgid "Recent documents to show:"
+msgstr "Πρόσφατα έγγραφα για εμφάνιση:"
+
+msgid "Recently Used Fonts"
+msgstr "Πρόσφατα χρησιμοποιημένες γραμματοσειρές"
+
+msgid "Recently used symbols:"
+msgstr "Πρόσφατα χρησιμοποιημένα σύμβολα:"
+
+msgid "Recipient List"
+msgstr "Λίστα παραληπτών"
+
+msgid "Recipient lists"
+msgstr "Λίστες παραληπτών"
+
+msgid "Recipients: {count}"
+msgstr "Παραλήπτες: {count}"
+
+msgid "Recolor a one-color picture, such as an icon"
+msgstr "Επαναχρωματισμός μονόχρωμης εικόνας, όπως εικονιδίου"
+
+msgid "Recolor Selected Ink"
+msgstr "Επαναχρωματισμός επιλεγμένου μελανιού"
+
+msgid "Record Macro"
+msgstr "Εγγραφή μακροεντολής"
+
+msgid "Record…"
+msgstr ""
+
+msgid "Recover documents"
+msgstr ""
+
+msgid "Recover Unsaved Documents"
+msgstr "Ανάκτηση μη αποθηκευμένων εγγράφων"
+
+msgid "Recovery copy"
+msgstr ""
+
+msgid "Recovery is disabled while this document has a password."
+msgstr ""
+
+msgid "Red:"
+msgstr "Κόκκινο:"
+
+msgid "Reduce Hanging Indent"
+msgstr "Μείωση εκκρεμούς εσοχής"
+
+msgid "Reference type:"
+msgstr "Τύπος αναφοράς:"
+
+msgid "References"
+msgstr "Αναφορές"
+
+msgid "Reflection"
+msgstr "Αντανάκλαση"
+
+msgid "Refresh printers"
+msgstr "Ανανέωση εκτυπωτών"
+
+msgid "Region:"
+msgstr "Περιοχή:"
+
+msgid "Registered"
+msgstr "Κατοχυρωμένο"
+
+msgid "Registered Sign"
+msgstr "Σύμβολο κατοχυρωμένου εμπορικού σήματος"
+
+msgid "Regular expressions"
+msgstr "Κανονικές εκφράσεις"
+
+msgid "Reject"
+msgstr "Απόρριψη"
+
+msgid "Reject All Changes"
+msgstr "Απόρριψη όλων των αλλαγών"
+
+msgid "Reject All Changes and Stop Tracking"
+msgstr "Απόρριψη όλων και διακοπή παρακολούθησης"
+
+msgid "Reject and Move to Next"
+msgstr "Απόρριψη και μετακίνηση στο επόμενο"
+
+msgid "Reject Change"
+msgstr "Απόρριψη αλλαγής"
+
+msgid "Relationship"
+msgstr "Σχέση"
+
+msgid "Relative to original picture size"
+msgstr "Σε σχέση με το αρχικό μέγεθος εικόνας"
+
+msgid "Remove Added Font"
+msgstr "Κατάργηση προστιθέμενης γραμματοσειράς"
+
+msgid "Remove condition"
+msgstr "Κατάργηση συνθήκης"
+
+msgid "Remove Content Control"
+msgstr "Κατάργηση στοιχείου ελέγχου περιεχομένου"
+
+msgid "Remove every custom shortcut and restore the built-in keys?"
+msgstr "Κατάργηση όλων των προσαρμοσμένων συντομεύσεων και επαναφορά των ενσωματωμένων πλήκτρων;"
+
+msgid "Remove every custom tab and group and show all tabs again?"
+msgstr "Κατάργηση όλων των προσαρμοσμένων καρτελών και ομάδων και εμφάνιση ξανά όλων των καρτελών;"
+
+msgid "Remove field"
+msgstr "Κατάργηση πεδίου"
+
+msgid "Remove Footer"
+msgstr "Κατάργηση υποσέλιδου"
+
+msgid "Remove from Quick Access Toolbar"
+msgstr "Κατάργηση από γραμμή γρήγορης πρόσβασης"
+
+msgid "Remove gradient stop"
+msgstr "Κατάργηση σημείου διαβάθμισης"
+
+msgid "Remove Header"
+msgstr "Κατάργηση κεφαλίδας"
+
+msgid "Remove Hyperlink"
+msgstr "Κατάργηση υπερσύνδεσμου"
+
+msgid "Remove Language Pack"
+msgstr ""
+
+msgid "Remove my name from comments, changes and file properties when saving"
+msgstr "Κατάργηση του ονόματός μου από σχόλια, αλλαγές και ιδιότητες αρχείου κατά την αποθήκευση"
+
+msgid "Remove Password"
+msgstr "Κατάργηση κωδικού πρόσβασης"
+
+msgid "Remove Pen"
+msgstr "Κατάργηση στυλό"
+
+msgid "Remove recipient"
+msgstr "Κατάργηση παραλήπτη"
+
+msgid "Remove row"
+msgstr "Κατάργηση γραμμής"
+
+msgid "Remove series"
+msgstr "Κατάργηση σειράς"
+
+msgid "Remove Space After Paragraph"
+msgstr "Κατάργηση κενού μετά την παράγραφο"
+
+msgid "Remove Table of Contents"
+msgstr "Κατάργηση πίνακα περιεχομένων"
+
+msgid "Remove the control once edited"
+msgstr "Κατάργηση του στοιχείου ελέγχου μετά την επεξεργασία"
+
+msgid "Remove the space before the punctuation"
+msgstr "Κατάργηση του κενού πριν από τη στίξη"
+
+msgid "Remove Watermark"
+msgstr "Κατάργηση υδατογραφήματος"
+
+msgid "Rename Document"
+msgstr "Μετονομασία εγγράφου"
+
+msgid "Reopen"
+msgstr "Επανάνοιγμα"
+
+msgid "Repeat as header row on each page"
+msgstr "Επανάληψη ως γραμμή κεφαλίδας σε κάθε σελίδα"
+
+msgid "Repeat Header Rows"
+msgstr "Επανάληψη γραμμών κεφαλίδας"
+
+msgid "Repeating Section Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου επαναλαμβανόμενης ενότητας"
+
+msgid "Replace All"
+msgstr "Αντικατάσταση όλων"
+
+msgid "Replace as you type"
+msgstr "Αντικατάσταση κατά την πληκτρολόγηση"
+
+msgid "Replace Document Text"
+msgstr "Αντικατάσταση κειμένου εγγράφου"
+
+msgid "Replace text as you type"
+msgstr "Αντικατάσταση κειμένου κατά την πληκτρολόγηση"
+
+msgid "Replace with:"
+msgstr "Αντικατάσταση με:"
+
+msgid "Replay"
+msgstr "Αναπαραγωγή"
+
+msgid "Research"
+msgstr "Έρευνα"
+
+msgid "Researcher"
+msgstr "Ερευνητής"
+
+msgid "Researcher needs an online service; WordCraft keeps your documents offline."
+msgstr "Ο Ερευνητής απαιτεί διαδικτυακή υπηρεσία· το WordCraft κρατά τα έγγραφά σας εκτός σύνδεσης."
+
+msgid "Reset All…"
+msgstr "Επαναφορά όλων…"
+
+msgid "Reset Character Formatting"
+msgstr "Επαναφορά μορφοποίησης χαρακτήρα"
+
+msgid "Reset Crop"
+msgstr "Επαναφορά περικοπής"
+
+msgid "Reset Default Formatting"
+msgstr "Επαναφορά προεπιλεγμένης μορφοποίησης"
+
+msgid "Reset Graphic"
+msgstr "Επαναφορά γραφικού"
+
+msgid "Reset Paragraph Formatting"
+msgstr "Επαναφορά μορφοποίησης παραγράφου"
+
+msgid "Reset Picture"
+msgstr "Επαναφορά εικόνας"
+
+msgid "Reset tips"
+msgstr "Επαναφορά συμβουλών"
+
+msgid "Reset to Normal"
+msgstr "Επαναφορά σε Κανονικό"
+
+msgid "Reset\nGraphic"
+msgstr "Επαναφορά\nγραφικού"
+
+msgid "Resize Pane"
+msgstr ""
+
+msgid "Resize Table by Dragging"
+msgstr "Αλλαγή μεγέθους πίνακα με σύρσιμο"
+
+msgid "Resolve"
+msgstr "Επίλυση"
+
+msgid "Resolved"
+msgstr "Επιλύθηκε"
+
+msgid "Restart at 1"
+msgstr "Επανεκκίνηση από 1"
+
+msgid "Restart Each Page"
+msgstr "Επανεκκίνηση σε κάθε σελίδα"
+
+msgid "Restart Each Section"
+msgstr "Επανεκκίνηση σε κάθε ενότητα"
+
+msgid "Restart list after:"
+msgstr "Επανεκκίνηση λίστας μετά:"
+
+msgid "Restore opens an unsaved copy. Your original file stays unchanged."
+msgstr ""
+
+msgid "Restrict Editing"
+msgstr "Περιορισμός επεξεργασίας"
+
+msgid "Restrict\nEditing"
+msgstr "Περιορισμός\nεπεξεργασίας"
+
+msgid "Results"
+msgstr "Αποτελέσματα"
+
+msgid "Return address labels"
+msgstr "Ετικέτες διεύθυνσης επιστροφής"
+
+msgid "Return address:"
+msgstr "Διεύθυνση επιστροφής:"
+
+msgid "Reviewing"
+msgstr "Αναθεώρηση"
+
+msgid "Reviewing Pane"
+msgstr "Παράθυρο αναθεώρησης"
+
+msgid "Reviewing — edits become suggestions"
+msgstr "Αναθεώρηση — οι αλλαγές γίνονται προτάσεις"
+
+msgid "Revised document"
+msgstr "Αναθεωρημένο έγγραφο"
+
+msgid "Rewind"
+msgstr "Επαναφορά"
+
+msgid "Rewinding. Tell me when to stop."
+msgstr "Γυρίζω πίσω. Πείτε μου πότε να σταματήσω."
+
+msgid "Ribbon"
+msgstr "Κορδέλα"
+
+msgid "Ribbon and Quick Access Toolbar:"
+msgstr "Κορδέλα και γραμμή γρήγορης πρόσβασης:"
+
+msgid "Ribbon tabs"
+msgstr "Καρτέλες κορδέλας"
+
+msgid "Rich Text Content Control"
+msgstr "Στοιχείο ελέγχου περιεχομένου εμπλουτισμένου κειμένου"
+
+msgid "Rich Text Format (*.rtf)"
+msgstr "Μορφή εμπλουτισμένου κειμένου (*.rtf)"
+
+msgid "Rich Text Format (RTF)"
+msgstr "Μορφή εμπλουτισμένου κειμένου (RTF)"
+
+msgid "Right (vertical)"
+msgstr "Δεξιά (κατακόρυφα)"
+
+msgid "Right Arrow with Text Above"
+msgstr "Δεξί βέλος με κείμενο πάνω"
+
+msgid "Right Arrow with Text Below"
+msgstr "Δεξί βέλος με κείμενο κάτω"
+
+msgid "Right Border"
+msgstr "Δεξί περίγραμμα"
+
+msgid "Right border"
+msgstr "Δεξί περίγραμμα"
+
+msgid "Right Bracket Twice"
+msgstr "Δεξιά αγκύλη εις διπλούν"
+
+msgid "Right indent"
+msgstr "Δεξιά εσοχή"
+
+msgid "Right Margin"
+msgstr "Δεξί περιθώριο"
+
+msgid "Right Only"
+msgstr "Μόνο δεξιά"
+
+msgid "Right-to-left"
+msgstr "Δεξιά προς αριστερά"
+
+msgid "Right-to-Left Section"
+msgstr "Ενότητα δεξιά προς αριστερά"
+
+msgid "Right-to-Left Table"
+msgstr "Πίνακας δεξιά προς αριστερά"
+
+msgid "Right-to-Left Text Direction"
+msgstr "Κατεύθυνση κειμένου δεξιά προς αριστερά"
+
+msgid "Rightwards Arrow Above"
+msgstr "Βέλος προς δεξιά πάνω"
+
+msgid "Rightwards Harpoon Above"
+msgstr "Χαρπούνι προς δεξιά πάνω"
+
+msgid "Romanian"
+msgstr "Ρουμανικά"
+
+msgid "Roots of ax²+bx+c"
+msgstr "Ρίζες του ax²+bx+c"
+
+msgid "Rotate all text 270°"
+msgstr "Περιστροφή όλου του κειμένου 270°"
+
+msgid "Rotate all text 90°"
+msgstr "Περιστροφή όλου του κειμένου 90°"
+
+msgid "Rotate Left 90°"
+msgstr "Περιστροφή αριστερά 90°"
+
+msgid "Rotate Right 90°"
+msgstr "Περιστροφή δεξιά 90°"
+
+msgid "Rotate with shape"
+msgstr "Περιστροφή με το σχήμα"
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Row"
+msgstr "Γραμμή"
+
+msgid "Row:"
+msgstr "Γραμμή:"
+
+msgid "Rows & Columns"
+msgstr "Γραμμές και στήλες"
+
+msgid "Ruby text:"
+msgstr "Κείμενο ruby:"
+
+msgid "Rules"
+msgstr "Κανόνες"
+
+msgid "Run"
+msgstr ""
+
+msgid "Run-in"
+msgstr "Ενσωματωμένο"
+
+msgid "Russia"
+msgstr ""
+
+msgid "Résumé"
+msgstr "Βιογραφικό"
+
+msgid "SAMPLE"
+msgstr "ΔΕΙΓΜΑ"
+
+msgid "Sat:"
+msgstr "Σάβ:"
+
+msgid "Saturation and recolor"
+msgstr ""
+
+msgid "Save a copy in another format. Printing goes through a PDF you can print from any viewer."
+msgstr "Αποθηκεύστε αντίγραφο σε άλλη μορφή. Η εκτύπωση γίνεται μέσω PDF που μπορείτε να εκτυπώσετε από οποιοδήποτε πρόγραμμα προβολής."
+
+msgid "Save as Word Template…"
+msgstr "Αποθήκευση ως πρότυπο Word…"
+
+msgid "Save documents"
+msgstr "Αποθήκευση εγγράφων"
+
+msgid "Save the document to turn on AutoSave"
+msgstr "Αποθηκεύστε το έγγραφο για να ενεργοποιήσετε την αυτόματη αποθήκευση"
+
+msgid "Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)"
+msgstr "Αποθηκεύστε το έγγραφο για να ενεργοποιήσετε την αυτόματη αποθήκευση (ένα αρχείο που έχετε μόνο ανοίξει δεν ξαναγράφεται μέχρι να το αποθηκεύσετε)"
+
+msgid "Save these pages as PDF…"
+msgstr "Αποθήκευση αυτών των σελίδων ως PDF…"
+
+msgid "Saved. Saved again. Still saved. It's very saved."
+msgstr "Αποθηκεύτηκε. Αποθηκεύτηκε ξανά. Ακόμη αποθηκευμένο. Είναι πολύ αποθηκευμένο."
+
+msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
+msgstr "Αποθηκεύει πρότυπο .dotx στον φάκελο προτύπων σας. Εμφανίζεται στο Αρχείο › Νέο στην ενότητα Προσωπικά."
+
+msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
+msgstr "Η αποθήκευση του {name} ακυρώθηκε, οπότε παραμένει ανοιχτό και δεν χάθηκε τίποτα."
+
+msgid "Sayings"
+msgstr "Ρητά"
+
+msgid "Sayings:"
+msgstr "Ρητά:"
+
+msgid "Scale Drawing"
+msgstr "Κλιμάκωση σχεδίασης"
+
+msgid "Scale Font Sizes"
+msgstr ""
+
+msgid "Scale to paper size"
+msgstr ""
+
+msgid "Scatter"
+msgstr "Διασπορά"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Scroll ribbon left"
+msgstr "Κύλιση κορδέλας αριστερά"
+
+msgid "Scroll ribbon right"
+msgstr "Κύλιση κορδέλας δεξιά"
+
+msgid "Search Commands"
+msgstr "Αναζήτηση εντολών"
+
+msgid "Search commands and help"
+msgstr "Αναζήτηση εντολών και βοήθειας"
+
+msgid "Search document"
+msgstr "Αναζήτηση εγγράφου"
+
+msgid "Search for templates"
+msgstr "Αναζήτηση προτύπων"
+
+msgid "Search icons"
+msgstr "Αναζήτηση εικονιδίων"
+
+msgid "Search Options"
+msgstr "Επιλογές αναζήτησης"
+
+msgid "Search:"
+msgstr ""
+
+msgid "Secant Function"
+msgstr "Συνάρτηση τέμνουσας"
+
+msgid "Section 1.01"
+msgstr "Ενότητα 1.01"
+
+msgid "Section Break"
+msgstr "Αλλαγή ενότητας"
+
+msgid "Section Breaks"
+msgstr "Αλλαγές ενότητας"
+
+msgid "Section Character"
+msgstr "Χαρακτήρας ενότητας"
+
+msgid "Section direction:"
+msgstr "Κατεύθυνση ενότητας:"
+
+msgid "Section Mark"
+msgstr "Σημάδι ενότητας"
+
+msgid "Section Properties"
+msgstr "Ιδιότητες ενότητας"
+
+msgid "Sections"
+msgstr "Ενότητες"
+
+msgid "See"
+msgstr "Βλέπε"
+
+msgid "select a chart first"
+msgstr "επιλέξτε πρώτα γράφημα"
+
+msgid "select a connector first"
+msgstr "επιλέξτε πρώτα συνδετήρα"
+
+msgid "select a diagram first"
+msgstr ""
+
+msgid "select a drawing canvas first"
+msgstr "επιλέξτε πρώτα καμβά σχεδίασης"
+
+msgid "select a floating picture or shape first"
+msgstr "επιλέξτε πρώτα αιωρούμενη εικόνα ή σχήμα"
+
+msgid "select a group first"
+msgstr "επιλέξτε πρώτα ομάδα"
+
+msgid "select a picture first"
+msgstr "επιλέξτε πρώτα εικόνα"
+
+msgid "Select a picture first."
+msgstr ""
+
+msgid "select a picture or shape first"
+msgstr "επιλέξτε πρώτα εικόνα ή σχήμα"
+
+msgid "Select a picture, shape, chart or table to describe it."
+msgstr "Επιλέξτε εικόνα, σχήμα, γράφημα ή πίνακα για να το περιγράψετε."
+
+msgid "Select a place in this document:"
+msgstr ""
+
+msgid "Select a printer"
+msgstr "Επιλέξτε εκτυπωτή"
+
+msgid "Select a property to change."
+msgstr ""
+
+msgid "select a shape first"
+msgstr "επιλέξτε πρώτα σχήμα"
+
+msgid "select a shape or decorative text first"
+msgstr ""
+
+msgid "Select a shape, text box or drawing canvas to format its fill."
+msgstr "Επιλέξτε σχήμα, πλαίσιο κειμένου ή καμβά σχεδίασης για να μορφοποιήσετε το γέμισμά του."
+
+msgid "select a SmartArt graphic first"
+msgstr "επιλέξτε πρώτα γραφικό SmartArt"
+
+msgid "select a text box first"
+msgstr "επιλέξτε πρώτα πλαίσιο κειμένου"
+
+msgid "select a text box linked to another first"
+msgstr "επιλέξτε πρώτα πλαίσιο κειμένου συνδεδεμένο με άλλο"
+
+msgid "Select Canvas Member"
+msgstr ""
+
+msgid "Select Cell"
+msgstr "Επιλογή κελιού"
+
+msgid "Select Column"
+msgstr "Επιλογή στήλης"
+
+msgid "Select Heading and Content"
+msgstr "Επιλογή επικεφαλίδας και περιεχομένου"
+
+msgid "Select Line"
+msgstr "Επιλογή γραμμής"
+
+msgid "Select Paragraph"
+msgstr "Επιλογή παραγράφου"
+
+msgid "Select Picture…"
+msgstr ""
+
+msgid "Select Range"
+msgstr "Επιλογή εύρους"
+
+msgid "Select Recipients"
+msgstr "Επιλογή παραληπτών"
+
+msgid "select recipients first"
+msgstr "επιλέξτε πρώτα παραλήπτες"
+
+msgid "Select recipients first to choose from their fields."
+msgstr "Επιλέξτε πρώτα παραλήπτες για να διαλέξετε από τα πεδία τους."
+
+msgid "Select recipients first to match their fields."
+msgstr "Επιλέξτε πρώτα παραλήπτες για να αντιστοιχίσετε τα πεδία τους."
+
+msgid "Select Row"
+msgstr "Επιλογή γραμμής"
+
+msgid "Select Sentence"
+msgstr "Επιλογή πρότασης"
+
+msgid "Select Table"
+msgstr "Επιλογή πίνακα"
+
+msgid "Select Table Cells by Clicking"
+msgstr "Επιλογή κελιών πίνακα με κλικ"
+
+msgid "Select Text"
+msgstr "Επιλογή κειμένου"
+
+msgid "Select Text with Similar Formatting"
+msgstr "Επιλογή κειμένου με παρόμοια μορφοποίηση"
+
+msgid "Select text, then tick who can still edit it."
+msgstr "Επιλέξτε κείμενο και μετά τσεκάρετε ποιος μπορεί ακόμη να το επεξεργαστεί."
+
+msgid "select two or more cells to merge"
+msgstr "επιλέξτε δύο ή περισσότερα κελιά για συγχώνευση"
+
+msgid "select two or more pictures or shapes first (Shift+click)"
+msgstr "επιλέξτε πρώτα δύο ή περισσότερες εικόνες ή σχήματα (Shift+κλικ)"
+
+msgid "Select Word"
+msgstr "Επιλογή λέξης"
+
+msgid "Select\nRecipients"
+msgstr "Επιλογή\nπαραληπτών"
+
+msgid "Selected Fields"
+msgstr "Επιλεγμένα πεδία"
+
+msgid "Selected text"
+msgstr "Επιλεγμένο κείμενο"
+
+msgid "Selection Pane"
+msgstr "Παράθυρο επιλογής"
+
+msgid "Semitransparent"
+msgstr ""
+
+msgid "Send the document straight to the system print dialog, or save a copy in another format below."
+msgstr "Στείλτε το έγγραφο απευθείας στο παράθυρο διαλόγου εκτύπωσης του συστήματος ή αποθηκεύστε αντίγραφο σε άλλη μορφή παρακάτω."
+
+msgid "Sentence"
+msgstr "Πρόταση"
+
+msgid "Sentence case."
+msgstr "Πεζά με κεφαλαίο πρώτο γράμμα."
+
+msgid "Separate text at"
+msgstr "Διαχωρισμός κειμένου στο"
+
+msgid "Separate text with"
+msgstr ""
+
+msgid "Separator:"
+msgstr "Διαχωριστικό:"
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sequence name:"
+msgstr "Όνομα ακολουθίας:"
+
+msgid "Serbian (Cyrillic)"
+msgstr "Σερβικά (κυριλλικά)"
+
+msgid "Serbian (Latin)"
+msgstr "Σερβικά (λατινικά)"
+
+msgid "Series name"
+msgstr "Όνομα σειράς"
+
+msgid "Series {n}"
+msgstr "Σειρά {n}"
+
+msgid "Set As Default"
+msgstr "Ορισμός ως προεπιλογή"
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Set As Default (Font)"
+msgstr ""
+
+msgid "Set As Default (Page Setup)"
+msgstr ""
+
+msgid "Set As Default (Paragraph)"
+msgstr ""
+
+msgid "Set as Default Language"
+msgstr ""
+
+msgid "Set Caret"
+msgstr "Ορισμός δρομέα"
+
+msgid "Set Character Formatting"
+msgstr "Ορισμός μορφοποίησης χαρακτήρα"
+
+msgid "Set Date"
+msgstr "Ορισμός ημερομηνίας"
+
+msgid "Set Equation"
+msgstr "Ορισμός εξίσωσης"
+
+msgid "Set left- and first-indent with tabs and backspaces"
+msgstr ""
+
+msgid "Set Numbering Value"
+msgstr "Ορισμός τιμής αρίθμησης"
+
+msgid "Set Paragraph Formatting"
+msgstr "Ορισμός μορφοποίησης παραγράφου"
+
+msgid "Set Proofing Language…"
+msgstr "Ορισμός γλώσσας ορθογραφικού ελέγχου…"
+
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
+msgid "Setting:"
+msgstr "Ρύθμιση:"
+
+msgid "Shading"
+msgstr "Σκίαση"
+
+msgid "Shadow, glow and soft edges"
+msgstr "Σκιά, λάμψη και μαλακά άκρα"
+
+msgid "Shape color"
+msgstr ""
+
+msgid "Shape Fill"
+msgstr "Γέμισμα σχήματος"
+
+msgid "Shape Format"
+msgstr "Μορφή σχήματος"
+
+msgid "Shape Outline"
+msgstr "Περίγραμμα σχήματος"
+
+msgid "Shape Styles"
+msgstr "Στυλ σχήματος"
+
+msgid "Shift+Enter starts a new line without starting a new paragraph."
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Shipping labels"
+msgstr "Ετικέτες αποστολής"
+
+msgid "Shortcut key:"
+msgstr "Πλήκτρο συντόμευσης:"
+
+msgid "Show alignment guides when moving pictures and shapes"
+msgstr "Εμφάνιση οδηγών στοίχισης κατά τη μετακίνηση εικόνων και σχημάτων"
+
+msgid "Show all formatting marks"
+msgstr "Εμφάνιση όλων των σημαδιών μορφοποίησης"
+
+msgid "Show All Levels"
+msgstr "Εμφάνιση όλων των επιπέδων"
+
+msgid "Show all revisions inline"
+msgstr "Εμφάνιση όλων των αλλαγών σε σειρά"
+
+msgid "Show changes at:"
+msgstr "Εμφάνιση αλλαγών σε επίπεδο:"
+
+msgid "Show changes in:"
+msgstr "Εμφάνιση αλλαγών σε:"
+
+msgid "Show Comments"
+msgstr "Εμφάνιση σχολίων"
+
+msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
+msgstr "Εμφάνιση εγγράφων με ανεστραμμένα χρώματα, όπως Προβολή › Εναλλαγή λειτουργιών. Η αποθήκευση, η εκτύπωση και τα PDF δεν αλλάζουν."
+
+msgid "Show every bibliography field"
+msgstr "Εμφάνιση όλων των πεδίων βιβλιογραφίας"
+
+msgid "Show First Line Only"
+msgstr "Εμφάνιση μόνο πρώτης γραμμής"
+
+msgid "Show in the Styles gallery"
+msgstr "Εμφάνιση στη συλλογή Στυλ"
+
+msgid "Show its list number"
+msgstr "Εμφάνιση του αριθμού λίστας του"
+
+msgid "Show its number relative to this field"
+msgstr "Εμφάνιση του αριθμού του σε σχέση με αυτό το πεδίο"
+
+msgid "Show its number with all higher levels"
+msgstr "Εμφάνιση του αριθμού του με όλα τα ανώτερα επίπεδα"
+
+msgid "Show KeyTips (Alt or F10)"
+msgstr "Εμφάνιση συμβουλών πλήκτρων (Alt ή F10)"
+
+msgid "Show Level"
+msgstr "Εμφάνιση επιπέδου"
+
+msgid "Show Level 1"
+msgstr "Εμφάνιση επιπέδου 1"
+
+msgid "Show Level 2"
+msgstr "Εμφάνιση επιπέδου 2"
+
+msgid "Show Level 3"
+msgstr "Εμφάνιση επιπέδου 3"
+
+msgid "Show Level 4"
+msgstr "Εμφάνιση επιπέδου 4"
+
+msgid "Show Level 5"
+msgstr "Εμφάνιση επιπέδου 5"
+
+msgid "Show Level 6"
+msgstr "Εμφάνιση επιπέδου 6"
+
+msgid "Show Level 7"
+msgstr "Εμφάνιση επιπέδου 7"
+
+msgid "Show Level 8"
+msgstr "Εμφάνιση επιπέδου 8"
+
+msgid "Show Level 9"
+msgstr "Εμφάνιση επιπέδου 9"
+
+msgid "Show Markup"
+msgstr "Εμφάνιση αλλαγών"
+
+msgid "Show Notes"
+msgstr "Εμφάνιση σημειώσεων"
+
+msgid "Show only comments and formatting in balloons"
+msgstr "Εμφάνιση μόνο σχολίων και μορφοποίησης σε φυσαλίδες"
+
+msgid "Show only records that will be merged"
+msgstr "Εμφάνιση μόνο εγγραφών που θα συγχωνευτούν"
+
+msgid "Show or Hide Style"
+msgstr "Εμφάνιση ή απόκρυψη στυλ"
+
+msgid "Show Quick Access Toolbar"
+msgstr "Εμφάνιση γραμμής γρήγορης πρόσβασης"
+
+msgid "Show revisions in balloons"
+msgstr "Εμφάνιση αλλαγών σε φυσαλίδες"
+
+msgid "Show Text Formatting"
+msgstr "Εμφάνιση μορφοποίησης κειμένου"
+
+msgid "Show the Assistant"
+msgstr "Εμφάνιση του Βοηθού"
+
+msgid "Show the community button in the title bar"
+msgstr "Εμφάνιση του κουμπιού κοινότητας στη γραμμή τίτλου"
+
+msgid "Show the equation in the line of text"
+msgstr "Εμφάνιση της εξίσωσης στη γραμμή κειμένου"
+
+msgid "Show the equation on a line of its own"
+msgstr "Εμφάνιση της εξίσωσης σε δική της γραμμή"
+
+msgid "Show the mini toolbar when text is selected"
+msgstr "Εμφάνιση της μίνι γραμμής εργαλείων όταν επιλέγεται κείμενο"
+
+msgid "Show the ribbon"
+msgstr "Εμφάνιση της κορδέλας"
+
+msgid "Show the Start screen when WordCraft starts"
+msgstr "Εμφάνιση της κεντρικής οθόνης κατά την εκκίνηση του WordCraft"
+
+msgid "Show the tips you asked not to see again."
+msgstr "Εμφάνιση των συμβουλών που ζητήσατε να μην ξαναδείτε."
+
+msgid "Show/Hide ¶"
+msgstr "Εμφάνιση/απόκρυψη ¶"
+
+msgid "Show/Hide ¶ (Ctrl+Shift+8) shows the spaces, tabs and breaks hiding in your text."
+msgstr ""
+
+msgid "Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text."
+msgstr "Η Εμφάνιση/απόκρυψη ¶ ({key}) δείχνει τα κενά, τους στηλοθέτες και τις αλλαγές που κρύβονται στο κείμενό σας."
+
+msgid "Show\nComments"
+msgstr "Εμφάνιση\nσχολίων"
+
+msgid "Showing the first {count} items."
+msgstr "Εμφάνιση των πρώτων {count} στοιχείων."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
+
+msgid "Shows a tree: each item below the item it belongs to."
+msgstr "Εμφανίζει δέντρο: κάθε στοιχείο κάτω από το στοιχείο στο οποίο ανήκει."
+
+msgid "Shows items around a central idea: the first item is the centre."
+msgstr "Εμφανίζει στοιχεία γύρω από μια κεντρική ιδέα: το πρώτο στοιχείο είναι το κέντρο."
+
+msgid "Shows items of equal weight as blocks in rows."
+msgstr "Εμφανίζει στοιχεία ίσης βαρύτητας ως μπλοκ σε γραμμές."
+
+msgid "Shows overlapping ideas as overlapping circles."
+msgstr "Εμφανίζει επικαλυπτόμενες ιδέες ως επικαλυπτόμενους κύκλους."
+
+msgid "Shows parts of a whole as quadrants."
+msgstr "Εμφανίζει μέρη ενός συνόλου ως τεταρτημόρια."
+
+msgid "Shows parts that build on each other, largest at the bottom."
+msgstr "Εμφανίζει μέρη που χτίζονται το ένα πάνω στο άλλο, με το μεγαλύτερο στο κάτω μέρος."
+
+msgid "Shows steps in order, left to right, with arrows between them."
+msgstr "Εμφανίζει βήματα με σειρά, από αριστερά προς τα δεξιά, με βέλη μεταξύ τους."
+
+msgid "Shows steps that repeat, around a circle."
+msgstr "Εμφανίζει βήματα που επαναλαμβάνονται, γύρω από κύκλο."
+
+msgid "Shrink Font 1 Point"
+msgstr "Σμίκρυνση γραμματοσειράς κατά 1 σημείο"
+
+msgid "Shrink text"
+msgstr "Σμίκρυνση κειμένου"
+
+msgid "Side to Side"
+msgstr "Παράθεση"
+
+msgid "Side\nto Side"
+msgstr "Παρά\nθεση"
+
+msgid "Sides of a right triangle"
+msgstr "Πλευρές ορθογωνίου τριγώνου"
+
+msgid "Signature Line"
+msgstr "Γραμμή υπογραφής"
+
+msgid "Simple Frame"
+msgstr ""
+
+msgid "Sine and cosine series of f(x)"
+msgstr "Σειρές ημιτόνου και συνημιτόνου της f(x)"
+
+msgid "Sine Function"
+msgstr "Συνάρτηση ημιτόνου"
+
+msgid "Sine theta"
+msgstr "Ημίτονο θήτα"
+
+msgid "Singapore"
+msgstr ""
+
+msgid "Single"
+msgstr "Μονό"
+
+msgid "Single Brackets"
+msgstr "Μονές αγκύλες"
+
+msgid "Single Closing Quote"
+msgstr "Μονό εισαγωγικό κλείσιμο"
+
+msgid "Single label"
+msgstr "Μία ετικέτα"
+
+msgid "Single Left Angle"
+msgstr "Μονή αριστερή γωνία"
+
+msgid "Single Left Bar"
+msgstr "Μονή αριστερή μπάρα"
+
+msgid "Single Left Brace"
+msgstr "Μονό αριστερό άγκιστρο"
+
+msgid "Single Left Bracket"
+msgstr "Μονή αριστερή αγκύλη"
+
+msgid "Single Left Parenthesis"
+msgstr "Μονή αριστερή παρένθεση"
+
+msgid "Single Opening Quote"
+msgstr "Μονό εισαγωγικό άνοιγμα"
+
+msgid "Single Right Brace"
+msgstr "Μονό δεξί άγκιστρο"
+
+msgid "Single Right Bracket"
+msgstr "Μονή δεξιά αγκύλη"
+
+msgid "Single Right Parenthesis"
+msgstr "Μονή δεξιά παρένθεση"
+
+msgid "Single Spacing"
+msgstr "Μονό διάστιχο"
+
+msgid "SIST02"
+msgstr "SIST02"
+
+msgid "Site name"
+msgstr "Όνομα τοποθεσίας"
+
+msgid "Size (pt):"
+msgstr "Μέγεθος (pt):"
+
+msgid "Size and Crop…"
+msgstr "Μέγεθος και περικοπή…"
+
+msgid "Sketchbook"
+msgstr "Σημειωματάριο σχεδίου"
+
+msgid "Skewed Fraction"
+msgstr "Κεκλιμένο κλάσμα"
+
+msgid "Skip citations & bibliography"
+msgstr "Παράλειψη παραπομπών και βιβλιογραφίας"
+
+msgid "Skip Citations and Bibliography"
+msgstr "Παράλειψη παραπομπών και βιβλιογραφίας"
+
+msgid "Skip Record If"
+msgstr "Παράλειψη εγγραφής αν"
+
+msgid "Skip Record If…"
+msgstr "Παράλειψη εγγραφής αν…"
+
+msgid "Slant Down"
+msgstr "Κλίση προς τα κάτω"
+
+msgid "Slant Up"
+msgstr "Κλίση προς τα πάνω"
+
+msgid "Slovak"
+msgstr ""
+
+msgid "Slovenian"
+msgstr ""
+
+msgid "Small caps"
+msgstr "Μικρά κεφαλαία"
+
+msgid "Small change"
+msgstr "Μικρή αλλαγή"
+
+msgid "Smart quotes instead of straight quotes"
+msgstr "Τυπογραφικά εισαγωγικά αντί για ευθέα"
+
+msgid "SmartArt"
+msgstr "SmartArt"
+
+msgid "SmartArt Design"
+msgstr "Σχεδίαση SmartArt"
+
+msgid "SmartArt Styles"
+msgstr "Στυλ SmartArt"
+
+msgid "Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once."
+msgstr "Ομαλή κύλιση και ζουμ, και μενού και κουμπιά που εμφανίζονται με ξεθώριασμα. Ανενεργό εμφανίζει κάθε αλλαγή αμέσως."
+
+msgid "Soft Edge"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr "Μαλακά άκρα"
+
+msgid "Soft Glow"
+msgstr "Απαλή λάμψη"
+
+msgid "Solid Accent"
+msgstr "Συμπαγής τόνος"
+
+msgid "Solid fill"
+msgstr "Συμπαγές γέμισμα"
+
+msgid "Sometimes"
+msgstr "Μερικές φορές"
+
+msgid "Sort by:"
+msgstr "Ταξινόμηση κατά:"
+
+msgid "Sort order:"
+msgstr "Σειρά ταξινόμησης:"
+
+msgid "Sort Recipients"
+msgstr "Ταξινόμηση παραληπτών"
+
+msgid "Source code: github.com/storytold/wordcraft"
+msgstr "Πηγαίος κώδικας: github.com/storytold/wordcraft"
+
+msgid "Source Manager"
+msgstr "Διαχείριση πηγών"
+
+msgid "Source type:"
+msgstr "Τύπος πηγής:"
+
+msgid "Sources in this document:"
+msgstr "Πηγές σε αυτό το έγγραφο:"
+
+msgid "South"
+msgstr "Νότος"
+
+msgid "South Africa"
+msgstr ""
+
+msgid "Space"
+msgstr "Διάστημα"
+
+msgid "Space after"
+msgstr "Διάστημα μετά"
+
+msgid "Space after: {pt} pt"
+msgstr "Διάστημα μετά: {pt} pt"
+
+msgid "Space before"
+msgstr "Διάστημα πριν"
+
+msgid "Space before/after:"
+msgstr "Διάστημα πριν/μετά:"
+
+msgid "Space before: {pt} pt"
+msgstr "Διάστημα πριν: {pt} pt"
+
+msgid "Spacing (pt):"
+msgstr "Απόσταση (pt):"
+
+msgid "Spain"
+msgstr ""
+
+msgid "Spanish (Latin America)"
+msgstr ""
+
+msgid "Spanish (Mexico)"
+msgstr "Ισπανικά (Μεξικό)"
+
+msgid "Spanish (Spain)"
+msgstr "Ισπανικά (Ισπανία)"
+
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+msgid "Sparse Matrices"
+msgstr "Αραιοί πίνακες"
+
+msgid "Special Characters"
+msgstr "Ειδικοί χαρακτήρες"
+
+msgid "Specify height:"
+msgstr "Καθορισμός ύψους:"
+
+msgid "Speech"
+msgstr "Ομιλία"
+
+msgid "Spelling & Grammar"
+msgstr "Ορθογραφία και γραμματική"
+
+msgid "Spelling &\nGrammar"
+msgstr "Ορθογραφία και\nγραμματική"
+
+msgid "Spelling and grammar are checked in English (United States)."
+msgstr ""
+
+msgid "Spelling and grammar are checked in {language}."
+msgstr "Η ορθογραφία και η γραμματική ελέγχονται στα {language}."
+
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
+msgstr ""
+
+msgid "Spelling Suggestions"
+msgstr "Ορθογραφικές προτάσεις"
+
+msgid "Spike"
+msgstr "Συλλογή"
+
+msgid "Split Cells"
+msgstr "Διαίρεση κελιών"
+
+msgid "Split Table"
+msgstr "Διαίρεση πίνακα"
+
+msgid "Spreadsheet Table"
+msgstr "Πίνακας υπολογιστικού φύλλου"
+
+msgid "Square Root"
+msgstr "Τετραγωνική ρίζα"
+
+msgid "Square Root with Degree"
+msgstr "Ρίζα με δείκτη"
+
+msgid "Square Union"
+msgstr "Τετραγωνική ένωση"
+
+msgid "Stack Object"
+msgstr "Αντικείμενο στοίβας"
+
+msgid "Stack Object (Three)"
+msgstr "Αντικείμενο στοίβας (τρία)"
+
+msgid "Stacked Bar"
+msgstr "Στοιβαγμένες ράβδοι"
+
+msgid "Stacked Column"
+msgstr "Στοιβαγμένες στήλες"
+
+msgid "Stacked Fraction"
+msgstr "Στοιβαγμένο κλάσμα"
+
+msgid "Stacked, no bar"
+msgstr "Στοιβαγμένο, χωρίς γραμμή"
+
+msgid "Standard Colors"
+msgstr "Τυπικά χρώματα"
+
+msgid "Start Enforcing Protection"
+msgstr "Έναρξη επιβολής προστασίας"
+
+msgid "Start Mail Merge"
+msgstr "Έναρξη συγχώνευσης αλληλογραφίας"
+
+msgid "Start Mail\nMerge"
+msgstr "Έναρξη συγχώνευσης\nαλληλογραφίας"
+
+msgid "Start-up"
+msgstr "Εκκίνηση"
+
+msgid "State"
+msgstr "Πολιτεία"
+
+msgid "Statement   5.50\" × 8.50\""
+msgstr "Statement   5,50\" × 8,50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
+
+msgid "Still there? I can hear you thinking."
+msgstr "Ακόμα εκεί; Σε ακούω να σκέφτεσαι."
+
+msgid "Stop Protection"
+msgstr "Διακοπή προστασίας"
+
+msgid "Stop Reading"
+msgstr "Διακοπή ανάγνωσης"
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Σταμάτησε"
+
+msgid "Straight Arrow Connector"
+msgstr "Ευθύς συνδετήρας βέλους"
+
+msgid "Straight Connector"
+msgstr "Ευθύς συνδετήρας"
+
+msgid "Stroke {n} of {total}"
+msgstr "Πινελιά {n} από {total}"
+
+msgid "Strong"
+msgstr "Έντονο"
+
+msgid "Structure Actions"
+msgstr "Ενέργειες δομής"
+
+msgid "Structures"
+msgstr "Δομές"
+
+msgid "Studio cover"
+msgstr "Εξώφυλλο Studio"
+
+msgid "Studio handbook (sample)"
+msgstr "Εγχειρίδιο Studio (δείγμα)"
+
+msgid "Style based on:"
+msgstr "Στυλ με βάση:"
+
+msgid "Style Inspector"
+msgstr "Επιθεωρητής στυλ"
+
+msgid "Style name:"
+msgstr "Όνομα στυλ:"
+
+msgid "Style Set"
+msgstr "Σύνολο στυλ"
+
+msgid "Style: APA"
+msgstr "Στυλ: APA"
+
+msgid "Style: {style}"
+msgstr "Στυλ: {style}"
+
+msgid "Styles Pane"
+msgstr "Παράθυρο στυλ"
+
+msgid "Styles Pane Position"
+msgstr ""
+
+msgid "Styles:"
+msgstr "Στυλ:"
+
+msgid "Subentry:"
+msgstr "Υποκαταχώρηση:"
+
+msgid "Submit print job"
+msgstr "Υποβολή εργασίας εκτύπωσης"
+
+msgid "Submitting print job…"
+msgstr "Υποβολή εργασίας εκτύπωσης…"
+
+msgid "Subscript-Superscript"
+msgstr "Δείκτης-εκθέτης"
+
+msgid "Subscripts and Superscripts"
+msgstr "Δείκτες και εκθέτες"
+
+msgid "Subset:"
+msgstr "Υποσύνολο:"
+
+msgid "Subtle Emphasis"
+msgstr "Διακριτική έμφαση"
+
+msgid "Subtle Reference"
+msgstr "Διακριτική αναφορά"
+
+msgid "Suggested"
+msgstr "Προτεινόμενα"
+
+msgid "Suggestions"
+msgstr ""
+
+msgid "Sum"
+msgstr "Άθροισμα"
+
+msgid "Sum of cosines"
+msgstr "Άθροισμα συνημιτόνων"
+
+msgid "Sum or difference of sines"
+msgstr "Άθροισμα ή διαφορά ημιτόνων"
+
+msgid "Summation"
+msgstr "Άθροιση"
+
+msgid "Summation from 0 to n"
+msgstr "Άθροιση από 0 έως n"
+
+msgid "Summation over binomials"
+msgstr "Άθροιση διωνυμικών"
+
+msgid "Summation with Limits"
+msgstr "Άθροιση με όρια"
+
+msgid "Summation with Lower Limit"
+msgstr "Άθροιση με κάτω όριο"
+
+msgid "Summation with Subscript Limit"
+msgstr "Άθροιση με όριο δείκτη"
+
+msgid "Summation with Subscript-Superscript Limits"
+msgstr "Άθροιση με όρια δείκτη-εκθέτη"
+
+msgid "Summations"
+msgstr "Αθροίσεις"
+
+msgid "Suppress line numbers"
+msgstr "Καταστολή αριθμών γραμμών"
+
+msgid "Surface Integral"
+msgstr "Επιφανειακό ολοκλήρωμα"
+
+msgid "Surface Integral with Limits"
+msgstr "Επιφανειακό ολοκλήρωμα με όρια"
+
+msgid "Surface Integral with Stacked Limits"
+msgstr "Επιφανειακό ολοκλήρωμα με στοιβαγμένα όρια"
+
+msgid "Swahili"
+msgstr ""
+
+msgid "Swap footnotes and endnotes"
+msgstr "Ανταλλαγή υποσημειώσεων και σημειώσεων τέλους"
+
+msgid "Swedish"
+msgstr "Σουηδικά"
+
+msgid "Switch Modes"
+msgstr "Εναλλαγή λειτουργιών"
+
+msgid "Switch Windows"
+msgstr ""
+
+msgid "Switch\nModes"
+msgstr "Εναλλαγή\nλειτουργιών"
+
+msgid "Switch\nWindows"
+msgstr ""
+
+msgid "Switzerland"
+msgstr ""
+
+msgid "Synchronous Scrolling"
+msgstr ""
+
+msgid "Synonyms"
+msgstr "Συνώνυμα"
+
+msgid "Syria"
+msgstr ""
+
+msgctxt "numerals"
+msgid "System"
+msgstr ""
+
+msgid "System dictionary"
+msgstr ""
+
+msgid "Tab Character"
+msgstr "Χαρακτήρας στηλοθέτη"
+
+msgid "Tab character"
+msgstr "Χαρακτήρας στηλοθέτη"
+
+msgid "Tab characters"
+msgstr "Χαρακτήρες στηλοθέτη"
+
+msgid "Tab leader:"
+msgstr "Οδηγός στηλοθέτη:"
+
+msgid "Tab stop position:"
+msgstr "Θέση στάσης στηλοθέτη:"
+
+msgid "Tab stops to be cleared:"
+msgstr "Στάσεις στηλοθέτη προς εκκαθάριση:"
+
+msgid "Table Column Width"
+msgstr "Πλάτος στήλης πίνακα"
+
+msgid "Table Design"
+msgstr "Σχεδίαση πίνακα"
+
+msgid "Table direction:"
+msgstr "Κατεύθυνση πίνακα:"
+
+msgid "Table Grid"
+msgstr "Πλέγμα πίνακα"
+
+msgid "Table Layout"
+msgstr "Διάταξη πίνακα"
+
+msgid "Table of Authorities"
+msgstr "Πίνακας Νομικών Πηγών"
+
+msgid "Table of Contents"
+msgstr "Πίνακας περιεχομένων"
+
+msgid "Table of Contents Options"
+msgstr "Επιλογές πίνακα περιεχομένων"
+
+msgid "Table of Contents Styles"
+msgstr "Στυλ πίνακα περιεχομένων"
+
+msgid "Table of Figures"
+msgstr "Πίνακας σχημάτων"
+
+msgid "Table of\nContents"
+msgstr "Πίνακας\nπεριεχομένων"
+
+msgid "Table Properties"
+msgstr "Ιδιότητες πίνακα"
+
+msgid "Table Properties…"
+msgstr "Ιδιότητες πίνακα…"
+
+msgid "Table Row Height"
+msgstr "Ύψος γραμμής πίνακα"
+
+msgid "Table size"
+msgstr "Μέγεθος πίνακα"
+
+msgid "Table Style Options"
+msgstr "Επιλογές στυλ πίνακα"
+
+msgid "Table Styles"
+msgstr "Στυλ πίνακα"
+
+msgid "Tabloid   11.00\" × 17.00\""
+msgstr "Tabloid   11,00\" × 17,00\""
+
+msgid "Tabs…"
+msgstr "Στηλοθέτες…"
+
+msgid "Tabular List"
+msgstr "Πινακοποιημένη λίστα"
+
+msgid "Tag"
+msgstr "Ετικέτα"
+
+msgid "Taiwan"
+msgstr ""
+
+msgid "Take the last match on the page"
+msgstr "Λήψη τελευταίας αντιστοίχισης στη σελίδα"
+
+msgid "Take your time. The page isn't going anywhere. Neither am I. Ever."
+msgstr "Πάρτε τον χρόνο σας. Η σελίδα δεν πηγαίνει πουθενά. Ούτε εγώ. Ποτέ."
+
+msgid "Tamil"
+msgstr ""
+
+msgid "Tangent formula"
+msgstr "Τύπος εφαπτομένης"
+
+msgid "Tangent Function"
+msgstr "Συνάρτηση εφαπτομένης"
+
+msgid "TC entry fields"
+msgstr "Πεδία καταχώρησης TC"
+
+msgid "Teal"
+msgstr ""
+
+msgid "Technology"
+msgstr "Τεχνολογία"
+
+msgid "Templates and Add-ins"
+msgstr "Πρότυπα και πρόσθετα"
+
+msgid "Templates you save in your templates folder show up here."
+msgstr "Τα πρότυπα που αποθηκεύετε στον φάκελο προτύπων σας εμφανίζονται εδώ."
+
+msgid "Text Box"
+msgstr "Πλαίσιο κειμένου"
+
+msgid "Text boxes"
+msgstr "Πλαίσια κειμένου"
+
+msgid "text boxes can't go inside a text box"
+msgstr "τα πλαίσια κειμένου δεν μπορούν να μπουν μέσα σε πλαίσιο κειμένου"
+
+msgid "Text Direction"
+msgstr "Κατεύθυνση κειμένου"
+
+msgid "Text Effects"
+msgstr "Εφέ κειμένου"
+
+msgid "Text Effects and Typography"
+msgstr "Εφέ κειμένου και τυπογραφία"
+
+msgid "Text Fill"
+msgstr "Γέμισμα κειμένου"
+
+msgid "Text from File"
+msgstr "Κείμενο από αρχείο"
+
+msgid "Text Highlight Color"
+msgstr "Χρώμα επισήμανσης κειμένου"
+
+msgid "Text indent at:"
+msgstr "Εσοχή κειμένου στο:"
+
+msgid "Text of the nearest paragraph with a given style (running headers)"
+msgstr "Κείμενο της πλησιέστερης παραγράφου με δεδομένο στυλ (τρέχουσες κεφαλίδες)"
+
+msgid "Text Outline"
+msgstr "Περίγραμμα κειμένου"
+
+msgid "Text over Colon Equal"
+msgstr "Κείμενο πάνω από άνω-κάτω τελεία ίσον"
+
+msgid "Text over Equal"
+msgstr "Κείμενο πάνω από ίσον"
+
+msgid "Text Pane"
+msgstr "Παράθυρο κειμένου"
+
+msgid "Text properties only: Word's number, date and yes-no types aren't offered."
+msgstr ""
+
+msgid "Text Size"
+msgstr ""
+
+msgid "Text size"
+msgstr "Μέγεθος κειμένου"
+
+msgid "Text snaps to characters"
+msgstr "Το κείμενο προσκολλάται στους χαρακτήρες"
+
+msgid "Text to display:"
+msgstr "Κείμενο προς εμφάνιση:"
+
+msgid "Text watermark"
+msgstr ""
+
+msgid "Text Wrapping"
+msgstr "Αναδίπλωση κειμένου"
+
+msgid "Text\nBox"
+msgstr "Πλαίσιο\nκειμένου"
+
+msgid "Text\nDirection"
+msgstr "Κατεύθυνση\nκειμένου"
+
+msgid "Thai"
+msgstr ""
+
+msgid "That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on."
+msgstr "Αυτή η μορφή δεν διατηρεί τα πάντα, οπότε το έγγραφο παραμένει ανοιχτό. Αποθηκεύστε το ως έγγραφο Word (.docx) για να συνεχίσετε."
+
+msgid "That password isn't right. Check it (passwords are case-sensitive) and try again."
+msgstr "Ο κωδικός πρόσβασης δεν είναι σωστός. Ελέγξτε τον (οι κωδικοί διάκριση πεζών/κεφαλαίων) και δοκιμάστε ξανά."
+
+msgid "The clipboard is empty."
+msgstr "Το πρόχειρο είναι κενό."
+
+msgid "the Clipboard pane is empty"
+msgstr "το παράθυρο Προχείρου είναι κενό"
+
+msgid "the cursor isn't in a table"
+msgstr "ο δρομέας δεν βρίσκεται σε πίνακα"
+
+msgid "The date it is today"
+msgstr "Η σημερινή ημερομηνία"
+
+msgid "The document has no bookmarks yet."
+msgstr "Το έγγραφο δεν έχει ακόμη σελιδοδείκτες."
+
+msgid "the document is protected"
+msgstr "το έγγραφο είναι προστατευμένο"
+
+msgid "The document is read only, except for regions marked editable."
+msgstr "Το έγγραφο είναι μόνο για ανάγνωση, εκτός από περιοχές που έχουν επισημανθεί ως επεξεργάσιμες."
+
+msgid "The document or selection changed. Check again to continue."
+msgstr ""
+
+msgid "The document will be saved with a password. Save it to protect it."
+msgstr "Το έγγραφο θα αποθηκευτεί με κωδικό πρόσβασης. Αποθηκεύστε το για να το προστατεύσετε."
+
+msgid "The document you are editing keeps the names and dates; only the saved file leaves them out."
+msgstr "Το έγγραφο που επεξεργάζεστε διατηρεί τα ονόματα και τις ημερομηνίες· μόνο το αποθηκευμένο αρχείο τα παραλείπει."
+
+msgid "The margins don't fit on a page this size; make the margins smaller first."
+msgstr "Τα περιθώρια δεν χωρούν σε σελίδα αυτού του μεγέθους· μειώστε πρώτα τα περιθώρια."
+
+msgid "The measurement must be between {min} and {max}."
+msgstr "Η μέτρηση πρέπει να είναι μεταξύ {min} και {max}."
+
+msgid "The new style takes the formatting of the current paragraph."
+msgstr "Το νέο στυλ λαμβάνει τη μορφοποίηση της τρέχουσας παραγράφου."
+
+msgid "The Normal template couldn't be read, so this document uses WordCraft's built-in formatting."
+msgstr ""
+
+msgid "The number must be a divisor of {max}."
+msgstr ""
+
+msgid "The number must be between 1 and {max}."
+msgstr "Ο αριθμός πρέπει να είναι μεταξύ 1 και {max}."
+
+msgid "the paragraph is empty"
+msgstr "η παράγραφος είναι κενή"
+
+msgid "the paragraph starts with a space"
+msgstr "η παράγραφος ξεκινά με κενό"
+
+msgid "The password is optional; without it anyone can stop the protection."
+msgstr "Ο κωδικός πρόσβασης είναι προαιρετικός· χωρίς αυτόν, ο καθένας μπορεί να σταματήσει την προστασία."
+
+msgid "The password is removed. Save the document to keep the change."
+msgstr "Ο κωδικός πρόσβασης αφαιρέθηκε. Αποθηκεύστε το έγγραφο για να διατηρήσετε την αλλαγή."
+
+msgid "The printer, two-sided printing and pages per sheet are chosen in that dialog."
+msgstr "Ο εκτυπωτής, η αμφίπλευρη εκτύπωση και οι σελίδες ανά φύλλο επιλέγονται σε εκείνο το παράθυρο διαλόγου."
+
+msgid "The recipient-list field that fills each part of an address block and greeting line."
+msgstr "Το πεδίο λίστας παραληπτών που συμπληρώνει κάθε μέρος ενός μπλοκ διευθύνσεων και γραμμής χαιρετισμού."
+
+msgid "The spelling and grammar check is complete."
+msgstr "Ο ορθογραφικός και γραμματικός έλεγχος ολοκληρώθηκε."
+
+msgid "The spelling and hyphenation data WordCraft uses, and their licences."
+msgstr ""
+
+msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
+msgstr ""
+
+msgid "the Spike is empty"
+msgstr "η συλλογή είναι κενή"
+
+msgid "The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity."
+msgstr "Το παράθυρο διαλόγου αρχείου του συστήματος δεν είναι διαθέσιμο, οπότε το WordCraft εμφανίζει το δικό του. Για το παράθυρο του συστήματος, εγκαταστήστε μια πύλη επιλογής αρχείων (όπως xdg-desktop-portal-gtk) ή zenity."
+
+msgid "The text at the insertion point is marked Do not check spelling or grammar."
+msgstr "Το κείμενο στο σημείο εισαγωγής είναι επισημασμένο ως Να μην γίνεται ορθογραφικός ή γραμματικός έλεγχος."
+
+msgid "The time right now"
+msgstr "Η τρέχουσα ώρα"
+
+msgid "The {language} dictionary couldn't be downloaded: {error}"
+msgstr ""
+
+msgid "The {language} dictionary is installed."
+msgstr ""
+
+msgid "Theme Colors"
+msgstr "Χρώματα θέματος"
+
+msgid "Theme Fonts"
+msgstr "Γραμματοσειρές θέματος"
+
+msgid "Theme List"
+msgstr "Λίστα θεμάτων"
+
+msgid "Themes"
+msgstr "Θέματα"
+
+msgid "Then by"
+msgstr "Έπειτα κατά"
+
+msgid "Then insert:"
+msgstr "Τότε εισάγετε:"
+
+msgid "There are no macros yet. Record one to add it here."
+msgstr ""
+
+msgid "there is no ink to replay"
+msgstr "δεν υπάρχει μελάνι για αναπαραγωγή"
+
+msgid "there is nothing to undo"
+msgstr "δεν υπάρχει τίποτα για αναίρεση"
+
+msgid "there's no citation after the caret"
+msgstr "δεν υπάρχει παραπομπή μετά τον δρομέα"
+
+msgid "Thesaurus"
+msgstr "Θησαυρός"
+
+msgid "These marks show even when Show/Hide ¶ is off."
+msgstr "Αυτά τα σημάδια εμφανίζονται ακόμη και όταν η Εμφάνιση/απόκρυψη ¶ είναι ανενεργή."
+
+msgid "These merge fields aren't in the recipient list:"
+msgstr "Αυτά τα πεδία συγχώνευσης δεν βρίσκονται στη λίστα παραληπτών:"
+
+msgid "These settings will be used for new documents."
+msgstr "Αυτές οι ρυθμίσεις θα χρησιμοποιηθούν για νέα έγγραφα."
+
+msgid "Thick"
+msgstr "Παχύ"
+
+msgid "Thick Frame"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This cannot be undone. Your original file stays unchanged."
+msgstr ""
+
+msgid "this chart was made in another program: WordCraft shows it but can't edit it"
+msgstr "αυτό το γράφημα δημιουργήθηκε σε άλλο πρόγραμμα: το WordCraft το εμφανίζει αλλά δεν μπορεί να το επεξεργαστεί"
+
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
+msgid "This document"
+msgstr "Αυτό το έγγραφο"
+
+msgid "This document has no custom properties."
+msgstr ""
+
+msgid "This document only?"
+msgstr ""
+
+msgid "This field has no options."
+msgstr "Αυτό το πεδίο δεν έχει επιλογές."
+
+msgid "This folder can't be read: {error}"
+msgstr "Δεν είναι δυνατή η ανάγνωση αυτού του φακέλου: {error}"
+
+msgid "This font has no characters to show."
+msgstr "Αυτή η γραμματοσειρά δεν έχει χαρακτήρες για εμφάνιση."
+
+msgid "this item is already at the top level"
+msgstr "αυτό το στοιχείο βρίσκεται ήδη στο ανώτατο επίπεδο"
+
+msgid "This page"
+msgstr "Αυτή η σελίδα"
+
+msgid "This password type isn't supported."
+msgstr "Αυτός ο τύπος κωδικού πρόσβασης δεν υποστηρίζεται."
+
+msgid "This point forward"
+msgstr "Από αυτό το σημείο και μετά"
+
+msgid "This section"
+msgstr "Αυτή η ενότητα"
+
+msgid "this session has no Normal template (headless or without preferences)"
+msgstr ""
+
+msgid "this session has no Normal template (headless or without preferences): use \"scope\": \"document\""
+msgstr ""
+
+msgid "this SmartArt was made in another program: WordCraft shows it but can't edit it"
+msgstr "αυτό το SmartArt δημιουργήθηκε σε άλλο πρόγραμμα: το WordCraft το εμφανίζει αλλά δεν μπορεί να το επεξεργαστεί"
+
+msgid "this text box is already linked: break the link first"
+msgstr "αυτό το πλαίσιο κειμένου είναι ήδη συνδεδεμένο: σπάστε πρώτα τη σύνδεση"
+
+msgid "Three"
+msgstr "Τρία"
+
+msgid "Through"
+msgstr "Διαμπερές"
+
+msgid "Tight"
+msgstr "Στενό"
+
+msgid "Tilde"
+msgstr "Tilde"
+
+msgid "Tip"
+msgstr "Συμβουλή"
+
+msgid "Tips ({n})"
+msgstr "Συμβουλές ({n})"
+
+msgctxt "preview"
+msgid "Title"
+msgstr "Παράδειγμα"
+
+msgid "Title Bar"
+msgstr "Γραμμή τίτλου"
+
+msgid "Title from the document properties"
+msgstr "Τίτλος από τις ιδιότητες εγγράφου"
+
+msgid "Title:"
+msgstr "Τίτλος:"
+
+msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
+msgstr "Για να ανοίγετε έγγραφα Word με το WordCraft από προεπιλογή: επιλέξτε ένα στο Finder, επιλέξτε Αρχείο › Πληροφορίες, επιλέξτε WordCraft στο «Άνοιγμα με» και μετά κάντε κλικ στο «Αλλαγή όλων»."
+
+msgid "To:"
+msgstr "Προς:"
+
+msgid "TOA Heading"
+msgstr "Επικεφαλίδα πίνακα αρχών"
+
+msgid "TOC Heading"
+msgstr "Επικεφαλίδα πίνακα περιεχομένων"
+
+msgid "TOC {n}"
+msgstr "Πίνακας περιεχομένων {n}"
+
+msgid "Today"
+msgstr "Σήμερα"
+
+msgid "tOGGLE cASE"
+msgstr "εΝΑΛΛΑΓΗ ΠΕΖΩΝ/ΚΕΦΑΛΑΙΩΝ"
+
+msgid "Toggle Check Box"
+msgstr "Εναλλαγή πλαισίου ελέγχου"
+
+msgid "Toggle Field Codes"
+msgstr "Εναλλαγή κωδικών πεδίων"
+
+msgid "Toggle Unicode Character"
+msgstr "Εναλλαγή χαρακτήρα Unicode"
+
+msgid "Top and Bottom"
+msgstr "Πάνω και κάτω"
+
+msgid "Top Border"
+msgstr "Πάνω περίγραμμα"
+
+msgid "Top Left Cell"
+msgstr "Πάνω αριστερό κελί"
+
+msgid "Top Margin"
+msgstr "Πάνω περιθώριο"
+
+msgid "Top of Page"
+msgstr "Αρχή σελίδας"
+
+msgid "Top of the Document"
+msgstr ""
+
+msgid "Top Right Cell"
+msgstr "Πάνω δεξί κελί"
+
+msgid "Total Row"
+msgstr "Γραμμή συνόλου"
+
+msgid "Track Changes"
+msgstr "Παρακολούθηση αλλαγών"
+
+msgid "Track Changes Options"
+msgstr "Επιλογές παρακολούθησης αλλαγών"
+
+msgid "Track Changes: On"
+msgstr "Παρακολούθηση αλλαγών: Ενεργή"
+
+msgid "Track formatting"
+msgstr "Παρακολούθηση μορφοποίησης"
+
+msgid "Track\nChanges"
+msgstr "Παρακολούθηση\nαλλαγών"
+
+msgid "Track\nChanges ✓"
+msgstr "Παρακολούθηση\nαλλαγών ✓"
+
+msgid "Tracked changes"
+msgstr "Παρακολουθούμενες αλλαγές"
+
+msgid "Trademark"
+msgstr "Εμπορικό σήμα"
+
+msgid "Trademark Sign"
+msgstr "Σύμβολο εμπορικού σήματος"
+
+msgid "Transparency:"
+msgstr ""
+
+msgid "Transport"
+msgstr "Μεταφορά"
+
+msgid "Triangle Down"
+msgstr "Τρίγωνο κάτω"
+
+msgid "Triangle Up"
+msgstr "Τρίγωνο πάνω"
+
+msgid "Trigonometric Functions"
+msgstr "Τριγωνομετρικές συναρτήσεις"
+
+msgid "Triple"
+msgstr "Τριπλό"
+
+msgid "Triple Dot"
+msgstr "Τρεις τελείες"
+
+msgid "Triple Integral"
+msgstr "Τριπλό ολοκλήρωμα"
+
+msgid "Triple Integral with Limits"
+msgstr "Τριπλό ολοκλήρωμα με όρια"
+
+msgid "Triple Integral with Stacked Limits"
+msgstr "Τριπλό ολοκλήρωμα με στοιβαγμένα όρια"
+
+msgid "Trust Center"
+msgstr "Κέντρο αξιοπιστίας"
+
+msgid "Tue"
+msgstr "Τρί"
+
+msgid "Turabian"
+msgstr "Turabian"
+
+msgid "Turkish"
+msgstr "Τουρκικά"
+
+msgid "turn on View Side by Side first"
+msgstr ""
+
+msgid "Turquoise"
+msgstr ""
+
+msgid "Two"
+msgstr "Δύο"
+
+msgid "Two-sided printing"
+msgstr "Αμφίπλευρη εκτύπωση"
+
+msgid "Two-sided: long edge"
+msgstr "Αμφίπλευρη: μακριά άκρη"
+
+msgid "Two-sided: short edge"
+msgstr "Αμφίπλευρη: κοντή άκρη"
+
+msgid "Type +2 or -1 to move from the page you are on."
+msgstr "Πληκτρολογήστε +2 ή -1 για να μετακινηθείτε από την τρέχουσα σελίδα."
+
+msgid "Type a command, e.g. \"insert table\""
+msgstr "Πληκτρολογήστε εντολή, π.χ. \"εισαγωγή πίνακα\""
+
+msgid "Type a New List…"
+msgstr "Πληκτρολογήστε νέα λίστα…"
+
+msgid "Type a page number, or +2 / -1."
+msgstr "Πληκτρολογήστε αριθμό σελίδας ή +2 / -1."
+
+msgid "Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions."
+msgstr "Πληκτρολογήστε μέγεθος σε οποιαδήποτε μονάδα, όπως 5 cm ή 300 px. Η άλλη πλευρά ακολουθεί, ώστε η εικόνα να διατηρεί τις αναλογίες της."
+
+msgid "Type at least one recipient."
+msgstr "Πληκτρολογήστε τουλάχιστον έναν παραλήπτη."
+
+msgid "Type Character Code"
+msgstr "Πληκτρολόγηση κωδικού χαρακτήρα"
+
+msgid "Type equations in LaTeX"
+msgstr "Πληκτρολόγηση εξισώσεων σε LaTeX"
+
+msgid "Type equations in the linear format (UnicodeMath)"
+msgstr "Πληκτρολόγηση εξισώσεων σε γραμμική μορφή (UnicodeMath)"
+
+msgid "Type in Equation"
+msgstr "Πληκτρολόγηση στην εξίσωση"
+
+msgid "Type normal (non-math) text in the equation"
+msgstr "Πληκτρολόγηση κανονικού (μη μαθηματικού) κειμένου στην εξίσωση"
+
+msgid "Type Text"
+msgstr "Πληκτρολόγηση κειμένου"
+
+msgid "Type the categories down the side and a column of values per series."
+msgstr "Πληκτρολογήστε τις κατηγορίες στην πλαϊνή στήλη και μια στήλη τιμών ανά σειρά."
+
+msgid "Type the field's name and its switches, for example PAGE \\* roman."
+msgstr "Πληκτρολογήστε το όνομα του πεδίου και τους διακόπτες του, για παράδειγμα PAGE \\* roman."
+
+msgid "Type the password to stop the protection."
+msgstr "Πληκτρολογήστε τον κωδικό πρόσβασης για να σταματήσετε την προστασία."
+
+msgid "Type the recipients, or load them from a file."
+msgstr "Πληκτρολογήστε τους παραλήπτες ή φορτώστε τους από αρχείο."
+
+msgid "Typing replaces selected text"
+msgstr "Η πληκτρολόγηση αντικαθιστά το επιλεγμένο κείμενο"
+
+msgid "U.A.E."
+msgstr ""
+
+msgid "Ukraine"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr "Ουκρανικά"
+
+msgid "Unchecked symbol"
+msgstr "Μη επιλεγμένο σύμβολο"
+
+msgid "Underbar"
+msgstr "Μπάρα κάτω"
+
+msgid "Underbrace"
+msgstr "Άγκιστρο κάτω"
+
+msgid "Underline Color"
+msgstr "Χρώμα υπογράμμισης"
+
+msgid "Underline color"
+msgstr "Χρώμα υπογράμμισης"
+
+msgid "Underline Words Only"
+msgstr "Υπογράμμιση μόνο λέξεων"
+
+msgid "Undo 1 Action"
+msgstr "Αναίρεση 1 ενέργειας"
+
+msgid "Undo Actions"
+msgstr "Αναίρεση ενεργειών"
+
+msgid "Undo History"
+msgstr "Ιστορικό αναιρέσεων"
+
+msgid "Undo {n} Actions"
+msgstr "Αναίρεση {n} ενεργειών"
+
+msgid "Undo, undo, undo… we're time travelling now."
+msgstr "Αναίρεση, αναίρεση, αναίρεση… τώρα ταξιδεύουμε στον χρόνο."
+
+msgid "Unformatted Text"
+msgstr "Μη μορφοποιημένο κείμενο"
+
+msgid "Union of intersections"
+msgstr "Ένωση τομών"
+
+msgid "Union with Limits"
+msgstr "Ένωση με όρια"
+
+msgid "Union with Lower Limit"
+msgstr "Ένωση με κάτω όριο"
+
+msgid "Union with Plus"
+msgstr "Ένωση με συν"
+
+msgid "Union with Subscript-Superscript Limits"
+msgstr "Ένωση με όρια δείκτη-εκθέτη"
+
+msgid "Unions and Intersections"
+msgstr "Ενώσεις και τομές"
+
+msgid "United Kingdom"
+msgstr ""
+
+msgid "United States"
+msgstr ""
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
+msgid "Unlink Fields"
+msgstr "Αποσύνδεση πεδίων"
+
+msgid "Unlink\nCitations"
+msgstr "Αποσύνδεση\nπαραπομπών"
+
+msgid "Unlock Fields"
+msgstr "Ξεκλείδωμα πεδίων"
+
+msgid "Up Diagonal Dots"
+msgstr "Ανοδικές διαγώνιες κουκκίδες"
+
+msgid "Up one level"
+msgstr "Ένα επίπεδο πάνω"
+
+msgid "Update check is not supported in the web browser."
+msgstr ""
+
+msgid "Update Field"
+msgstr "Ενημέρωση πεδίου"
+
+msgid "Update fields before printing"
+msgstr "Ενημέρωση πεδίων πριν από την εκτύπωση"
+
+msgid "Update Index"
+msgstr "Ενημέρωση ευρετηρίου"
+
+msgid "Update Style to Match Selection"
+msgstr "Ενημέρωση στυλ για αντιστοίχιση με την επιλογή"
+
+msgid "Update Styles from Template"
+msgstr "Ενημέρωση στυλ από πρότυπο"
+
+msgid "Update Table"
+msgstr "Ενημέρωση πίνακα"
+
+msgid "Update Table of Figures"
+msgstr "Ενημέρωση πίνακα σχημάτων"
+
+msgid "Update to Match"
+msgstr "Ενημέρωση για αντιστοίχιση"
+
+msgid "Update to Match Selection"
+msgstr "Ενημέρωση για αντιστοίχιση με την επιλογή"
+
+msgid "URGENT"
+msgstr "ΕΠΕΙΓΟΝ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Uruguay"
+msgstr ""
+
+msgid "Use \"a\" before a consonant sound"
+msgstr "Χρήση \"a\" πριν από σύμφωνο"
+
+msgid "Use \"an\" before a vowel sound"
+msgstr "Χρήση \"an\" πριν από φωνήεν"
+
+msgid "Use an Existing List…"
+msgstr "Χρήση υπάρχουσας λίστας…"
+
+msgid "Use system setting"
+msgstr "Χρήση ρύθμισης συστήματος"
+
+msgid "Use the browser's full screen (F11)"
+msgstr "Χρήση πλήρους οθόνης προγράμματος περιήγησης (F11)"
+
+msgid "Use the current style set and theme for all new documents?"
+msgstr ""
+
+msgid "Use the Insert key to switch overtype on and off"
+msgstr "Χρήση του πλήκτρου Insert για ενεργοποίηση/απενεργοποίηση αντικατάστασης"
+
+msgid "Use this formatting as the default for:"
+msgstr ""
+
+msgid "Use wildcards"
+msgstr "Χρήση μπαλαντέρ"
+
+msgid "User Name"
+msgstr "Όνομα χρήστη"
+
+msgid "User name:"
+msgstr "Όνομα χρήστη:"
+
+msgid "User templates:"
+msgstr "Πρότυπα χρήστη:"
+
+msgid "Vector A"
+msgstr "Διάνυσμα A"
+
+msgid "Vector AB"
+msgstr "Διάνυσμα AB"
+
+msgid "Venezuela"
+msgstr ""
+
+msgid "Version History"
+msgstr "Ιστορικό εκδόσεων"
+
+msgid "Version {version} ({build})"
+msgstr "Έκδοση {version} ({build})"
+
+msgid "Vertical alignment:"
+msgstr "Κατακόρυφη στοίχιση:"
+
+msgid "Vertical Bars"
+msgstr "Κάθετες μπάρες"
+
+msgid "Vertical Dots"
+msgstr "Κατακόρυφες κουκκίδες"
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "View Alt Text…"
+msgstr "Προβολή εναλλακτικού κειμένου…"
+
+msgid "View and edit the document's custom properties."
+msgstr ""
+
+msgid "View Gridlines"
+msgstr "Προβολή γραμμών πλέγματος"
+
+msgid "View Side by Side"
+msgstr ""
+
+msgid "View State"
+msgstr "Κατάσταση προβολής"
+
+msgid "View › Focus hides everything but your words. I'll wait outside."
+msgstr "Η Προβολή › Εστίαση κρύβει τα πάντα εκτός από τις λέξεις σας. Θα περιμένω έξω."
+
+msgid "Viewing"
+msgstr ""
+
+msgid "Viewing — view the file but make no changes"
+msgstr ""
+
+msgid "Views"
+msgstr "Προβολές"
+
+msgid "Visual effects"
+msgstr "Οπτικά εφέ"
+
+msgid "Vivid 200%"
+msgstr ""
+
+msgid "Volume"
+msgstr "Ένταση"
+
+msgid "Volume Integral"
+msgstr "Ολοκλήρωμα όγκου"
+
+msgid "Volume Integral with Limits"
+msgstr "Ολοκλήρωμα όγκου με όρια"
+
+msgid "Volume Integral with Stacked Limits"
+msgstr "Ολοκλήρωμα όγκου με στοιβαγμένα όρια"
+
+msgid "Wait for the print job to finish submitting before closing."
+msgstr "Περιμένετε να ολοκληρωθεί η υποβολή της εργασίας εκτύπωσης πριν κλείσετε."
+
+msgid "Waiting for the save to finish…"
+msgstr "Αναμονή ολοκλήρωσης αποθήκευσης…"
+
+msgid "Waiting for Zotero…"
+msgstr "Αναμονή για Zotero…"
+
+msgid "Warm Gradient with Outline"
+msgstr "Ζεστή διαβάθμιση με περίγραμμα"
+
+msgid "Warnings ({n})"
+msgstr "Προειδοποιήσεις ({n})"
+
+msgid "Washout"
+msgstr ""
+
+msgid "Weather"
+msgstr "Καιρός"
+
+msgid "Web Layout"
+msgstr "Διάταξη ιστού"
+
+msgid "Web page (*.html)"
+msgstr "Ιστοσελίδα (*.html)"
+
+msgid "Web\nLayout"
+msgstr "Διάταξη\nιστού"
+
+msgid "Wed"
+msgstr "Τετ"
+
+msgid "Welsh"
+msgstr ""
+
+msgid "West"
+msgstr "Δύση"
+
+msgid "When this document was first created"
+msgstr "Όταν δημιουργήθηκε για πρώτη φορά αυτό το έγγραφο"
+
+msgid "When this document was most recently printed"
+msgstr "Όταν εκτυπώθηκε τελευταία φορά αυτό το έγγραφο"
+
+msgid "When this document was most recently saved"
+msgstr "Όταν αποθηκεύτηκε τελευταία φορά αυτό το έγγραφο"
+
+msgid "White Space"
+msgstr "Κενός χώρος"
+
+msgid "White space"
+msgstr "Κενά διαστήματα"
+
+msgid "Who the document properties name as author"
+msgstr "Ποιος αναφέρεται ως συγγραφέας στις ιδιότητες εγγράφου"
+
+msgid "Whole document"
+msgstr "Ολόκληρο το έγγραφο"
+
+msgid "Whole page"
+msgstr "Ολόκληρη σελίδα"
+
+msgid "Whole Table"
+msgstr "Ολόκληρος πίνακας"
+
+msgid "Whole words"
+msgstr "Ολόκληρες λέξεις"
+
+msgid "Wide"
+msgstr "Πλατύ"
+
+msgid "Widow/Orphan Control"
+msgstr "Έλεγχος χήρας/ορφανού"
+
+msgid "Widow/Orphan control"
+msgstr "Έλεγχος χήρας/ορφανού"
+
+msgid "Width and spacing"
+msgstr "Πλάτος και διάστημα"
+
+msgid "Wildcards (regex)"
+msgstr "Μπαλαντέρ (regex)"
+
+msgid "With:"
+msgstr "Με:"
+
+msgid "Word 2003 XML Document (*.xml)"
+msgstr "Έγγραφο Word 2003 XML (*.xml)"
+
+msgid "Word Count"
+msgstr "Μέτρηση λέξεων"
+
+msgid "Word document"
+msgstr "Έγγραφο Word"
+
+msgid "Word document (*.docx)"
+msgstr "Έγγραφο Word (*.docx)"
+
+msgid "Word Left"
+msgstr "Λέξη αριστερά"
+
+msgid "Word level"
+msgstr "Επίπεδο λέξης"
+
+msgid "Word Right"
+msgstr "Λέξη δεξιά"
+
+msgid "Word sources"
+msgstr ""
+
+msgid "Word XML Document (*.xml)"
+msgstr "Έγγραφο Word XML (*.xml)"
+
+msgid "WordArt"
+msgstr "WordArt"
+
+msgid "WordArt Styles"
+msgstr "Στυλ WordArt"
+
+msgid "WordCraft"
+msgstr "WordCraft"
+
+msgid "WordCraft is now the default app for Word documents."
+msgstr "Το WordCraft είναι πλέον η προεπιλεγμένη εφαρμογή για έγγραφα Word."
+
+msgid "WordCraft {version} is currently the newest version available."
+msgstr ""
+
+msgid "Words only"
+msgstr "Μόνο λέξεις"
+
+msgid "Wrap Text"
+msgstr "Αναδίπλωση κειμένου"
+
+msgid "Wrap Text Sides"
+msgstr "Πλευρές αναδίπλωσης κειμένου"
+
+msgid "Wrap\nText"
+msgstr "Αναδίπλωση\nκειμένου"
+
+msgid "Write & Insert Fields"
+msgstr "Εγγραφή και εισαγωγή πεδίων"
+
+msgid "Write a reply"
+msgstr "Γράψτε απάντηση"
+
+msgid "Writer's block? I find staring at the cursor helps. It's been blinking at me for years."
+msgstr "Μπλοκάρισμα συγγραφέα; Εγώ βρίσκω ότι βοηθά να κοιτάζω τον δρομέα. Μου αναβοσβήνει για χρόνια."
+
+msgid "x bar"
+msgstr "x με μπάρα"
+
+msgid "Year"
+msgstr "Έτος"
+
+msgid "Yields"
+msgstr "Αποδίδει"
+
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
+msgid "You haven't saved in a while, and AutoSave is off. Save now?"
+msgstr "Δεν έχετε αποθηκεύσει εδώ και λίγο και η αυτόματη αποθήκευση είναι ανενεργή. Αποθήκευση τώρα;"
+
+msgid "You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text."
+msgstr "Ξεκινήσατε λίστα. Πατήστε Enter δύο φορές για να την τερματίσετε ή Backspace στην αρχή στοιχείου για να το μετατρέψετε ξανά σε κείμενο."
+
+msgid "Your document is now the most saved document in history."
+msgstr "Το έγγραφό σας είναι τώρα το πιο αποθηκευμένο έγγραφο στην ιστορία."
+
+msgid "Your languages"
+msgstr ""
+
+msgid "Your own dictionary"
+msgstr ""
+
+msgid "Your system doesn't report an animation setting, so animation effects stay on."
+msgstr "Το σύστημά σας δεν αναφέρει ρύθμιση κίνησης, οπότε τα εφέ κίνησης παραμένουν ενεργά."
+
+msgid "Your system has animation effects turned off."
+msgstr "Το σύστημά σας έχει απενεργοποιημένα τα εφέ κίνησης."
+
+msgid "Your system has animation effects turned on."
+msgstr "Το σύστημά σας έχει ενεργοποιημένα τα εφέ κίνησης."
+
+msgid "Zotero"
+msgstr "Zotero"
+
+msgid "Zotero: cancelled"
+msgstr "Zotero: ακυρώθηκε"
+
+msgid "Zotero: done"
+msgstr "Zotero: ολοκληρώθηκε"
+
+msgid "{added}; {count} couldn't be read: {names}"
+msgstr "{added}; {count} δεν ήταν δυνατή η ανάγνωση: {names}"
+
+msgid "{added}; {n} skipped (limit {max})"
+msgstr "{added}; {n} παραλείφθηκαν (όριο {max})"
+
+msgid "{cols}×{rows} Table"
+msgstr "Πίνακας {cols}×{rows}"
+
+msgid "{contributors} contributors · {commits} commits"
+msgstr "Συνεισφέροντες: {contributors} · commits: {commits}"
+
+msgid "{count} items highlighted"
+msgstr "{count} στοιχεία επισημάνθηκαν"
+
+msgid "{count} of {total} pages will print"
+msgstr "{count} από {total} σελίδες θα εκτυπωθούν"
+
+msgid "{count} of {total} recipients will be merged."
+msgstr "{count} από {total} παραλήπτες θα συγχωνευτούν."
+
+msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
+
+msgid "{group} settings"
+msgstr "Ρυθμίσεις {group}"
+
+msgid "{key} checks the spelling and grammar of the whole document."
+msgstr "Το {key} ελέγχει την ορθογραφία και τη γραμματική ολόκληρου του εγγράφου."
+
+msgid "{key} counts your words, characters and paragraphs."
+msgstr "Το {key} μετρά λέξεις, χαρακτήρες και παραγράφους."
+
+msgid "{key} finds and replaces text, formatting and special characters."
+msgstr "Το {key} βρίσκει και αντικαθιστά κείμενο, μορφοποίηση και ειδικούς χαρακτήρες."
+
+msgid "{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps."
+msgstr "Το {key} επαναλαμβάνει την τελευταία σας ενέργεια. Η μορφοποίηση δέκα επικεφαλίδων γίνεται ξαφνικά ένα κλικ και εννέα πατήματα."
+
+msgid "{key} starts a new line without starting a new paragraph."
+msgstr "Το {key} ξεκινά νέα γραμμή χωρίς νέα παράγραφο."
+
+msgid "{key} starts a new page. Much tidier than pressing Enter until it happens."
+msgstr "Το {key} ξεκινά νέα σελίδα. Πολύ πιο τακτοποιημένο από το πάτημα Enter μέχρι να συμβεί."
+
+msgid "{key} turns the selected text into a link."
+msgstr "Το {key} μετατρέπει το επιλεγμένο κείμενο σε σύνδεσμο."
+
+msgid "{key}+Click to follow link"
+msgstr "{key}+κλικ για να ακολουθήσετε τον σύνδεσμο"
+
+msgid "{kind}, {columns} × {rows}, {size} ({paper})"
+msgstr "{kind}, {columns} × {rows}, {size} ({paper})"
+
+msgid "{language} (default)"
+msgstr ""
+
+msgid "{language} (dictionary unreadable)"
+msgstr ""
+
+msgid "{language} (no dictionary)"
+msgstr "{language} (χωρίς λεξικό)"
+
+msgid "{language} ({region})"
+msgstr ""
+
+msgid "{language} is now the document's default language."
+msgstr "Τα {language} είναι πλέον η προεπιλεγμένη γλώσσα του εγγράφου."
+
+msgid "{language} proofing isn't installed."
+msgstr ""
+
+msgid "{language}: no dictionary found"
+msgstr "{language}: δεν βρέθηκε λεξικό"
+
+msgid "{language}: WordCraft doesn't check spelling or grammar in this language yet."
+msgstr "{language}: Το WordCraft δεν ελέγχει ακόμη ορθογραφία ή γραμματική σε αυτή τη γλώσσα."
+
+msgid "{language}: {file}"
+msgstr "{language}: {file}"
+
+msgid "{language}: {file} (unreadable: {reason})"
+msgstr ""
+
+msgid "{names} and {n} more"
+msgstr "{names} και {n} ακόμη"
+
+msgid "{name}   {height} × {width} in"
+msgstr "{name}   {height} × {width} ίντσες"
+
+msgid "{name}   {height} × {width} mm"
+msgstr "{name}   {height} × {width} mm"
+
+msgid "{name} already exists. Choose Save again to replace it."
+msgstr "Το {name} υπάρχει ήδη. Επιλέξτε ξανά Αποθήκευση για αντικατάσταση."
+
+msgid "{name} is protected with a password."
+msgstr "Το {name} είναι προστατευμένο με κωδικό πρόσβασης."
+
+msgid "{name} options"
+msgstr "Επιλογές {name}"
+
+msgid "{name} wasn't found."
+msgstr "Το {name} δεν βρέθηκε."
+
+msgid "{n} entries marked."
+msgstr "{n} καταχωρήσεις επισημάνθηκαν."
+
+msgid "{n} KB"
+msgstr ""
+
+msgid "{n} lines"
+msgstr "{n} γραμμές"
+
+msgid "{n} MB"
+msgstr ""
+
+msgid "{n} pt"
+msgstr "{n} pt"
+
+msgid "{paper}   {width} × {height}"
+msgstr ""
+
+msgid "{selected} of {words} words"
+msgstr "{selected} από {words} λέξεις"
+
+msgid "{size} pt"
+msgstr "{size} pt"
+
+msgid "{width} × {height} mm"
+msgstr "{width} × {height} mm"
+
+msgid "{width} × {height} pixels"
+msgstr "{width} × {height} pixel"
+
+msgid "{words} words"
+msgstr "{words} λέξεις"
+
+msgid "{words} words and counting. Literally. I'm counting."
+msgstr "{words} λέξεις και μετράμε. Κυριολεκτικά. Μετράω."
+
+msgid "{words} words! I'd throw confetti but I'd have to clean it up."
+msgstr "{words} λέξεις! Θα πετούσα κομφετί, αλλά θα έπρεπε να τα μαζέψω."
+
+msgid "{words} words. That's {words} more than I've written today."
+msgstr "{words} λέξεις. Αυτές είναι {words} περισσότερες από όσες έγραψα εγώ σήμερα."
+
+msgid "“{text}” ({row}, {series}) isn't a number."
+msgstr "Το «{text}» ({row}, {series}) δεν είναι αριθμός."
+
+msgid "✓ None"
+msgstr "✓ Κανένα"
+
+msgid "➕ New comment"
+msgstr "➕ Νέο σχόλιο"
+
+msgid "📂  Browse…"
+msgstr "📂  Περιήγηση…"
